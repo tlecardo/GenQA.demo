@@ -2,11 +2,11 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const path = require('path');
 
 module.exports = {
-  entry: 'index.js',
+  entry: './src/index.js',
   mode: 'development',
   output: {
     path: path.resolve(__dirname, './dist'),
-    filename: 'index_bundle.js',
+    filename: 'index_bundle.js'
   },
   target: 'web',
   devServer: {
@@ -30,9 +30,12 @@ module.exports = {
       },
       {
         test: /\.css$/,
-        use: ['css-loader']
+        use: ['style-loader', 'css-loader']
       }
     ],
+  },
+  devServer: {
+    historyApiFallback: true,
   },
   plugins: [
     new HtmlWebpackPlugin({
