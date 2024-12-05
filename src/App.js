@@ -26,7 +26,7 @@ function App() {
         <Header />
         <Routes>
           {routes.map((route, index) => (
-            <Route key={index} path={route.path} element={route.element} />
+            <Route key={index} path={"/GenQA" + route.path} element={route.element} />
           ))}
         </Routes>
       </div>
