@@ -43,8 +43,8 @@ function Header() {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                   <Nav className="me-auto">
-                    <Nav.Link href="Home">{state.language.homeText()}</Nav.Link>
-                    <Nav.Link href="Examples">{state.language.exampleText()}</Nav.Link>
+                    <Nav.Link href="#Home">{state.language.homeText()}</Nav.Link>
+                    <Nav.Link href="#Examples">{state.language.exampleText()}</Nav.Link>
                   </Nav>
                 </Navbar.Collapse>
                 <Navbar.Collapse className="justify-content-end">
