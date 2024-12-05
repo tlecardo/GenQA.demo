@@ -1,0 +1,2539 @@
+{
+  "data": "Année\tNombre d'immatriculations de véhicules électriques\n2012\t1201\n2013\t972\n2014\t2981\n2015\t3214\n2016\t5086\n2017\t8476\n2018\t17461\n2019\t27248\n2020\t25869\n2021\t36091\n2022\t41993\n2023*\t79536",
+  "defvalues": {
+    "rows_data": [
+      {
+        "color": "#cc0000",
+        "label": "Nombre de voitures électriques immatriculées par année au Québec"
+      }
+    ],
+    "dataX": "Année",
+    "dataY": "Nombre de voitures"
+  },
+  "couples": {
+    "qrs": [
+      {
+        "Q": "Combien de voitures électriques ont été immatriculées en 2012 au Québec ?",
+        "R": "En 2012, 1201 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle était la tendance des immatriculations de voitures électriques entre 2012 et 2013 ?",
+        "R": "Entre 2012 et 2013, il y a eu une diminution des immatriculations de voitures électriques, passant de 1201 à 972."
+      },
+      {
+        "Q": "En quelle année a-t-on enregistré moins de 1000 voitures électriques immatriculées au Québec ?",
+        "R": "En 2013, moins de 1000 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle a été l'augmentation en pourcentage des immatriculations de voitures électriques de 2013 à 2014 ?",
+        "R": "Entre 2013 et 2014, il y a eu une augmentation significative des immatriculations, passant de 972 à 2981, soit une augmentation de 206.03%."
+      },
+      {
+        "Q": "Combien de voitures électriques ont été immatriculées en 2015 ?",
+        "R": "En 2015, 3214 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quel était le taux de croissance des immatriculations de voitures électriques de 2014 à 2015 ?",
+        "R": "Entre 2014 et 2015, le nombre d'immatriculations est passé de 2981 à 3214, ce qui représente une augmentation de 7.82%."
+      },
+      {
+        "Q": "En quelle année le Québec a-t-il franchi la barre des 5000 immatriculations annuelles de voitures électriques ?",
+        "R": "Le Québec a franchi la barre des 5000 immatriculations annuelles de voitures électriques en 2016, avec 5086 immatriculations."
+      },
+      {
+        "Q": "Combien de voitures électriques ont été immatriculées en 2016 ?",
+        "R": "En 2016, 5086 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle était l'augmentation en nombre de voitures électriques immatriculées de 2016 à 2017 ?",
+        "R": "De 2016 à 2017, le nombre d'immatriculations de voitures électriques est passé de 5086 à 8476, soit une augmentation de 66.73%."
+      },
+      {
+        "Q": "Combien de voitures électriques ont été immatriculées en 2017 ?",
+        "R": "En 2017, 8476 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle année a vu le plus grand bond en nombre d'immatriculations de voitures électriques avant 2020 ?",
+        "R": "En 2018, le bond le plus grand en nombre d'immatriculations de voitures électriques avant 2020 a été enregistré, avec un total de 17461 immatriculations."
+      },
+      {
+        "Q": "Combien de voitures électriques ont été immatriculées en 2018 ?",
+        "R": "En 2018, 17461 voitures électriques ont été immatriculées."
+      },
+      {
+        "Q": "En quelle année le Québec a-t-il enregistré plus de 17000 nouvelles immatriculations de voitures électriques ?",
+        "R": "Le Québec a enregistré plus de 17000 nouvelles immatriculations de voitures électriques pour la première fois en 2018."
+      },
+      {
+        "Q": "Quel était le nombre total de voitures électriques immatriculées en 2019 ?",
+        "R": "En 2019, 27248 voitures électriques ont été immatriculées."
+      },
+      {
+        "Q": "Quelle a été la première année où le Québec a enregistré plus de 25000 immatriculations de voitures électriques ?",
+        "R": "La première année où le Québec a enregistré plus de 25000 immatriculations de voitures électriques était 2019."
+      },
+      {
+        "Q": "Quelle a été la diminution en nombre d'immatriculations de voitures électriques entre 2019 et 2020 ?",
+        "R": "Entre 2019 et 2020, il y a eu une diminution de 1379 immatriculations (de 27248 à 25869)."
+      },
+      {
+        "Q": "Combien de voitures électriques ont été immatriculées en 2020 ?",
+        "R": "En 2020, 25869 voitures électriques ont été immatriculées."
+      },
+      {
+        "Q": "En quelle année le Québec a-t-il enregistré une baisse dans les immatriculations de voitures électriques par rapport à l'année précédente ?",
+        "R": "Le Québec a enregistré une baisse des immatriculations de voitures électriques en 2020 par rapport à 2019."
+      },
+      {
+        "Q": "Combien de voitures électriques ont été immatriculées en 2021 ?",
+        "R": "En 2021, 36091 voitures électriques ont été immatriculées."
+      },
+      {
+        "Q": "Quelle a été l'augmentation en pourcentage des immatriculations de 2020 à 2021 ?",
+        "R": "L'augmentation des immatriculations de 2020 à 2021 a été de 39.55% (de 25869 à 36091)."
+      },
+      {
+        "Q": "Combien de voitures électriques ont été immatriculées en 2022 ?",
+        "R": "En 2022, 41993 voitures électriques ont été immatriculées."
+      },
+      {
+        "Q": "Quelle a été l'augmentation en nombre d'immatriculations de voitures électriques de 2021 à 2022 ?",
+        "R": "L'augmentation en nombre d'immatriculations de voitures électriques de 2021 à 2022 a été de 5902."
+      },
+      {
+        "Q": "En quelle année le Québec a-t-il franchi la barre des 40000 immatriculations annuelles de voitures électriques ?",
+        "R": "Le Québec a franchi la barre des 40000 immatriculations annuelles de voitures électriques en 2022."
+      },
+      {
+        "Q": "Combien de voitures électriques ont été immatriculées en 2023 ?",
+        "R": "En 2023, 79536 voitures électriques ont été immatriculées."
+      },
+      {
+        "Q": "Comment a évolué le nombre d'immatriculations de voitures électriques de 2022 à 2023 ?",
+        "R": "Entre 2022 et 2023, le nombre d'immatriculations de voitures électriques a presque doublé, passant de 41993 à 79536."
+      },
+      {
+        "Q": "Quel est le total des immatriculations de voitures électriques au Québec de 2012 à 2023 ?",
+        "R": "Le total des immatriculations de voitures électriques au Québec de 2012 à 2023 est 311098."
+      },
+      {
+        "Q": "Quel est le taux de croissance annuel moyen des immatriculations de voitures électriques entre 2012 et 2023 ?",
+        "R": "Pour calculer le taux de croissance annuel moyen (CAGR), on utilise la formule ( \text{CAGR} = left(\frac{\text{End Value}}{\text{Start Value}}\right)^{\frac{1}{\text{Periods}}} - 1 ). En prenant les valeurs de 1201 pour 2012 et 79536 pour 2023, sur 11 ans, cela donne un CAGR d'environ 51.17%."
+      },
+      {
+        "Q": "Quelle est l'année avec la plus forte croissance en pourcentage d'immatriculations de voitures électriques ?",
+        "R": "L'année avec la plus forte croissance en pourcentage est 2023, avec une croissance d'environ 89.39% par rapport à 2022."
+      },
+      {
+        "Q": "Quelle année représente le pic de croissance des immatriculations de voitures électriques au Québec ?",
+        "R": "L'année 2023 représente le pic de croissance des immatriculations de voitures électriques au Québec, avec le nombre le plus élevé d'immatriculations enregistrées et le plus haut taux de croissance."
+      },
+      {
+        "Q": "Comment le nombre d'immatriculations de voitures électriques en 2013 se compare-t-il à celui de 2014 ?",
+        "R": "En 2014, le nombre d'immatriculations de voitures électriques a significativement augmenté par rapport à 2013, passant de 972 à 2981."
+      },
+      {
+        "Q": "Quelle est la variation annuelle moyenne du nombre de voitures électriques immatriculées entre 2015 et 2020 ?",
+        "R": "Pour calculer la variation annuelle moyenne du nombre de voitures électriques immatriculées entre 2015 et 2020, on utilise la formule de la moyenne des différences annuelles. En additionnant les changements annuels (2016-2015, 2017-2016, etc.) et en divisant par le nombre d'années, on trouve: ((5086-3214) + (8476-5086) + (17461-8476) + (27248-17461) + (25869-27248)) / 5 = (1872 + 3390 + 8985 + 9787 - 1379) / 5 = 18531 / 5 = 3706.2."
+      },
+      {
+        "Q": "Quelle est la différence entre le nombre d'immatriculations en 2019 et en 2021 ?",
+        "R": "La différence entre les immatriculations en 2019 (27248) et en 2021 (36091) est de 36091 - 27248 = 8843."
+      },
+      {
+        "Q": "Comment le nombre d'immatriculations de 2018 se compare-t-il à celui de 2019 ?",
+        "R": "Le nombre d'immatriculations de voitures électriques est passé de 17461 en 2018 à 27248 en 2019, soit une augmentation de 9787."
+      },
+      {
+        "Q": "Quelle année a vu la plus faible augmentation annuelle en nombre d'immatriculations depuis 2015 ?",
+        "R": "La plus faible augmentation annuelle depuis 2015 a été observée entre 2019 et 2020, avec une diminution de 1379 immatriculations (de 27248 en 2019 à 25869 en 2020)."
+      },
+      {
+        "Q": "Quelle a été l'augmentation absolue la plus élevée d'une année à l'autre ?",
+        "R": "L'augmentation absolue la plus élevée d'une année à l'autre a été entre 2022 et 2023, avec une augmentation de 37543 immatriculations (de 41993 en 2022 à 79536 en 2023)."
+      },
+      {
+        "Q": "Quelle est la tendance globale des immatriculations de voitures électriques au Québec de 2012 à 2023 ?",
+        "R": "La tendance globale des immatriculations de voitures électriques au Québec de 2012 à 2023 est clairement à la hausse, avec une augmentation significative chaque année, à l'exception de la légère baisse en 2020."
+      },
+      {
+        "Q": "Quelle est la moyenne des immatriculations annuelles de voitures électriques entre 2018 et 2023 ?",
+        "R": "La moyenne des immatriculations annuelles de voitures électriques entre 2018 et 2023 est de (17461 + 27248 + 25869 + 36091 + 41993 + 79536) / 6 = 213.198 / 6 = 35533."
+      },
+      {
+        "Q": "Comment l'année 2020 diffère-t-elle des autres années en termes d'immatriculations de voitures électriques ?",
+        "R": "L'année 2020 diffère des autres années car elle a vu une baisse des immatriculations de voitures électriques par rapport à l'année précédente, une exception dans la tendance globale croissante."
+      },
+      {
+        "Q": "En quelle année le taux de croissance des immatriculations a-t-il été le plus bas ?",
+        "R": "Le taux de croissance des immatriculations a été le plus bas en 2020, lorsque le nombre d'immatriculations a effectivement diminué par rapport à l'année précédente."
+      },
+      {
+        "Q": "Quel est le pourcentage d'augmentation des immatriculations de voitures électriques de 2022 à 2023 ?",
+        "R": "Le pourcentage d'augmentation des immatriculations de voitures électriques de 2022 à 2023 est de ((79536 - 41993) / 41993)  100 = 89.39%."
+      },
+      {
+        "Q": "Quelle est la moyenne des immatriculations de voitures électriques pour les années paires ?",
+        "R": "Pour calculer la moyenne pour les années paires (2012, 2014, 2016, 2018, 2020, 2022), les immatriculations sont: 1201, 2981, 5086, 17461, 25869, 41993. La moyenne est donc (1201 + 2981 + 5086 + 17461 + 25869 + 41993) / 6 = 102591 / 6 = 17098.5."
+      },
+      {
+        "Q": "Quelle est la moyenne des immatriculations de voitures électriques pour les années impaires ?",
+        "R": "Pour les années impaires (2013, 2015, 2017, 2019, 2021, 2023), les immatriculations sont: 972, 3214, 8476, 27248, 36091, 79536. La moyenne est donc (972 + 3214 + 8476 + 27248 + 36091 + 79536) / 6 = 153537 / 6 = 25589.5."
+      },
+      {
+        "Q": "Quel est l'écart type des immatriculations annuelles de voitures électriques au Québec ?",
+        "R": "Pour calculer l'écart type, il faut d'abord calculer la variance. L'écart type est la racine carrée de la variance. Pour les données (1201, 972, 2981, 3214, 5086, 8476, 17461, 27248, 25869, 36091, 41993, 79536), il faut calculer la moyenne, puis la somme des carrés des écarts par rapport à la moyenne, diviser par le nombre de données et enfin prendre la racine carrée. Calcul exact non fourni ici faute de calculatrice, mais cette méthode est appropriée."
+      },
+      {
+        "Q": "Quelle année a enregistré la plus grande baisse en termes d'immatriculations de voitures électriques et pourquoi ?",
+        "R": "La plus grande baisse a été enregistrée en 2020, où le nombre d'immatriculations a diminué par rapport à 2019. Cela pourrait être attribué aux impacts économiques et à la perturbation des chaînes d'approvisionnement causés par la pandémie de COVID-19."
+      },
+      {
+        "Q": "Quelle est la proportion d'augmentation des immatriculations de 2017 à 2023 ?",
+        "R": "Pour calculer la proportion d'augmentation de 2017 (8476 immatriculations) à 2023 (79536 immatriculations), la formule est ((79536 - 8476) / 8476)  100 = 838.3%."
+      },
+      {
+        "Q": "Quelles conclusions peut-on tirer sur la tendance des immatriculations de voitures électriques au Québec sur la base des données disponibles ?",
+        "R": "Les immatriculations de voitures électriques au Québec montrent une tendance nettement ascendante depuis 2012. Malgré une légère baisse en 2020 due à des circonstances exceptionnelles, la croissance globale est forte et semble être encouragée par des politiques gouvernementales visant à électrifier le parc automobile. Cette tendance reflète l'intérêt croissant pour les véhicules électriques et les initiatives de durabilité."
+      },
+      {
+        "Q": "Comment les données d'immatriculations de 2021 influencent-elles la tendance générale observée ?",
+        "R": "Les immatriculations de voitures électriques en 2021 ont atteint 36 091 au Québec, illustrant une croissance continue dans l'adoption de véhicules électriques."
+      },
+      {
+        "Q": "Quels pourraient être les facteurs influençant l'augmentation significative des immatriculations en 2023 ?",
+        "R": "En 2023, le nombre d'immatriculations de voitures électriques a grimpé à 79 536. Cette augmentation pourrait être due à une plus grande disponibilité de modèles, à des incitations gouvernementales ou à une meilleure infrastructure de recharge."
+      },
+      {
+        "Q": "Comment les données sur les immatriculations de voitures électriques pourraient-elles être utilisées pour planifier les infrastructures de recharge au Québec ?",
+        "R": "Les données sur les immatriculations de voitures électriques peuvent être utilisées pour estimer la demande future en infrastructures de recharge, aidant ainsi à planifier leur emplacement et leur capacité pour répondre à la croissance attendue du nombre de véhicules électriques."
+      },
+      {
+        "Q": "Quel impact les données sur les immatriculations de voitures électriques pourraient-elles avoir sur les politiques environnementales au Québec ?",
+        "R": "Les données sur les immatriculations de voitures électriques fournissent une indication de l'adoption des véhicules à faible émission. Elles pourraient influencer les politiques environnementales en encourageant davantage de mesures incitatives pour accélérer la transition vers des transports plus propres."
+      },
+      {
+        "Q": "En quelle année a-t-on enregistré 1201 voitures électriques immatriculées au Québec ?",
+        "R": "En 2012, on a enregistré 1201 voitures électriques immatriculées au Québec."
+      },
+      {
+        "Q": "Combien de voitures électriques ont été immatriculées en 2013 ?",
+        "R": "En 2013, 972 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle année a vu le plus grand nombre d'immatriculations de voitures électriques au Québec ?",
+        "R": "En 2023, le nombre d'immatriculations de voitures électriques a atteint un record de 79 536 au Québec."
+      },
+      {
+        "Q": "En 2016, combien de voitures électriques ont été immatriculées ?",
+        "R": "En 2016, 5086 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle année a enregistré 8476 immatriculations de voitures électriques au Québec ?",
+        "R": "En 2017, 8476 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "En 2018, combien de voitures électriques ont été immatriculées ?",
+        "R": "En 2018, 17.461 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle est la tendance des immatriculations de voitures électriques entre 2018 et 2020 ?",
+        "R": "Entre 2018 et 2020, les immatriculations ont augmenté de 17.461 à 25.869 en 2019, puis légèrement diminué à 25.869 en 2020, indiquant une forte croissance suivie d'une stabilisation."
+      },
+      {
+        "Q": "En 2022, combien de voitures électriques ont été immatriculées ?",
+        "R": "En 2022, 41.993 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle année a vu le plus grand bond dans les immatriculations de voitures électriques ?",
+        "R": "L'année 2023 a vu le plus grand bond avec 79.536 immatriculations, une augmentation significative par rapport à 2022."
+      },
+      {
+        "Q": "Combien de voitures électriques ont été immatriculées entre 2022 et 2023 ?",
+        "R": "Entre 2022 et 2023, il y a eu une augmentation de 37.543 immatriculations (de 41.993 en 2022 à 79.536 en 2023)."
+      },
+      {
+        "Q": "Quel est le total des immatriculations de voitures électriques en 2023 ?",
+        "R": "En 2023, le total des immatriculations de voitures électriques a été de 79.536."
+      },
+      {
+        "Q": "Combien d'automobiles à essence de type promenade ont baissé entre 2021 et 2022 ?",
+        "R": "Entre 2021 et 2022, il y a eu une baisse de 46.385 automobiles à essence de type promenade."
+      },
+      {
+        "Q": "Quelle est la différence entre le nombre d'automobiles à essence entre 2022 et 2023 ?",
+        "R": "Entre 2022 et 2023, il y a eu un rebond d'environ 135.000 automobiles à essence."
+      },
+      {
+        "Q": "Combien d'automobiles à essence sont prévues sur les routes du Québec après le rebond entre 2022 et 2023 ?",
+        "R": "Après le rebond, il y aura près de cinq millions d'automobiles à essence sur les routes du Québec."
+      },
+      {
+        "Q": "Comment le nombre de véhicules électriques, à hydrogène et hybrides a-t-il évolué entre 2022 et 2023 ?",
+        "R": "Entre 2022 et 2023, le nombre de véhicules électriques, à hydrogène et hybrides est passé de 148.862 à 247.025."
+      },
+      {
+        "Q": "Quelle est la variation du nombre de véhicules électriques entre 2022 et 2023 ?",
+        "R": "La variation du nombre de véhicules électriques entre 2022 et 2023 est de 98.163 (de 148.862 à 247.025)."
+      },
+      {
+        "Q": "Qui attribue la hausse du nombre d'automobiles sur le réseau routier à la démographie ?",
+        "R": "Le gouvernement du Québec attribue la hausse du nombre d'automobiles sur le réseau routier à la démographie."
+      },
+      {
+        "Q": "À quel type de véhicules attribue-t-on l'augmentation du nombre d'automobiles sur le réseau routier ?",
+        "R": "L'augmentation du nombre d'automobiles sur le réseau routier est attribuée principalement aux véhicules électriques, à hydrogène et hybrides."
+      },
+      {
+        "Q": "Quel gouvernement s'est fixé des cibles pour électrifier le parc automobile ?",
+        "R": "Le gouvernement du Québec s'est fixé des cibles pour électrifier le parc automobile."
+      },
+      {
+        "Q": "Combien de voitures électriques étaient immatriculées au Québec en 2022 ?",
+        "R": "En 2022, 41.993 voitures électriques étaient immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle année a vu le plus grand pourcentage d'augmentation des immatriculations de voitures électriques ?",
+        "R": "L'année 2023 a vu le plus grand pourcentage d'augmentation des immatriculations de voitures électriques, passant de 41.993 en 2022 à 79.536 en 2023, ce qui représente une augmentation significative."
+      },
+      {
+        "Q": "En 2017, combien de voitures électriques ont été immatriculées ?",
+        "R": "En 2017, 8.476 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle est la différence entre les immatriculations de voitures électriques en 2018 et 2020 ?",
+        "R": "Entre 2018 (17.461 immatriculations) et 2020 (25.869 immatriculations), il y a eu une augmentation de 8.408 immatriculations de voitures électriques."
+      },
+      {
+        "Q": "Combien de voitures électriques ont été immatriculées en 2019 ?",
+        "R": "En 2019, 27.248 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "En 2020, combien de voitures électriques ont été immatriculées au Québec ?",
+        "R": "En 2020, 25.869 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle est la variation des immatriculations de voitures électriques entre 2019 et 2021 ?",
+        "R": "Entre 2019 (27.248 immatriculations) et 2021 (36.091 immatriculations), il y a eu une augmentation de 8.843 immatriculations de voitures électriques."
+      },
+      {
+        "Q": "Combien de voitures électriques étaient immatriculées au Québec en 2021 ?",
+        "R": "En 2021, 36.091 voitures électriques étaient immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle est la tendance des immatriculations de voitures électriques entre 2016 et 2018 ?",
+        "R": "La tendance des immatriculations de voitures électriques entre 2016 (5.086 immatriculations) et 2018 (17.461 immatriculations) montre une croissance significative."
+      },
+      {
+        "Q": "En 2014, combien de voitures électriques ont été immatriculées au Québec ?",
+        "R": "En 2014, 2.981 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Combien de voitures électriques étaient immatriculées au Québec en 2012 ?",
+        "R": "En 2012, 1.201 voitures électriques étaient immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle année a vu le plus petit nombre d'immatriculations de voitures électriques au Québec ?",
+        "R": "L'année 2013 a vu le plus petit nombre d'immatriculations de voitures électriques au Québec, avec 972 immatriculations."
+      },
+      {
+        "Q": "Combien de voitures électriques étaient immatriculées au Québec en 2015 ?",
+        "R": "En 2015, 3.214 voitures électriques étaient immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle est la variation des immatriculations de voitures électriques entre 2021 et 2023 ?",
+        "R": "Entre 2021 (36.091 immatriculations) et 2023 (79.536 immatriculations), il y a eu une augmentation de 43.445 immatriculations de voitures électriques."
+      },
+      {
+        "Q": "Combien de voitures électriques étaient immatriculées au Québec en 2017 ?",
+        "R": "En 2017, 8.476 voitures électriques étaient immatriculées au Québec."
+      },
+      {
+        "Q": "En 2019, combien de voitures électriques ont été immatriculées au Québec ?",
+        "R": "En 2019, 27.248 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle est la différence entre les immatriculations de voitures électriques en 2016 et 2018 ?",
+        "R": "Entre 2016 (5.086 immatriculations) et 2018 (17.461 immatriculations), il y a eu une augmentation de 12.375 immatriculations de voitures électriques."
+      },
+      {
+        "Q": "Combien de voitures électriques étaient immatriculées au Québec en 2016 ?",
+        "R": "En 2016, 5.086 voitures électriques étaient immatriculées au Québec."
+      },
+      {
+        "Q": "En 2023, combien de voitures électriques ont été immatriculées au Québec ?",
+        "R": "En 2023, 79.536 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle année a vu le plus grand nombre d'immatriculations de voitures électriques au Québec après 2021 ?",
+        "R": "Après 2021, l'année 2023 a vu le plus grand nombre d'immatriculations de voitures électriques avec 79.536 immatriculations."
+      },
+      {
+        "Q": "Combien de voitures électriques étaient immatriculées au Québec en 2018 ?",
+        "R": "En 2018, 17.461 voitures électriques étaient immatriculées au Québec."
+      },
+      {
+        "Q": "En 2022, combien de voitures électriques ont été immatriculées au Québec ?",
+        "R": "En 2022, 41.993 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle est la tendance des immatriculations de voitures électriques entre 2014 et 2016 ?",
+        "R": "Entre 2014 (2.981 immatriculations) et 2016 (5.086 immatriculations), il y a eu une tendance à la hausse."
+      },
+      {
+        "Q": "En 2013, combien de voitures électriques ont été immatriculées au Québec ?",
+        "R": "En 2013, 972 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Combien de voitures électriques étaient immatriculées au Québec en 2020 ?",
+        "R": "En 2020, 25.869 voitures électriques étaient immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle est la variation des immatriculations de voitures électriques entre 2015 et 2017 ?",
+        "R": "Entre 2015 (3.214 immatriculations) et 2017 (8.476 immatriculations), il y a eu une augmentation de 5.262 immatriculations de voitures électriques."
+      },
+      {
+        "Q": "En 2021, combien de voitures électriques ont été immatriculées au Québec ?",
+        "R": "En 2021, 36.091 voitures électriques ont été immatriculées au Québec."
+      },
+      {
+        "Q": "Quelle est la différence entre les immatriculations de voitures électriques en 2017 et 2019 ?",
+        "R": "Entre 2017 (8.476 immatriculations) et 2019 (27.248 immatriculations), il y a eu une augmentation de 18.772 immatriculations de voitures électriques."
+      },
+      {
+        "Q": "Combien de voitures électriques étaient immatriculées au Québec en 2014 ?",
+        "R": "En 2014, 2.981 voitures électriques étaient immatriculées au Québec."
+      }
+    ],
+    "end": true
+  },
+  "clusters": {
+    "clusters": [
+      {
+        "question": "Quelle est la différence entre le nombre d'automobiles à essence entre 2022 et 2023 ?",
+        "answer": [
+          "Entre 2022 et 2023, il y a eu un rebond d'environ 135.000 automobiles à essence."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "En quelle année a-t-on enregistré moins de 1000 voitures électriques immatriculées au Québec ?",
+        "answer": [
+          "En 2013, moins de 1000 voitures électriques ont été immatriculées au Québec."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                1
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Combien de voitures électriques ont été immatriculées entre 2022 et 2023 ?",
+        "answer": [
+          "Entre 2022 et 2023, il y a eu une augmentation de 37.543 immatriculations (de 41.993 en 2022 à 79.536 en 2023)."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle est la variation du nombre de véhicules électriques entre 2022 et 2023 ?",
+        "answer": [
+          "La variation du nombre de véhicules électriques entre 2022 et 2023 est de 98.163 (de 148.862 à 247.025)."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quel était le taux de croissance des immatriculations de voitures électriques de 2014 à 2015 ?",
+        "answer": [
+          "Entre 2014 et 2015, le nombre d'immatriculations est passé de 2981 à 3214, ce qui représente une augmentation de 7.82%."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                2
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                3
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle est la différence entre les immatriculations de voitures électriques en 2018 et 2020 ?",
+        "answer": [
+          "Entre 2018 (17.461 immatriculations) et 2020 (25.869 immatriculations), il y a eu une augmentation de 8.408 immatriculations de voitures électriques.",
+          "Entre 2016 (5.086 immatriculations) et 2018 (17.461 immatriculations), il y a eu une augmentation de 12.375 immatriculations de voitures électriques.",
+          "Entre 2017 (8.476 immatriculations) et 2019 (27.248 immatriculations), il y a eu une augmentation de 18.772 immatriculations de voitures électriques."
+        ],
+        "diff_word": [
+          [
+            11,
+            [
+              "2018",
+              "2016",
+              "2017"
+            ]
+          ],
+          [
+            13,
+            [
+              "2020",
+              "2018",
+              "2019"
+            ]
+          ]
+        ],
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quel gouvernement s'est fixé des cibles pour électrifier le parc automobile ?",
+        "answer": [
+          "Le gouvernement du Québec s'est fixé des cibles pour électrifier le parc automobile."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 0.306745857,
+            "start": 553,
+            "end": 579,
+            "type": "article"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle était l'augmentation en nombre de voitures électriques immatriculées de 2016 à 2017 ?",
+        "answer": [
+          "De 2016 à 2017, le nombre d'immatriculations de voitures électriques est passé de 5086 à 8476, soit une augmentation de 66.73%."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle a été la première année où le Québec a enregistré plus de 25000 immatriculations de voitures électriques ?",
+        "answer": [
+          "La première année où le Québec a enregistré plus de 25000 immatriculations de voitures électriques était 2019."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "En quelle année le Québec a-t-il enregistré une baisse dans les immatriculations de voitures électriques par rapport à l'année précédente ?",
+        "answer": [
+          "Le Québec a enregistré une baisse des immatriculations de voitures électriques en 2020 par rapport à 2019."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quel est le taux de croissance annuel moyen des immatriculations de voitures électriques entre 2012 et 2023 ?",
+        "answer": [
+          "Pour calculer le taux de croissance annuel moyen (CAGR), on utilise la formule ( \text{CAGR} = left(\frac{\text{End Value}}{\text{Start Value}}\right)^{\frac{1}{\text{Periods}}} - 1 ). En prenant les valeurs de 1201 pour 2012 et 79536 pour 2023, sur 11 ans, cela donne un CAGR d'environ 51.17%."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                0
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle est la moyenne des immatriculations de voitures électriques pour les années paires ?",
+        "answer": [
+          "Pour calculer la moyenne pour les années paires (2012, 2014, 2016, 2018, 2020, 2022), les immatriculations sont: 1201, 2981, 5086, 17461, 25869, 41993. La moyenne est donc (1201 + 2981 + 5086 + 17461 + 25869 + 41993) / 6 = 102591 / 6 = 17098.5.",
+          "Pour les années impaires (2013, 2015, 2017, 2019, 2021, 2023), les immatriculations sont: 972, 3214, 8476, 27248, 36091, 79536. La moyenne est donc (972 + 3214 + 8476 + 27248 + 36091 + 79536) / 6 = 153537 / 6 = 25589.5."
+        ],
+        "diff_word": [
+          [
+            12,
+            [
+              "paires",
+              "impaires"
+            ]
+          ]
+        ],
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                2
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                3
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Comment le nombre d'immatriculations de voitures électriques en 2013 se compare-t-il à celui de 2014 ?",
+        "answer": [
+          "En 2014, le nombre d'immatriculations de voitures électriques a significativement augmenté par rapport à 2013, passant de 972 à 2981."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                1
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                2
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle est la tendance globale des immatriculations de voitures électriques au Québec de 2012 à 2023 ?",
+        "answer": [
+          "La tendance globale des immatriculations de voitures électriques au Québec de 2012 à 2023 est clairement à la hausse, avec une augmentation significative chaque année, à l'exception de la légère baisse en 2020."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                0
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                1
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                2
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                3
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Combien de voitures électriques ont été immatriculées en 2015 ?",
+        "answer": [
+          "En 2015, 3214 voitures électriques ont été immatriculées au Québec.",
+          "En 2016, 5086 voitures électriques ont été immatriculées au Québec.",
+          "En 2017, 8476 voitures électriques ont été immatriculées au Québec.",
+          "En 2018, 17461 voitures électriques ont été immatriculées.",
+          "En 2020, 25869 voitures électriques ont été immatriculées.",
+          "En 2021, 36091 voitures électriques ont été immatriculées.",
+          "En 2022, 41993 voitures électriques ont été immatriculées.",
+          "En 2023, 79536 voitures électriques ont été immatriculées.",
+          "En 2013, 972 voitures électriques ont été immatriculées au Québec.",
+          "En 2019, 27.248 voitures électriques ont été immatriculées au Québec."
+        ],
+        "diff_word": [
+          [
+            8,
+            [
+              "2015",
+              "2016",
+              "2017",
+              "2018",
+              "2020",
+              "2021",
+              "2022",
+              "2023",
+              "2013",
+              "2019"
+            ]
+          ]
+        ],
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                3
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                1
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Comment le nombre d'immatriculations de 2018 se compare-t-il à celui de 2019 ?",
+        "answer": [
+          "Le nombre d'immatriculations de voitures électriques est passé de 17461 en 2018 à 27248 en 2019, soit une augmentation de 9787."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "En quelle année le taux de croissance des immatriculations a-t-il été le plus bas ?",
+        "answer": [
+          "Le taux de croissance des immatriculations a été le plus bas en 2020, lorsque le nombre d'immatriculations a effectivement diminué par rapport à l'année précédente."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle est la proportion d'augmentation des immatriculations de 2017 à 2023 ?",
+        "answer": [
+          "Pour calculer la proportion d'augmentation de 2017 (8476 immatriculations) à 2023 (79536 immatriculations), la formule est ((79536 - 8476) / 8476)  100 = 838.3%."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quels pourraient être les facteurs influençant l'augmentation significative des immatriculations en 2023 ?",
+        "answer": [
+          "En 2023, le nombre d'immatriculations de voitures électriques a grimpé à 79 536. Cette augmentation pourrait être due à une plus grande disponibilité de modèles, à des incitations gouvernementales ou à une meilleure infrastructure de recharge."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle année a vu le plus grand bond dans les immatriculations de voitures électriques ?",
+        "answer": [
+          "L'année 2023 a vu le plus grand bond avec 79.536 immatriculations, une augmentation significative par rapport à 2022."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Combien d'automobiles à essence de type promenade ont baissé entre 2021 et 2022 ?",
+        "answer": [
+          "Entre 2021 et 2022, il y a eu une baisse de 46.385 automobiles à essence de type promenade."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle était la tendance des immatriculations de voitures électriques entre 2012 et 2013 ?",
+        "answer": [
+          "Entre 2012 et 2013, il y a eu une diminution des immatriculations de voitures électriques, passant de 1201 à 972."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                0
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                1
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "À quel type de véhicules attribue-t-on l'augmentation du nombre d'automobiles sur le réseau routier ?",
+        "answer": [
+          "L'augmentation du nombre d'automobiles sur le réseau routier est attribuée principalement aux véhicules électriques, à hydrogène et hybrides."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 0.2596186399,
+            "start": 716,
+            "end": 728,
+            "type": "article"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Comment le nombre de véhicules électriques, à hydrogène et hybrides a-t-il évolué entre 2022 et 2023 ?",
+        "answer": [
+          "Entre 2022 et 2023, le nombre de véhicules électriques, à hydrogène et hybrides est passé de 148.862 à 247.025."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle année a vu le plus grand pourcentage d'augmentation des immatriculations de voitures électriques ?",
+        "answer": [
+          "L'année 2023 a vu le plus grand pourcentage d'augmentation des immatriculations de voitures électriques, passant de 41.993 en 2022 à 79.536 en 2023, ce qui représente une augmentation significative."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle année a vu le plus grand bond en nombre d'immatriculations de voitures électriques avant 2020 ?",
+        "answer": [
+          "En 2018, le bond le plus grand en nombre d'immatriculations de voitures électriques avant 2020 a été enregistré, avec un total de 17461 immatriculations."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quel était le nombre total de voitures électriques immatriculées en 2019 ?",
+        "answer": [
+          "En 2019, 27248 voitures électriques ont été immatriculées."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle a été l'augmentation en pourcentage des immatriculations de 2020 à 2021 ?",
+        "answer": [
+          "L'augmentation des immatriculations de 2020 à 2021 a été de 39.55% (de 25869 à 36091)."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quel est le total des immatriculations de voitures électriques au Québec de 2012 à 2023 ?",
+        "answer": [
+          "Le total des immatriculations de voitures électriques au Québec de 2012 à 2023 est 311098."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                0
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                1
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                2
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                3
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle année représente le pic de croissance des immatriculations de voitures électriques au Québec ?",
+        "answer": [
+          "L'année 2023 représente le pic de croissance des immatriculations de voitures électriques au Québec, avec le nombre le plus élevé d'immatriculations enregistrées et le plus haut taux de croissance."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle est la différence entre le nombre d'immatriculations en 2019 et en 2021 ?",
+        "answer": [
+          "La différence entre les immatriculations en 2019 (27248) et en 2021 (36091) est de 36091 - 27248 = 8843."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Comment l'année 2020 diffère-t-elle des autres années en termes d'immatriculations de voitures électriques ?",
+        "answer": [
+          "L'année 2020 diffère des autres années car elle a vu une baisse des immatriculations de voitures électriques par rapport à l'année précédente, une exception dans la tendance globale croissante."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle a été l'augmentation absolue la plus élevée d'une année à l'autre ?",
+        "answer": [
+          "L'augmentation absolue la plus élevée d'une année à l'autre a été entre 2022 et 2023, avec une augmentation de 37543 immatriculations (de 41993 en 2022 à 79536 en 2023)."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle année a vu le plus grand nombre d'immatriculations de voitures électriques au Québec ?",
+        "answer": [
+          "En 2023, le nombre d'immatriculations de voitures électriques a atteint un record de 79 536 au Québec.",
+          "L'année 2013 a vu le plus petit nombre d'immatriculations de voitures électriques au Québec, avec 972 immatriculations.",
+          "Après 2021, l'année 2023 a vu le plus grand nombre d'immatriculations de voitures électriques avec 79.536 immatriculations."
+        ],
+        "diff_word": [
+          [
+            6,
+            [
+              "grand",
+              "petit",
+              "grand"
+            ]
+          ],
+          [
+            14,
+            [
+              "",
+              "",
+              "après",
+              "2021",
+              ""
+            ]
+          ]
+        ],
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                1
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle année a enregistré la plus grande baisse en termes d'immatriculations de voitures électriques et pourquoi ?",
+        "answer": [
+          "La plus grande baisse a été enregistrée en 2020, où le nombre d'immatriculations a diminué par rapport à 2019. Cela pourrait être attribué aux impacts économiques et à la perturbation des chaînes d'approvisionnement causés par la pandémie de COVID-19."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "En quelle année a-t-on enregistré 1201 voitures électriques immatriculées au Québec ?",
+        "answer": [
+          "En 2012, on a enregistré 1201 voitures électriques immatriculées au Québec."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                0
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Comment les données d'immatriculations de 2021 influencent-elles la tendance générale observée ?",
+        "answer": [
+          "Les immatriculations de voitures électriques en 2021 ont atteint 36 091 au Québec, illustrant une croissance continue dans l'adoption de véhicules électriques."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Combien de voitures électriques étaient immatriculées au Québec en 2022 ?",
+        "answer": [
+          "En 2022, 41.993 voitures électriques étaient immatriculées au Québec.",
+          "En 2021, 36.091 voitures électriques étaient immatriculées au Québec.",
+          "En 2012, 1.201 voitures électriques étaient immatriculées au Québec.",
+          "En 2015, 3.214 voitures électriques étaient immatriculées au Québec.",
+          "En 2017, 8.476 voitures électriques étaient immatriculées au Québec.",
+          "En 2016, 5.086 voitures électriques étaient immatriculées au Québec.",
+          "En 2018, 17.461 voitures électriques étaient immatriculées au Québec.",
+          "En 2020, 25.869 voitures électriques étaient immatriculées au Québec.",
+          "En 2014, 2.981 voitures électriques étaient immatriculées au Québec."
+        ],
+        "diff_word": [
+          [
+            9,
+            [
+              "2022",
+              "2021",
+              "2012",
+              "2015",
+              "2017",
+              "2016",
+              "2018",
+              "2020",
+              "2014"
+            ]
+          ]
+        ],
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                0
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                3
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                2
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quel est le total des immatriculations de voitures électriques en 2023 ?",
+        "answer": [
+          "En 2023, le total des immatriculations de voitures électriques a été de 79.536."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Combien de voitures électriques ont été immatriculées en 2012 au Québec ?",
+        "answer": [
+          "En 2012, 1201 voitures électriques ont été immatriculées au Québec."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                0
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "En 2022, combien de voitures électriques ont été immatriculées au Québec ?",
+        "answer": [
+          "En 2022, 41.993 voitures électriques ont été immatriculées au Québec.",
+          "En 2016, 5086 voitures électriques ont été immatriculées au Québec.",
+          "En 2018, 17.461 voitures électriques ont été immatriculées au Québec.",
+          "En 2022, 41.993 voitures électriques ont été immatriculées au Québec.",
+          "En 2017, 8.476 voitures électriques ont été immatriculées au Québec.",
+          "En 2020, 25.869 voitures électriques ont été immatriculées au Québec.",
+          "En 2014, 2.981 voitures électriques ont été immatriculées au Québec.",
+          "En 2019, 27.248 voitures électriques ont été immatriculées au Québec.",
+          "En 2023, 79.536 voitures électriques ont été immatriculées au Québec.",
+          "En 2013, 972 voitures électriques ont été immatriculées au Québec.",
+          "En 2021, 36.091 voitures électriques ont été immatriculées au Québec."
+        ],
+        "diff_word": [
+          [
+            1,
+            [
+              "2022,",
+              "2016,",
+              "2018,",
+              "2022,",
+              "2017,",
+              "2020,",
+              "2014,",
+              "2019,",
+              "2023,",
+              "2013,",
+              "2021,"
+            ]
+          ],
+          [
+            9,
+            [
+              "au",
+              "au",
+              "au",
+              "",
+              "au",
+              "au",
+              "au",
+              "au",
+              "au",
+              "au",
+              "au"
+            ]
+          ],
+          [
+            10,
+            [
+              "Québec",
+              "Québec",
+              "Québec",
+              "",
+              "Québec",
+              "Québec",
+              "Québec",
+              "Québec",
+              "Québec",
+              "Québec",
+              "Québec"
+            ]
+          ]
+        ],
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                2
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                1
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Combien d'automobiles à essence sont prévues sur les routes du Québec après le rebond entre 2022 et 2023 ?",
+        "answer": [
+          "Après le rebond, il y aura près de cinq millions d'automobiles à essence sur les routes du Québec."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle a été l'augmentation en pourcentage des immatriculations de voitures électriques de 2013 à 2014 ?",
+        "answer": [
+          "Entre 2013 et 2014, il y a eu une augmentation significative des immatriculations, passant de 972 à 2981, soit une augmentation de 206.03%."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                1
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                2
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "En quelle année le Québec a-t-il franchi la barre des 5000 immatriculations annuelles de voitures électriques ?",
+        "answer": [
+          "Le Québec a franchi la barre des 5000 immatriculations annuelles de voitures électriques en 2016, avec 5086 immatriculations.",
+          "Le Québec a franchi la barre des 40000 immatriculations annuelles de voitures électriques en 2022."
+        ],
+        "diff_word": [
+          [
+            10,
+            [
+              "5000",
+              "40000"
+            ]
+          ]
+        ],
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Qui attribue la hausse du nombre d'automobiles sur le réseau routier à la démographie ?",
+        "answer": [
+          "Le gouvernement du Québec attribue la hausse du nombre d'automobiles sur le réseau routier à la démographie."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 0.6404899359,
+            "start": 553,
+            "end": 579,
+            "type": "article"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle est la variation des immatriculations de voitures électriques entre 2019 et 2021 ?",
+        "answer": [
+          "Entre 2019 (27.248 immatriculations) et 2021 (36.091 immatriculations), il y a eu une augmentation de 8.843 immatriculations de voitures électriques.",
+          "Entre 2021 (36.091 immatriculations) et 2023 (79.536 immatriculations), il y a eu une augmentation de 43.445 immatriculations de voitures électriques.",
+          "Entre 2015 (3.214 immatriculations) et 2017 (8.476 immatriculations), il y a eu une augmentation de 5.262 immatriculations de voitures électriques."
+        ],
+        "diff_word": [
+          [
+            10,
+            [
+              "2019",
+              "2021",
+              "2015"
+            ]
+          ],
+          [
+            12,
+            [
+              "2021",
+              "2023",
+              "2017"
+            ]
+          ]
+        ],
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                3
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "En quelle année le Québec a-t-il enregistré plus de 17000 nouvelles immatriculations de voitures électriques ?",
+        "answer": [
+          "Le Québec a enregistré plus de 17000 nouvelles immatriculations de voitures électriques pour la première fois en 2018."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle a été la diminution en nombre d'immatriculations de voitures électriques entre 2019 et 2020 ?",
+        "answer": [
+          "Entre 2019 et 2020, il y a eu une diminution de 1379 immatriculations (de 27248 à 25869)."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle a été l'augmentation en nombre d'immatriculations de voitures électriques de 2021 à 2022 ?",
+        "answer": [
+          "L'augmentation en nombre d'immatriculations de voitures électriques de 2021 à 2022 a été de 5902."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                9
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle est la tendance des immatriculations de voitures électriques entre 2018 et 2020 ?",
+        "answer": [
+          "Entre 2018 et 2020, les immatriculations ont augmenté de 17.461 à 25.869 en 2019, puis légèrement diminué à 25.869 en 2020, indiquant une forte croissance suivie d'une stabilisation.",
+          "La tendance des immatriculations de voitures électriques entre 2016 (5.086 immatriculations) et 2018 (17.461 immatriculations) montre une croissance significative.",
+          "Entre 2014 (2.981 immatriculations) et 2016 (5.086 immatriculations), il y a eu une tendance à la hausse."
+        ],
+        "diff_word": [
+          [
+            10,
+            [
+              "2018",
+              "2016",
+              "2014"
+            ]
+          ],
+          [
+            12,
+            [
+              "2020",
+              "2018",
+              "2016"
+            ]
+          ]
+        ],
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ]
+            ],
+            "type": "viz"
+          },
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                2
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                3
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Comment a évolué le nombre d'immatriculations de voitures électriques de 2022 à 2023 ?",
+        "answer": [
+          "Entre 2022 et 2023, le nombre d'immatriculations de voitures électriques a presque doublé, passant de 41993 à 79536."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle est la variation annuelle moyenne du nombre de voitures électriques immatriculées entre 2015 et 2020 ?",
+        "answer": [
+          "Pour calculer la variation annuelle moyenne du nombre de voitures électriques immatriculées entre 2015 et 2020, on utilise la formule de la moyenne des différences annuelles. En additionnant les changements annuels (2016-2015, 2017-2016, etc.) et en divisant par le nombre d'années, on trouve: ((5086-3214) + (8476-5086) + (17461-8476) + (27248-17461) + (25869-27248)) / 5 = (1872 + 3390 + 8985 + 9787 - 1379) / 5 = 18531 / 5 = 3706.2."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                3
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                4
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                7
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle est l'année avec la plus forte croissance en pourcentage d'immatriculations de voitures électriques ?",
+        "answer": [
+          "L'année avec la plus forte croissance en pourcentage est 2023, avec une croissance d'environ 89.39% par rapport à 2022."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle année a vu la plus faible augmentation annuelle en nombre d'immatriculations depuis 2015 ?",
+        "answer": [
+          "La plus faible augmentation annuelle depuis 2015 a été observée entre 2019 et 2020, avec une diminution de 1379 immatriculations (de 27248 en 2019 à 25869 en 2020)."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                3
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle est la moyenne des immatriculations annuelles de voitures électriques entre 2018 et 2023 ?",
+        "answer": [
+          "La moyenne des immatriculations annuelles de voitures électriques entre 2018 et 2023 est de (17461 + 27248 + 25869 + 36091 + 41993 + 79536) / 6 = 213.198 / 6 = 35533."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                6
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quel est l'écart type des immatriculations annuelles de voitures électriques au Québec ?",
+        "answer": [
+          "Pour calculer l'écart type, il faut d'abord calculer la variance. L'écart type est la racine carrée de la variance. Pour les données (1201, 972, 2981, 3214, 5086, 8476, 17461, 27248, 25869, 36091, 41993, 79536), il faut calculer la moyenne, puis la somme des carrés des écarts par rapport à la moyenne, diviser par le nombre de données et enfin prendre la racine carrée. Calcul exact non fourni ici faute de calculatrice, mais cette méthode est appropriée."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 0.2832960784,
+            "start": 519,
+            "end": 537,
+            "type": "article"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quel est le pourcentage d'augmentation des immatriculations de voitures électriques de 2022 à 2023 ?",
+        "answer": [
+          "Le pourcentage d'augmentation des immatriculations de voitures électriques de 2022 à 2023 est de ((79536 - 41993) / 41993)  100 = 89.39%."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                10
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                11
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelles conclusions peut-on tirer sur la tendance des immatriculations de voitures électriques au Québec sur la base des données disponibles ?",
+        "answer": [
+          "Les immatriculations de voitures électriques au Québec montrent une tendance nettement ascendante depuis 2012. Malgré une légère baisse en 2020 due à des circonstances exceptionnelles, la croissance globale est forte et semble être encouragée par des politiques gouvernementales visant à électrifier le parc automobile. Cette tendance reflète l'intérêt croissant pour les véhicules électriques et les initiatives de durabilité."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                0
+              ],
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                8
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quel impact les données sur les immatriculations de voitures électriques pourraient-elles avoir sur les politiques environnementales au Québec ?",
+        "answer": [
+          "Les données sur les immatriculations de voitures électriques fournissent une indication de l'adoption des véhicules à faible émission. Elles pourraient influencer les politiques environnementales en encourageant davantage de mesures incitatives pour accélérer la transition vers des transports plus propres."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 0.4327097535,
+            "start": 347,
+            "end": 372,
+            "type": "article"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Quelle année a enregistré 8476 immatriculations de voitures électriques au Québec ?",
+        "answer": [
+          "En 2017, 8476 voitures électriques ont été immatriculées au Québec."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 1,
+            "row": [
+              [
+                "nombre de voitures électriques immatriculées par année au québec",
+                5
+              ]
+            ],
+            "type": "viz"
+          }
+        ],
+        "cluster": -1
+      },
+      {
+        "question": "Comment les données sur les immatriculations de voitures électriques pourraient-elles être utilisées pour planifier les infrastructures de recharge au Québec ?",
+        "answer": [
+          "Les données sur les immatriculations de voitures électriques peuvent être utilisées pour estimer la demande future en infrastructures de recharge, aidant ainsi à planifier leur emplacement et leur capacité pour répondre à la croissance attendue du nombre de véhicules électriques."
+        ],
+        "diff_word": null,
+        "src": [
+          {
+            "score": 0,
+            "start": 284,
+            "end": 372,
+            "type": "article"
+          }
+        ],
+        "cluster": 0
+      }
+    ],
+    "topics": {
+      "0": [
+        "CONTEXT"
+      ],
+      "1": [
+        "BIN"
+      ],
+      "-1": [
+        "CLUSTER A",
+        "Ces couples portant su l'immatriculations des voitures électriques au Québec: 2015-2023, variations, tendances, politiques environnementales."
+      ]
+    }
+  }
+}

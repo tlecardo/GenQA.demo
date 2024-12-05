@@ -1,0 +1,1752 @@
+{
+    "data": "Conseillère\tMairesse\n2005\t26,6\t13,1\n2009\t29,3\t16,0\n2013\t32,0\t17,3\n2017\t34,5\t18,9\n2021\t38,2\t23,3",
+    "defvalues": {
+        "rows_data": [
+            {
+                "color": "#aaaaaa",
+                "label": "Pourcentage de femmes élues comme mairesse"
+            },
+            {
+                "color": "#cc0000",
+                "label": "Pourcentage de femmes élues comme conseillère"
+            }
+        ],
+        "dataX": "Année",
+        "dataY": "Proportion de femmes élues par type de poste"
+    },
+    "couples": {
+        "qrs": [
+            {
+                "Q": "Quelle est la différence de pourcentage de femmes élues comme conseillère entre 2009 et 2017 ?",
+                "R": "En 2009, le pourcentage de femmes élues comme conseillère était de 29.3 %.En 2017, le pourcentage de femmes élues comme conseillère était de 34.5 %.La différence est de 5.2 %."
+            },
+            {
+                "Q": "Quelle est la médiane du pourcentage de femmes élues comme mairesse ?",
+                "R": "Les pourcentages de femmes élues comme mairesse sont les suivants : 16 %, 17.3 %, 18.9 %, 23.3 %.La médiane est de 18.9 %."
+            },
+            {
+                "Q": "En quelle année le pourcentage de femmes élues comme conseillère a-t-il dépassé 35 % ?",
+                "R": "Le pourcentage de femmes élues comme conseillère a dépassé 35 % en 2021."
+            },
+            {
+                "Q": "Quelle est la proportion totale de femmes élues comme conseillère sur l'ensemble des années ?",
+                "R": "La proportion totale de femmes élues comme conseillère sur l'ensemble des années est la moyenne des pourcentages : (26.6 + 29.3 + 32 + 34.5 + 38.2) / 5 = 32.32 %."
+            },
+            {
+                "Q": "Comment le pourcentage de femmes élues comme conseillère a-t-il évolué entre 2017 et 2021 ?",
+                "R": "En 2017, le pourcentage était de 34.5 %.En 2021, le pourcentage était de 38.2 %.Il a augmenté de 3.7 %."
+            },
+            {
+                "Q": "Quel était le pourcentage de femmes élues comme conseillère en 2013 ?",
+                "R": "Le pourcentage de femmes élues comme conseillère en 2013 était de 32 %."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre l'année et le pourcentage de femmes élues comme conseillère ?",
+                "R": "Oui, il y a une corrélation positive entre l'année et le pourcentage de femmes élues comme conseillère, indiquant une tendance à l'augmentation au fil des ans."
+            },
+            {
+                "Q": "Quelle est la tendance du pourcentage de femmes élues comme conseillère de 2005 à 2021 ?",
+                "R": "La tendance du pourcentage de femmes élues comme conseillère de 2005 à 2021 est à la hausse, indiquant une augmentation progressive au fil des ans."
+            },
+            {
+                "Q": "En quelle année le pourcentage de femmes élues comme conseillère a-t-il atteint son minimum ?",
+                "R": "Le pourcentage de femmes élues comme conseillère a atteint son minimum en 2005, avec 26.6 %."
+            },
+            {
+                "Q": "Quelle est la variation du pourcentage de femmes élues comme mairesse entre 2013 et 2017 ?",
+                "R": "En 2013, le pourcentage de femmes élues comme mairesse était de 17.3 %.En 2017, le pourcentage était de 18.9 %.La variation est de 1.6 %."
+            },
+            {
+                "Q": "Y a-t-il une différence significative entre le pourcentage de femmes élues comme conseillère en 2013 et 2021 ?",
+                "R": "Oui, il y a une différence significative. En 2013, le pourcentage était de 32 %, tandis qu'en 2021, il était de 38.2 %."
+            },
+            {
+                "Q": "Quel était le pourcentage de femmes élues comme mairesse en 2021 ?",
+                "R": "Le pourcentage de femmes élues comme mairesse en 2021 était de 23.3 %."
+            },
+            {
+                "Q": "En quelle année le pourcentage de femmes élues comme mairesse a-t-il dépassé 15 % pour la première fois ?",
+                "R": "Le pourcentage de femmes élues comme mairesse a dépassé 15 % pour la première fois en 2009."
+            },
+            {
+                "Q": "Quelle est la moyenne du pourcentage de femmes élues comme conseillère sur l'ensemble des années ?",
+                "R": "La moyenne du pourcentage de femmes élues comme conseillère sur l'ensemble des années est (26.6 + 29.3 + 32 + 34.5 + 38.2) / 5 = 32.32 %."
+            },
+            {
+                "Q": "Comment le pourcentage de femmes élues comme mairesse a-t-il évolué entre 2017 et 2021 ?",
+                "R": "En 2017, le pourcentage de femmes élues comme mairesse était de 18.9 %.En 2021, le pourcentage était de 23.3 %.Il a augmenté de 4.4 %."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre le pourcentage de femmes élues comme conseillère en 2017 et 2021 ?",
+                "R": "Oui, il y a une corrélation positive entre le pourcentage de femmes élues comme conseillère en 2017 et 2021, indiquant une continuité de la tendance à l'augmentation."
+            },
+            {
+                "Q": "Quelle année a connu la plus faible augmentation du pourcentage de femmes élues comme mairesse ?",
+                "R": "La plus faible augmentation du pourcentage de femmes élues comme mairesse a été entre 2013 et 2017, avec une variation de 1.6 %."
+            },
+            {
+                "Q": "Quel était le pourcentage de femmes élues comme conseillère en 2005 ?",
+                "R": "Le pourcentage de femmes élues comme conseillère en 2005 était de 26.6 %."
+            },
+            {
+                "Q": "En quelle année le pourcentage de femmes élues comme conseillère a-t-il dépassé 25 % pour la première fois ?",
+                "R": "Le pourcentage de femmes élues comme conseillère a dépassé 25 % pour la première fois en 2009."
+            },
+            {
+                "Q": "Quelle est la variation du pourcentage de femmes élues comme conseillère entre 2005 et 2009 ?",
+                "R": "En 2005, le pourcentage de femmes élues comme conseillère était de 26.6 %.En 2009, le pourcentage était de 29.3 %.La variation est de 2.7 %."
+            },
+            {
+                "Q": "Y a-t-il une diminution du pourcentage de femmes élues comme mairesse entre 2017 et 2021 ?",
+                "R": "Non, il n'y a pas de diminution. Le pourcentage de femmes élues comme mairesse a augmenté de 4.4 % entre 2017 et 2021."
+            },
+            {
+                "Q": "Quelle est la proportion totale de femmes élues comme mairesse sur l'ensemble des années ?",
+                "R": "La proportion totale de femmes élues comme mairesse sur l'ensemble des années est la moyenne des pourcentages : (13.1 + 16 + 17.3 + 18.9 + 23.3) / 5 = 17.72 %."
+            },
+            {
+                "Q": "Quel était le pourcentage de femmes élues comme mairesse en 2017 ?",
+                "R": "Le pourcentage de femmes élues comme mairesse en 2017 était de 18.9 %."
+            },
+            {
+                "Q": "En quelle année le pourcentage de femmes élues comme mairesse a-t-il dépassé 10 % pour la première fois ?",
+                "R": "Le pourcentage de femmes élues comme mairesse a dépassé 10 % pour la première fois en 2005."
+            },
+            {
+                "Q": "Quelle est la tendance générale du pourcentage de femmes élues comme mairesse au fil des années ?",
+                "R": "La tendance générale du pourcentage de femmes élues comme mairesse au fil des années est à la hausse, indiquant une augmentation progressive."
+            },
+            {
+                "Q": "Quel est le titre du graphique représentant les proportions de femmes élues par type de poste ?",
+                "R": "Le texte ne mentionne pas explicitement de titre pour le graphique."
+            },
+            {
+                "Q": "Qui est l'auteur du graphique sur la proportion de femmes élues ?",
+                "R": "L'auteur du graphique n'est pas spécifié dans le texte."
+            },
+            {
+                "Q": "Quelles sont les couleurs utilisées dans le graphique et qu'est-ce qu'elles représentent ?",
+                "R": "Le texte ne fournit pas d'information sur les couleurs utilisées dans le graphique ni sur leur signification."
+            },
+            {
+                "Q": "Combien de mairesses ont été élues à la suite du scrutin du 7 novembre ?",
+                "R": "Le texte mentionne que les grandes villes du Québec, y compris Montréal, Longueuil, Gatineau, Sherbrooke et Saguenay, ont maintenant une mairesse, mais le nombre exact n'est pas précisé."
+            },
+            {
+                "Q": "Quelles sont les grandes villes du Québec ayant maintenant une mairesse ?",
+                "R": "Les grandes villes du Québec ayant maintenant une mairesse sont Montréal, Longueuil, Gatineau, Sherbrooke et Saguenay."
+            },
+            {
+                "Q": "Combien de mairesses et de conseillères municipales ont été élues selon les résultats provisoires du ministère des Affaires municipales et de l'Habitation ?",
+                "R": "Selon les résultats provisoires, il y a eu 239 mairesses et 2420 conseillères municipales élues."
+            },
+            {
+                "Q": "Quelle proportion des maires est représentée par les femmes selon les résultats provisoires ?",
+                "R": "Les femmes représentent 23.1 % des maires selon les résultats provisoires."
+            },
+            {
+                "Q": "Comment a évolué la proportion de femmes élues comme conseillère depuis 2005 ?",
+                "R": "La proportion de femmes élues comme conseillère a augmenté constamment depuis 2005, passant de 26.6 % à 38.2 % en 2021."
+            },
+            {
+                "Q": "Quelle est la tendance de la proportion de femmes élues comme mairesse depuis 2005 ?",
+                "R": "La proportion de femmes élues comme mairesse a également augmenté depuis 2005, atteignant 23.3 % en 2021."
+            },
+            {
+                "Q": "Selon les données de 2021, quel pourcentage de femmes ont été élues comme conseillères municipales ?",
+                "R": "En 2021, le pourcentage de femmes élues comme conseillères municipales est de 38.2 %."
+            },
+            {
+                "Q": "Quelle est la différence entre le pourcentage de femmes élues comme conseillère en 2005 et en 2021 ?",
+                "R": "La différence entre le pourcentage de femmes élues comme conseillère en 2005 (26.6 %) et en 2021 (38.2 %) est de 11.6 points de pourcentage."
+            },
+            {
+                "Q": "En 2017, quel était le pourcentage de femmes élues comme mairesse ?",
+                "R": "En 2017, le pourcentage de femmes élues comme mairesse était de 18.9 %."
+            },
+            {
+                "Q": "Combien de conseils municipaux au Québec ont des femmes représentant plus de 40% des élus ?",
+                "R": "Près de la moitié des conseils municipaux au Québec, soit 48 %, ont des femmes représentant plus de 40 % des élus."
+            },
+            {
+                "Q": "Quelle proportion de femmes élues comme conseillère représente la zone de parité selon le texte ?",
+                "R": "La zone de parité est définie dans le texte comme représentant plus de 40 % des élus, et dans presque la moitié des conseils municipaux (48 %), les femmes sont dans cette zone de parité."
+            },
+            {
+                "Q": "Quelle est la proportion de femmes élues comme mairesse dans la zone de parité ?",
+                "R": "Le texte ne spécifie pas la proportion de femmes élues comme mairesse dans la zone de parité."
+            },
+            {
+                "Q": "En quelle année la proportion de femmes élues comme conseillère était la plus basse selon les données fournies ?",
+                "R": "La proportion de femmes élues comme conseillère était la plus basse en 2005, avec un pourcentage de 26.6 %."
+            },
+            {
+                "Q": "Quelle est la proportion de femmes élues comme mairesse en 2009 ?",
+                "R": "En 2009, la proportion de femmes élues comme mairesse était de 16 %."
+            },
+            {
+                "Q": "Comment la proportion de femmes élues comme conseillère a-t-elle évolué entre 2005 et 2013 ?",
+                "R": "La proportion de femmes élues comme conseillère a augmenté de 26.6 % en 2005 à 32 % en 2013."
+            },
+            {
+                "Q": "Quelle est la proportion de femmes élues comme mairesse en 2021 ?",
+                "R": "En 2021, la proportion de femmes élues comme mairesse est de 23.3 %."
+            },
+            {
+                "Q": "En 2021, combien de conseils municipaux ont des femmes représentant plus de 40 % des élus ?",
+                "R": "Le texte ne fournit pas d'information spécifique sur le nombre de conseils municipaux avec plus de 40 % de femmes élues en 2021."
+            },
+            {
+                "Q": "Quel est le pourcentage de femmes élues comme conseillère en 2017 ?",
+                "R": "En 2017, le pourcentage de femmes élues comme conseillère était de 34.5 %."
+            },
+            {
+                "Q": "Comment la proportion de femmes élues comme mairesse a-t-elle changé entre 2013 et 2017 ?",
+                "R": "La proportion de femmes élues comme mairesse a augmenté de 17.3 % en 2013 à 18.9 % en 2017."
+            },
+            {
+                "Q": "En quelle année la proportion de femmes élues comme conseillère a-t-elle dépassé 30 % selon les données ?",
+                "R": "La proportion de femmes élues comme conseillère a dépassé 30 % en 2013."
+            },
+            {
+                "Q": "Quelle est la différence entre le pourcentage de femmes élues comme mairesse en 2017 et en 2021 ?",
+                "R": "La différence entre le pourcentage de femmes élues comme mairesse en 2017 (18.9 %) et en 2021 (23.3 %) est de 4.4 points de pourcentage."
+            },
+            {
+                "Q": "Quelle est la proportion de femmes élues comme conseillère en 2009 ?",
+                "R": "En 2009, la proportion de femmes élues comme conseillère était de 29.3 %."
+            },
+            {
+                "Q": "Combien de mairesses ont été élues en 2017 ?",
+                "R": "En 2017, 18.9% des maires ont été des femmes. Cependant, le nombre exact de mairesses n'est pas spécifié dans le texte."
+            },
+            {
+                "Q": "Quelle est la tendance générale de la proportion de femmes élues comme conseillère depuis 2005 ?",
+                "R": "La tendance générale montre une augmentation constante de la proportion de femmes élues comme conseillères municipales depuis 2005."
+            },
+            {
+                "Q": "Comment la proportion de femmes élues comme mairesse a-t-elle évolué entre 2017 et 2021 ?",
+                "R": "Entre 2017 et 2021, la proportion de femmes élues comme mairesse a augmenté de 4.4%, passant de 18.9% à 23.3%."
+            },
+            {
+                "Q": "En 2021, quel pourcentage de femmes a été élue comme mairesse ?",
+                "R": "En 2021, 23.3% des maires ont été des femmes."
+            },
+            {
+                "Q": "Combien de conseils municipaux au Québec ont des femmes représentant moins de 20% des élus ?",
+                "R": "Le texte ne fournit pas d'information spécifique sur le nombre de conseils municipaux avec moins de 20% de femmes élues."
+            },
+            {
+                "Q": "Quelle est la proportion de femmes élues comme conseillère en 2013 ?",
+                "R": "En 2013, 32% des conseillers municipaux étaient des femmes."
+            },
+            {
+                "Q": "En 2013, combien de conseils municipaux ont des femmes représentant plus de 40% des élus ?",
+                "R": "Le texte ne précise pas le nombre exact de conseils municipaux avec plus de 40% de femmes élues en 2013."
+            },
+            {
+                "Q": "Quelle est la proportion de femmes élues comme mairesse en 2013 ?",
+                "R": "En 2013, 17.3% des maires étaient des femmes."
+            },
+            {
+                "Q": "Quel est le pourcentage de femmes élues comme conseillère en 2021 ?",
+                "R": "En 2021, 38.2% des conseillers municipaux étaient des femmes."
+            },
+            {
+                "Q": "Combien de mairesses ont été élues en 2021 ?",
+                "R": "Le texte ne spécifie pas le nombre exact de mairesses élues en 2021."
+            },
+            {
+                "Q": "Quelle est la proportion de femmes élues comme mairesse en 2005 ?",
+                "R": "En 2005, 13.1% des maires étaient des femmes."
+            },
+            {
+                "Q": "Combien de conseils municipaux au Québec ont des femmes représentant entre 20% et 40% des élus ?",
+                "R": "Le texte ne fournit pas d'information précise sur le nombre de conseils municipaux avec une représentation de femmes entre 20% et 40%."
+            },
+            {
+                "Q": "Comment la proportion de femmes élues comme conseillère a-t-elle évolué entre 2013 et 2017 ?",
+                "R": "Entre 2013 et 2017, la proportion de femmes élues comme conseillère a augmenté de 2.5%, passant de 32% à 34.5%."
+            },
+            {
+                "Q": "En 2005, quel pourcentage de femmes a été élu comme mairesse ?",
+                "R": "En 2005, 13.1% des maires étaient des femmes."
+            },
+            {
+                "Q": "Quelle est la proportion de femmes élues comme conseillère en 2017 ?",
+                "R": "En 2017, 34.5% des conseillers municipaux étaient des femmes."
+            },
+            {
+                "Q": "En 2017, combien de conseils municipaux ont des femmes représentant moins de 20% des élus ?",
+                "R": "Le texte ne donne pas d'information précise sur le nombre de conseils municipaux avec moins de 20% de femmes élues en 2017."
+            },
+            {
+                "Q": "Quel est le pourcentage de femmes élues comme conseillère en 2005 ?",
+                "R": "En 2005, 26.6% des conseillers municipaux étaient des femmes."
+            },
+            {
+                "Q": "Combien de conseils municipaux au Québec ont des femmes représentant plus de 50% des élus ?",
+                "R": "Le texte ne fournit pas d'information précise sur le nombre de conseils municipaux avec plus de 50% de femmes élues."
+            },
+            {
+                "Q": "Comment la proportion de femmes élues comme mairesse a-t-elle évolué entre 2009 et 2013 ?",
+                "R": "Entre 2009 et 2013, la proportion de femmes élues comme mairesse a augmenté de 1.3%, passant de 16% à 17.3%."
+            },
+            {
+                "Q": "En 2009, quel pourcentage de femmes a été élu comme mairesse ?",
+                "R": "En 2009, 16% des maires étaient des femmes."
+            },
+            {
+                "Q": "Quelle est la proportion de femmes élues comme conseillère en 2021 ?",
+                "R": "En 2021, 38.2% des conseillers municipaux étaient des femmes."
+            },
+            {
+                "Q": "En 2013, combien de conseils municipaux ont des femmes représentant moins de 20% des élus ?",
+                "R": "Le texte ne donne pas d'information précise sur le nombre de conseils municipaux avec moins de 20% de femmes élues en 2013."
+            },
+            {
+                "Q": "Quelle est la tendance de la proportion de femmes élues comme conseillère depuis 2013 ?",
+                "R": "La tendance générale montre une augmentation constante de la proportion de femmes élues comme conseillères municipales depuis 2013."
+            },
+            {
+                "Q": "Quelle est la proportion de femmes élues comme mairesse en 2017 ?",
+                "R": "En 2017, 18.9% des maires étaient des femmes."
+            }
+        ],
+        "end": true
+    },
+    "clusters": {
+        "clusters": [
+            {
+                "question": "En quelle année le pourcentage de femmes élues comme conseillère a-t-il dépassé 35 % ?",
+                "answer": [
+                    "Le pourcentage de femmes élues comme conseillère a dépassé 35 % en 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Y a-t-il une corrélation entre l'année et le pourcentage de femmes élues comme conseillère ?",
+                "answer": [
+                    "Oui, il y a une corrélation positive entre l'année et le pourcentage de femmes élues comme conseillère, indiquant une tendance à l'augmentation au fil des ans."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7453512549,
+                        "start": 563,
+                        "end": 622,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la variation du pourcentage de femmes élues comme mairesse entre 2013 et 2017 ?",
+                "answer": [
+                    "En 2013, le pourcentage de femmes élues comme mairesse était de 17.3 %.En 2017, le pourcentage était de 18.9 %.La variation est de 1.6 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                2
+                            ],
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Y a-t-il une corrélation entre le pourcentage de femmes élues comme conseillère en 2017 et 2021 ?",
+                "answer": [
+                    "Oui, il y a une corrélation positive entre le pourcentage de femmes élues comme conseillère en 2017 et 2021, indiquant une continuité de la tendance à l'augmentation."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                3
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Comment le pourcentage de femmes élues comme conseillère a-t-il évolué entre 2017 et 2021 ?",
+                "answer": [
+                    "En 2017, le pourcentage était de 34.5 %.En 2021, le pourcentage était de 38.2 %.Il a augmenté de 3.7 %.",
+                    "En 2017, le pourcentage de femmes élues comme mairesse était de 18.9 %.En 2021, le pourcentage était de 23.3 %.Il a augmenté de 4.4 %."
+                ],
+                "diff_word": [
+                    [
+                        7,
+                        [
+                            "conseillère",
+                            "mairesse"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                3
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                3
+                            ],
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la tendance générale du pourcentage de femmes élues comme mairesse au fil des années ?",
+                "answer": [
+                    "La tendance générale du pourcentage de femmes élues comme mairesse au fil des années est à la hausse, indiquant une augmentation progressive."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.4081051648,
+                        "start": 587,
+                        "end": 609,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la proportion totale de femmes élues comme mairesse sur l'ensemble des années ?",
+                "answer": [
+                    "La proportion totale de femmes élues comme mairesse sur l'ensemble des années est la moyenne des pourcentages : (13.1 + 16 + 17.3 + 18.9 + 23.3) / 5 = 17.72 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.2303430587,
+                        "start": 490,
+                        "end": 496,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Combien de mairesses et de conseillères municipales ont été élues selon les résultats provisoires du ministère des Affaires municipales et de l'Habitation ?",
+                "answer": [
+                    "Selon les résultats provisoires, il y a eu 239 mairesses et 2420 conseillères municipales élues."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5276281238,
+                        "start": 391,
+                        "end": 407,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la proportion de femmes élues comme mairesse en 2009 ?",
+                "answer": [
+                    "En 2009, la proportion de femmes élues comme mairesse était de 16 %.",
+                    "En 2021, la proportion de femmes élues comme mairesse est de 23.3 %.",
+                    "En 2009, la proportion de femmes élues comme conseillère était de 29.3 %.",
+                    "En 2013, 32% des conseillers municipaux étaient des femmes.",
+                    "En 2013, 17.3% des maires étaient des femmes.",
+                    "En 2005, 13.1% des maires étaient des femmes.",
+                    "En 2017, 34.5% des conseillers municipaux étaient des femmes.",
+                    "En 2021, 38.2% des conseillers municipaux étaient des femmes.",
+                    "En 2017, 18.9% des maires étaient des femmes."
+                ],
+                "diff_word": [
+                    [
+                        8,
+                        [
+                            "mairesse",
+                            "mairesse",
+                            "conseillère",
+                            "conseillère",
+                            "mairesse",
+                            "mairesse",
+                            "conseillère",
+                            "conseillère",
+                            "mairesse"
+                        ]
+                    ],
+                    [
+                        10,
+                        [
+                            "2009",
+                            "2021",
+                            "2009",
+                            "2013",
+                            "2013",
+                            "2005",
+                            "2017",
+                            "2021",
+                            "2017"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En quelle année la proportion de femmes élues comme conseillère était la plus basse selon les données fournies ?",
+                "answer": [
+                    "La proportion de femmes élues comme conseillère était la plus basse en 2005, avec un pourcentage de 26.6 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2017, quel était le pourcentage de femmes élues comme mairesse ?",
+                "answer": [
+                    "En 2017, le pourcentage de femmes élues comme mairesse était de 18.9 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En quelle année la proportion de femmes élues comme conseillère a-t-elle dépassé 30 % selon les données ?",
+                "answer": [
+                    "La proportion de femmes élues comme conseillère a dépassé 30 % en 2013."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2005, quel pourcentage de femmes a été élu comme mairesse ?",
+                "answer": [
+                    "En 2005, 13.1% des maires étaient des femmes.",
+                    "En 2021, 23.3% des maires ont été des femmes.",
+                    "En 2009, 16% des maires étaient des femmes."
+                ],
+                "diff_word": [
+                    [
+                        1,
+                        [
+                            "2005,",
+                            "2021,",
+                            "2009,"
+                        ]
+                    ],
+                    [
+                        8,
+                        [
+                            "élu",
+                            "élue",
+                            "élu"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la médiane du pourcentage de femmes élues comme mairesse ?",
+                "answer": [
+                    "Les pourcentages de femmes élues comme mairesse sont les suivants : 16 %, 17.3 %, 18.9 %, 23.3 %.La médiane est de 18.9 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.9415171742,
+                        "start": 490,
+                        "end": 496,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En quelle année le pourcentage de femmes élues comme conseillère a-t-il atteint son minimum ?",
+                "answer": [
+                    "Le pourcentage de femmes élues comme conseillère a atteint son minimum en 2005, avec 26.6 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Comment la proportion de femmes élues comme conseillère a-t-elle évolué entre 2013 et 2017 ?",
+                "answer": [
+                    "Entre 2013 et 2017, la proportion de femmes élues comme conseillère a augmenté de 2.5%, passant de 32% à 34.5%.",
+                    "La proportion de femmes élues comme conseillère a augmenté de 26.6 % en 2005 à 32 % en 2013.",
+                    "La proportion de femmes élues comme mairesse a augmenté de 17.3 % en 2013 à 18.9 % en 2017.",
+                    "Entre 2017 et 2021, la proportion de femmes élues comme mairesse a augmenté de 4.4%, passant de 18.9% à 23.3%.",
+                    "Entre 2009 et 2013, la proportion de femmes élues comme mairesse a augmenté de 1.3%, passant de 16% à 17.3%."
+                ],
+                "diff_word": [
+                    [
+                        7,
+                        [
+                            "conseillère",
+                            "conseillère",
+                            "mairesse",
+                            "mairesse",
+                            "mairesse"
+                        ]
+                    ],
+                    [
+                        9,
+                        [
+                            "évolué",
+                            "évolué",
+                            "changé",
+                            "évolué",
+                            "évolué"
+                        ]
+                    ],
+                    [
+                        11,
+                        [
+                            "2013",
+                            "2005",
+                            "2013",
+                            "2017",
+                            "2009"
+                        ]
+                    ],
+                    [
+                        13,
+                        [
+                            "2017",
+                            "2013",
+                            "2017",
+                            "2021",
+                            "2013"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                2
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                0
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                2
+                            ],
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                3
+                            ],
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                1
+                            ],
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Y a-t-il une diminution du pourcentage de femmes élues comme mairesse entre 2017 et 2021 ?",
+                "answer": [
+                    "Non, il n'y a pas de diminution. Le pourcentage de femmes élues comme mairesse a augmenté de 4.4 % entre 2017 et 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                3
+                            ],
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelles sont les grandes villes du Québec ayant maintenant une mairesse ?",
+                "answer": [
+                    "Les grandes villes du Québec ayant maintenant une mairesse sont Montréal, Longueuil, Gatineau, Sherbrooke et Saguenay."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.9968150258,
+                        "start": 118,
+                        "end": 171,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Comment a évolué la proportion de femmes élues comme conseillère depuis 2005 ?",
+                "answer": [
+                    "La proportion de femmes élues comme conseillère a augmenté constamment depuis 2005, passant de 26.6 % à 38.2 % en 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                0
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel était le pourcentage de femmes élues comme conseillère en 2005 ?",
+                "answer": [
+                    "Le pourcentage de femmes élues comme conseillère en 2005 était de 26.6 %.",
+                    "Le pourcentage de femmes élues comme conseillère en 2013 était de 32 %.",
+                    "Le pourcentage de femmes élues comme mairesse en 2021 était de 23.3 %.",
+                    "Le pourcentage de femmes élues comme mairesse en 2017 était de 18.9 %.",
+                    "En 2017, le pourcentage de femmes élues comme conseillère était de 34.5 %.",
+                    "En 2021, 38.2% des conseillers municipaux étaient des femmes.",
+                    "En 2005, 26.6% des conseillers municipaux étaient des femmes."
+                ],
+                "diff_word": [
+                    [
+                        1,
+                        [
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "est",
+                            "est",
+                            "est"
+                        ]
+                    ],
+                    [
+                        8,
+                        [
+                            "conseillère",
+                            "conseillère",
+                            "mairesse",
+                            "mairesse",
+                            "conseillère",
+                            "conseillère",
+                            "conseillère"
+                        ]
+                    ],
+                    [
+                        10,
+                        [
+                            "2005",
+                            "2013",
+                            "2021",
+                            "2017",
+                            "2017",
+                            "2021",
+                            "2005"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle proportion de femmes élues comme conseillère représente la zone de parité selon le texte ?",
+                "answer": [
+                    "La zone de parité est définie dans le texte comme représentant plus de 40 % des élus, et dans presque la moitié des conseils municipaux (48 %), les femmes sont dans cette zone de parité."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5079846978,
+                        "start": 712,
+                        "end": 724,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la différence de pourcentage de femmes élues comme conseillère entre 2009 et 2017 ?",
+                "answer": [
+                    "En 2009, le pourcentage de femmes élues comme conseillère était de 29.3 %.En 2017, le pourcentage de femmes élues comme conseillère était de 34.5 %.La différence est de 5.2 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                1
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Y a-t-il une différence significative entre le pourcentage de femmes élues comme conseillère en 2013 et 2021 ?",
+                "answer": [
+                    "Oui, il y a une différence significative. En 2013, le pourcentage était de 32 %, tandis qu'en 2021, il était de 38.2 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                2
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la tendance du pourcentage de femmes élues comme conseillère de 2005 à 2021 ?",
+                "answer": [
+                    "La tendance du pourcentage de femmes élues comme conseillère de 2005 à 2021 est à la hausse, indiquant une augmentation progressive au fil des ans."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                0
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                1
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                2
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                3
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la moyenne du pourcentage de femmes élues comme conseillère sur l'ensemble des années ?",
+                "answer": [
+                    "La moyenne du pourcentage de femmes élues comme conseillère sur l'ensemble des années est (26.6 + 29.3 + 32 + 34.5 + 38.2) / 5 = 32.32 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.4189809859,
+                        "start": 490,
+                        "end": 496,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la variation du pourcentage de femmes élues comme conseillère entre 2005 et 2009 ?",
+                "answer": [
+                    "En 2005, le pourcentage de femmes élues comme conseillère était de 26.6 %.En 2009, le pourcentage était de 29.3 %.La variation est de 2.7 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                0
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la tendance de la proportion de femmes élues comme mairesse depuis 2005 ?",
+                "answer": [
+                    "La proportion de femmes élues comme mairesse a également augmenté depuis 2005, atteignant 23.3 % en 2021.",
+                    "La tendance générale montre une augmentation constante de la proportion de femmes élues comme conseillères municipales depuis 2005.",
+                    "La tendance générale montre une augmentation constante de la proportion de femmes élues comme conseillères municipales depuis 2013."
+                ],
+                "diff_word": [
+                    [
+                        4,
+                        [
+                            "",
+                            "générale",
+                            ""
+                        ]
+                    ],
+                    [
+                        11,
+                        [
+                            "mairesse",
+                            "conseillère",
+                            "conseillère"
+                        ]
+                    ],
+                    [
+                        13,
+                        [
+                            "2005",
+                            "2005",
+                            "2013"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle année a connu la plus faible augmentation du pourcentage de femmes élues comme mairesse ?",
+                "answer": [
+                    "La plus faible augmentation du pourcentage de femmes élues comme mairesse a été entre 2013 et 2017, avec une variation de 1.6 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                2
+                            ],
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Combien de mairesses ont été élues à la suite du scrutin du 7 novembre ?",
+                "answer": [
+                    "Le texte mentionne que les grandes villes du Québec, y compris Montréal, Longueuil, Gatineau, Sherbrooke et Saguenay, ont maintenant une mairesse, mais le nombre exact n'est pas précisé."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6693578362,
+                        "start": 404,
+                        "end": 407,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Selon les données de 2021, quel pourcentage de femmes ont été élues comme conseillères municipales ?",
+                "answer": [
+                    "En 2021, le pourcentage de femmes élues comme conseillères municipales est de 38.2 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la différence entre le pourcentage de femmes élues comme conseillère en 2005 et en 2021 ?",
+                "answer": [
+                    "La différence entre le pourcentage de femmes élues comme conseillère en 2005 (26.6 %) et en 2021 (38.2 %) est de 11.6 points de pourcentage.",
+                    "La différence entre le pourcentage de femmes élues comme mairesse en 2017 (18.9 %) et en 2021 (23.3 %) est de 4.4 points de pourcentage."
+                ],
+                "diff_word": [
+                    [
+                        11,
+                        [
+                            "conseillère",
+                            "mairesse"
+                        ]
+                    ],
+                    [
+                        13,
+                        [
+                            "2005",
+                            "2017"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                0
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                1
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                2
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                3
+                            ],
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                3
+                            ],
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle proportion des maires est représentée par les femmes selon les résultats provisoires ?",
+                "answer": [
+                    "Les femmes représentent 23.1 % des maires selon les résultats provisoires."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.970893383,
+                        "start": 490,
+                        "end": 496,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Combien de conseils municipaux au Québec ont des femmes représentant plus de 40% des élus ?",
+                "answer": [
+                    "Près de la moitié des conseils municipaux au Québec, soit 48 %, ont des femmes représentant plus de 40 % des élus."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.4263550639,
+                        "start": 639,
+                        "end": 645,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En quelle année le pourcentage de femmes élues comme mairesse a-t-il dépassé 15 % pour la première fois ?",
+                "answer": [
+                    "Le pourcentage de femmes élues comme mairesse a dépassé 15 % pour la première fois en 2009.",
+                    "Le pourcentage de femmes élues comme conseillère a dépassé 25 % pour la première fois en 2009.",
+                    "Le pourcentage de femmes élues comme mairesse a dépassé 10 % pour la première fois en 2005."
+                ],
+                "diff_word": [
+                    [
+                        9,
+                        [
+                            "mairesse",
+                            "conseillère",
+                            "mairesse"
+                        ]
+                    ],
+                    [
+                        12,
+                        [
+                            "15",
+                            "25",
+                            "10"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme conseillère",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "pourcentage de femmes élues comme mairesse",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel est le titre du graphique représentant les proportions de femmes élues par type de poste ?",
+                "answer": [
+                    "Le texte ne mentionne pas explicitement de titre pour le graphique."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5079626441,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Qui est l'auteur du graphique sur la proportion de femmes élues ?",
+                "answer": [
+                    "L'auteur du graphique n'est pas spécifié dans le texte."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5443632603,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelles sont les couleurs utilisées dans le graphique et qu'est-ce qu'elles représentent ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information sur les couleurs utilisées dans le graphique ni sur leur signification."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.514269501,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelle est la proportion de femmes élues comme mairesse dans la zone de parité ?",
+                "answer": [
+                    "Le texte ne spécifie pas la proportion de femmes élues comme mairesse dans la zone de parité."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7105590701,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "En 2021, combien de conseils municipaux ont des femmes représentant plus de 40 % des élus ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information spécifique sur le nombre de conseils municipaux avec plus de 40 % de femmes élues en 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7360753119,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Combien de mairesses ont été élues en 2017 ?",
+                "answer": [
+                    "En 2017, 18.9% des maires ont été des femmes. Cependant, le nombre exact de mairesses n'est pas spécifié dans le texte."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.685849905,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Combien de conseils municipaux au Québec ont des femmes représentant moins de 20% des élus ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information spécifique sur le nombre de conseils municipaux avec moins de 20% de femmes élues."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6108136773,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "En 2013, combien de conseils municipaux ont des femmes représentant plus de 40% des élus ?",
+                "answer": [
+                    "Le texte ne précise pas le nombre exact de conseils municipaux avec plus de 40% de femmes élues en 2013."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.684627533,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Combien de mairesses ont été élues en 2021 ?",
+                "answer": [
+                    "Le texte ne spécifie pas le nombre exact de mairesses élues en 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7242124379,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Combien de conseils municipaux au Québec ont des femmes représentant entre 20% et 40% des élus ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information précise sur le nombre de conseils municipaux avec une représentation de femmes entre 20% et 40%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6207579672,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "En 2017, combien de conseils municipaux ont des femmes représentant moins de 20% des élus ?",
+                "answer": [
+                    "Le texte ne donne pas d'information précise sur le nombre de conseils municipaux avec moins de 20% de femmes élues en 2017."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6258111,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Combien de conseils municipaux au Québec ont des femmes représentant plus de 50% des élus ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information précise sur le nombre de conseils municipaux avec plus de 50% de femmes élues."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6408302188,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "En 2013, combien de conseils municipaux ont des femmes représentant moins de 20% des élus ?",
+                "answer": [
+                    "Le texte ne donne pas d'information précise sur le nombre de conseils municipaux avec moins de 20% de femmes élues en 2013."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6287157238,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelle est la proportion totale de femmes élues comme conseillère sur l'ensemble des années ?",
+                "answer": [
+                    "La proportion totale de femmes élues comme conseillère sur l'ensemble des années est la moyenne des pourcentages : (26.6 + 29.3 + 32 + 34.5 + 38.2) / 5 = 32.32 %."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 509,
+                        "end": 515,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            }
+        ],
+        "topics": {
+            "0": [
+                "CONTEXT"
+            ],
+            "1": [
+                "BIN"
+            ],
+            "-1": [
+                "CLUSTER A",
+                "Ces couples analysent les élections municipales au Québec, incluant les tendances et les proportions de femmes élues comme mairesse ou conseillère."
+            ]
+        }
+    }
+}

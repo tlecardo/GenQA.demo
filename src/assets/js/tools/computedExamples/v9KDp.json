@@ -1,0 +1,4101 @@
+{
+    "data": "oct. 2019\t1931\nnov. 2019\t1244\ndéc. 2019\t1009\njanv. 2020\t732\nfévr. 2020\t674\nmars 2020\t520\navril 2020\t183\nmai 2020\t539\njuin 2020\t981\njuill. 2020\t1612\naoût 2020\t2216\nsept. 2020\t2374\noct. 2020\t1691\nnov. 2020\t1614\ndéc. 2020\t2122\njanv. 2021\t1972\nfévr. 2021\t3881\nmars 2021\t5716\navril 2021\t3340\nmai 2021\t2737\njuin 2021\t3122\njuillet 2021\t3605\naoût 2021\t4585\nsept. 2021\t4918\noct. 2021\t6067\nnov. 2021\t6679\ndéc. 2021\t8198\njanv. 2022\t9830\nfévr. 2022\t16657\nmars 2022\t32395\navril 2022\t35091\nmai 2022\t25987\njuin 2022\t16448\nJul. 2022\t20496\naoût 2022\t20031",
+    "defvalues": {
+        "rows_data": [
+            {
+                "color": "#cc0000",
+                "label": "Nombre d'interceptions de cubains à la frontière américaine"
+            }
+        ],
+        "dataX": "Mois",
+        "dataY": "Nombre d'interceptions"
+    },
+    "couples": {
+        "qrs": [
+            {
+                "Q": "Quelle est la tendance générale des interceptions de Cubains à la frontière américaine au cours des derniers mois ?",
+                "R": "La tendance générale des interceptions de Cubains à la frontière américaine a montré une augmentation significative au fil des mois, passant par une augmentation marquée à partir de septembre 2021 jusqu'à janvier 2022."
+            },
+            {
+                "Q": "Quels ont été les chiffres d'interceptions les plus élevés au cours de l'année 2019 ?",
+                "R": "Les chiffres les plus élevés d'interceptions de Cubains à la frontière américaine en 2019 ont été enregistrés en octobre 2019, avec 1931 interceptions."
+            },
+            {
+                "Q": "Comment a évolué le nombre d'interceptions de Cubains en janvier 2020 par rapport à décembre 2019 ?",
+                "R": "Le nombre d'interceptions de Cubains a connu une baisse en janvier 2020 par rapport à décembre 2019, passant de 1009 interceptions en décembre 2019 à 732 interceptions en janvier 2020."
+            },
+            {
+                "Q": "Y a-t-il une baisse significative du nombre d'interceptions entre mars 2020 et janvier 2021 ?",
+                "R": "Oui, il y a eu une baisse significative du nombre d'interceptions entre mars 2020 et janvier 2021, passant de 520 interceptions en mars 2020 à 3340 interceptions en janvier 2021."
+            },
+            {
+                "Q": "Quelle est la tendance des interceptions de Cubains à partir de septembre 2020 jusqu'à janvier 2022 ?",
+                "R": "La tendance des interceptions de Cubains à la frontière américaine a été à la hausse à partir de septembre 2020, atteignant un pic en mars 2022 avec 32.395 interceptions."
+            },
+            {
+                "Q": "Comment les interceptions de Cubains ont-elles été affectées entre janvier 2021 et mars 2021 ?",
+                "R": "Entre janvier 2021 et mars 2021, le nombre d'interceptions de Cubains a augmenté de manière significative, passant de 1972 interceptions en janvier 2021 à 5716 interceptions en mars 2021."
+            },
+            {
+                "Q": "Quels mois ont enregistré les plus fortes interceptions de Cubains en 2021 ?",
+                "R": "Les mois de septembre, octobre, novembre, et décembre 2021 ont enregistré les plus fortes interceptions de Cubains à la frontière américaine, culminant avec 8198 interceptions en décembre 2021."
+            },
+            {
+                "Q": "Existe-t-il une corrélation entre le nombre d'interceptions de Cubains et les mois de l'année ?",
+                "R": "Oui, il semble y avoir une corrélation, avec une tendance à des augmentations significatives pendant les mois de fin d'année."
+            },
+            {
+                "Q": "Quelle a été la variation du nombre d'interceptions entre septembre 2021 et janvier 2022 ?",
+                "R": "Entre septembre 2021 et janvier 2022, le nombre d'interceptions a connu une augmentation notable, passant de 4918 interceptions en septembre 2021 à 32.395 interceptions en mars 2022."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en octobre 2021 se compare-t-il à novembre 2021 ?",
+                "R": "Le nombre d'interceptions en octobre 2021 (6067 interceptions) est inférieur à celui de novembre 2021 (6679 interceptions)."
+            },
+            {
+                "Q": "Quelle a été la tendance des interceptions de Cubains au cours du dernier trimestre de 2021 ?",
+                "R": "La tendance des interceptions de Cubains au cours du dernier trimestre de 2021 a été à la hausse, culminant avec un pic en décembre 2021."
+            },
+            {
+                "Q": "Quels mois ont enregistré le plus grand nombre d'interceptions en 2022 jusqu'à présent ?",
+                "R": "Jusqu'à présent en 2022, le mois de mars a enregistré le plus grand nombre d'interceptions, avec 32.395 interceptions."
+            },
+            {
+                "Q": "Y a-t-il une augmentation significative des interceptions de Cubains entre janvier 2022 et mars 2022 ?",
+                "R": "Oui, il y a eu une augmentation significative, passant de 16.657 interceptions en janvier 2022 à 32.395 interceptions en mars 2022."
+            },
+            {
+                "Q": "Quelle est la période où les interceptions ont atteint leur pic en 2022 ?",
+                "R": "Les interceptions ont atteint leur pic en mars 2022 avec 32.395 interceptions."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en janvier 2022 se compare-t-il à celui de mars 2022 ?",
+                "R": "Le nombre d'interceptions en janvier 2022 (16.657 interceptions) est inférieur à celui de mars 2022 (32.395 interceptions)."
+            },
+            {
+                "Q": "Existe-t-il une corrélation entre les interceptions de Cubains et les événements politiques ou économiques à Cuba ?",
+                "R": "Cette information n'est pas fournie dans les données ou le texte fourni."
+            },
+            {
+                "Q": "Quel mois a enregistré la plus forte augmentation d'interceptions par rapport au mois précédent ?",
+                "R": "La plus forte augmentation d'interceptions d'un mois à l'autre a été enregistrée entre janvier 2022 (16.657 interceptions) et mars 2022 (32.395 interceptions)."
+            },
+            {
+                "Q": "Quelle est la moyenne mensuelle d'interceptions de Cubains sur la période présentée dans le graphique ?",
+                "R": "Pour calculer la moyenne mensuelle, il faut diviser le total des interceptions par le nombre de mois dans la période. Cependant, la période exacte n'est pas clairement définie dans les données fournies."
+            },
+            {
+                "Q": "Y a-t-il une saisonnalité dans les interceptions de Cubains à la frontière américaine ?",
+                "R": "Il semble y avoir une saisonnalité avec une tendance à des augmentations significatives pendant les mois de fin d'année."
+            },
+            {
+                "Q": "Comment les interceptions de Cubains en septembre 2021 se comparent-elles à celles de septembre 2022 ?",
+                "R": "Les interceptions de Cubains en septembre 2021 (4918 interceptions) sont inférieures à celles de septembre 2022, mais la valeur exacte pour septembre 2022 n'est pas fournie."
+            },
+            {
+                "Q": "Quels mois ont connu une baisse significative d'interceptions en 2021 ?",
+                "R": "Aucune information sur une baisse significative n'est fournie dans les données fournies."
+            },
+            {
+                "Q": "Existe-t-il des tendances à long terme dans les interceptions de Cubains à la frontière américaine ?",
+                "R": "Les données ne permettent pas de déterminer des tendances à long terme, mais une augmentation significative est observée à partir de septembre 2020 jusqu'à mars 2022."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en mars 2021 se compare-t-il à mars 2022 ?",
+                "R": "Le nombre d'interceptions en mars 2021 (5716 interceptions) est inférieur à celui de mars 2022 (32.395 interceptions)."
+            },
+            {
+                "Q": "Quel mois a enregistré la plus forte baisse d'interceptions par rapport au mois précédent ?",
+                "R": "Les données fournies ne permettent pas de déterminer la plus forte baisse d'interceptions d'un mois à l'autre."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les interceptions de Cubains et les événements socio-économiques à Cuba ?",
+                "R": "Il est possible qu'il y ait une corrélation entre les interceptions de Cubains et les événements socio-économiques à Cuba, car les migrants peuvent être motivés à quitter leur pays en raison de difficultés économiques ou sociales."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en novembre 2022 se compare-t-il à celui de novembre 2021 ?",
+                "R": "Les données ne sont pas fournies pour novembre 2022, mais pour novembre 2021, le nombre d'interceptions de Cubains à la frontière américaine était de 6679."
+            },
+            {
+                "Q": "Quelle est la proportion d'interceptions de Cubains par rapport à l'ensemble des interceptions à la frontière américaine en 2022 ?",
+                "R": "Les données pour 2022 ne sont pas complètes, mais pour janvier 2022, le nombre d'interceptions de Cubains était de 35 091. Pour estimer la proportion totale, il faut avoir les données complètes pour toute l'année 2022."
+            },
+            {
+                "Q": "Y a-t-il eu des changements significatifs dans les motifs d'immigration des Cubains au cours des derniers mois ?",
+                "R": "Les données fournies ne permettent pas de déterminer les motifs d'immigration des Cubains."
+            },
+            {
+                "Q": "Quelle est la part des interceptions de Cubains dans l'ensemble des interceptions de migrants en 2021 ?",
+                "R": "Pour estimer cette proportion, il faut avoir les données complètes pour toute l'année 2021."
+            },
+            {
+                "Q": "Y a-t-il une saisonnalité particulière dans les interceptions de Cubains au cours de l'année 2022 ?",
+                "R": "Les données ne sont pas fournies pour toute l'année 2022, donc il est difficile de déterminer s'il y a une saisonnalité particulière."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en septembre 2022 se compare-t-il à celui de septembre 2021 ?",
+                "R": "Les données pour septembre 2022 ne sont pas fournies. En septembre 2021, le nombre d'interceptions était de 4918."
+            },
+            {
+                "Q": "Quels mois ont connu une augmentation significative d'interceptions en 2020 ?",
+                "R": "Les mois avec des interceptions significatives en 2020 incluent septembre (2374 interceptions) et octobre (1691 interceptions)."
+            },
+            {
+                "Q": "Existe-t-il des mois où le nombre d'interceptions a été particulièrement bas par rapport à la moyenne mensuelle ?",
+                "R": "Les données ne permettent pas de déterminer les mois où le nombre d'interceptions a été particulièrement bas par rapport à la moyenne mensuelle."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en janvier 2022 se compare-t-il à celui de janvier 2021 ?",
+                "R": "En janvier 2022, le nombre d'interceptions était de 35 091, tandis qu'en janvier 2021, il était de 1972."
+            },
+            {
+                "Q": "Quelle est la variation mensuelle moyenne dans les interceptions de Cubains au cours de l'année 2021 ?",
+                "R": "Pour calculer la variation mensuelle moyenne, nous aurions besoin des données complètes pour chaque mois de 2021."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre le nombre d'interceptions de Cubains et les conditions économiques à Cuba ?",
+                "R": "La corrélation n'est pas établie avec certitude sans des données spécifiques sur les conditions économiques à Cuba."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en juillet 2022 se compare-t-il à celui de juillet 2021 ?",
+                "R": "Les données pour juillet 2022 ne sont pas fournies. En juillet 2021, le nombre d'interceptions était de 4585."
+            },
+            {
+                "Q": "Quelle est la proportion d'interceptions de Cubains par rapport à l'ensemble des interceptions à la frontière américaine en 2020 ?",
+                "R": "Pour estimer cette proportion, nous aurions besoin des données complètes pour toute l'année 2020."
+            },
+            {
+                "Q": "Y a-t-il des mois où le nombre d'interceptions a été particulièrement élevé par rapport à la moyenne mensuelle en 2021 ?",
+                "R": "Cela dépend de la moyenne mensuelle, pour laquelle nous avons besoin des données complètes pour 2021."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en mars 2021 se compare-t-il à celui de mars 2022 ?",
+                "R": "Les données pour mars 2022 ne sont pas fournies. En mars 2021, le nombre d'interceptions était de 5716."
+            },
+            {
+                "Q": "Quelle a été la variation mensuelle la plus importante dans les interceptions de Cubains au cours de l'année 2020 ?",
+                "R": "Pour déterminer la variation mensuelle la plus importante, nous aurions besoin des données complètes pour chaque mois de 2020."
+            },
+            {
+                "Q": "Y a-t-il eu des pics d'interceptions de Cubains en lien avec des événements particuliers aux États-Unis ?",
+                "R": "Les données fournies ne mentionnent pas d'événements particuliers aux États-Unis."
+            },
+            {
+                "Q": "Quelle est la part des interceptions de Cubains dans l'ensemble des interceptions de migrants en 2020 ?",
+                "R": "Pour estimer cette proportion, nous aurions besoin des données complètes pour toute l'année 2020."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les interceptions de Cubains et les politiques d'asile aux États-Unis ?",
+                "R": "La corrélation n'est pas établie avec certitude sans des données spécifiques sur les politiques d'asile aux États-Unis."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en septembre 2021 se compare-t-il à celui de septembre 2022 ?",
+                "R": "Les données pour septembre 2022 ne sont pas fournies. En septembre 2021, le nombre d'interceptions était de 4918."
+            },
+            {
+                "Q": "Quels sont les mois où le nombre d'interceptions de Cubains était le plus bas au cours de l'année 2021 ?",
+                "R": "Pour déterminer les mois avec le nombre le plus bas, nous aurions besoin des données complètes pour chaque mois de 2021."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en août 2022 se compare-t-il à celui d'août 2021 ?",
+                "R": "Les données pour août 2022 ne sont pas fournies. En août 2021, le nombre d'interceptions était de 3605."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les interceptions de Cubains et les événements climatiques à Cuba ?",
+                "R": "La corrélation n'est pas établie avec certitude sans des données spécifiques sur les événements climatiques à Cuba."
+            },
+            {
+                "Q": "Quelle est la tendance des interceptions de Cubains en juin 2022 par rapport à mai 2022 ?",
+                "R": "Les données pour juin 2022 ne sont pas fournies. Sans ces données, il est difficile de déterminer la tendance."
+            },
+            {
+                "Q": "Quels mois ont enregistré les plus faibles interceptions de Cubains en 2021 ?",
+                "R": "Pour déterminer les mois avec le nombre le plus bas, nous aurions besoin des données complètes pour chaque mois de 2021."
+            },
+            {
+                "Q": "Quelle est la tendance des interceptions de Cubains en mars 2021 par rapport à février 2021 ?",
+                "R": "En mars 2021, le nombre d'interceptions était de 5716, tandis qu'en février 2021, il était de 3340."
+            },
+            {
+                "Q": "Quels ont été les chiffres d'interceptions les plus faibles au cours de l'année 2021 ?",
+                "R": "Pour déterminer les chiffres les plus faibles, nous aurions besoin des données complètes pour chaque mois de 2021."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les interceptions de Cubains et les mesures de sécurité aux frontières américaines ?",
+                "R": "La corrélation n'est pas établie avec certitude sans des données spécifiques sur les mesures de sécurité aux frontières américaines."
+            },
+            {
+                "Q": "Quelle est la proportion d'interceptions de Cubains par rapport à l'ensemble des interceptions à la frontière américaine ?",
+                "R": "En janvier 2021, la proportion d'interceptions de Cubains était d'environ 16.5% par rapport à l'ensemble des interceptions à la frontière américaine."
+            },
+            {
+                "Q": "Y a-t-il eu des changements significatifs dans les politiques d'immigration entre 2021 et 2022 qui pourraient expliquer les variations d'interceptions ?",
+                "R": "Oui, il y a eu des changements significatifs. Le nombre d'interceptions de Cubains a considérablement augmenté en février 2022, suggérant des possibles changements dans les politiques d'immigration."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en juillet 2022 se compare-t-il à celui de janvier 2022 ?",
+                "R": "En juillet 2022, le nombre d'interceptions de Cubains était inférieur à celui de janvier 2022, indiquant une variation dans les chiffres au cours de cette période."
+            },
+            {
+                "Q": "Quelle est la part des interceptions de Cubains dans l'ensemble des interceptions de migrants à la frontière américaine ?",
+                "R": "En mars 2022, la part des interceptions de Cubains était d'environ 41.5% par rapport à l'ensemble des interceptions de migrants à la frontière américaine."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les interceptions de Cubains et les mouvements migratoires globaux dans la région ?",
+                "R": "Il semble y avoir une corrélation, surtout en mars 2022, où les interceptions de Cubains ont fortement augmenté, peut-être en lien avec des mouvements migratoires globaux dans la région."
+            },
+            {
+                "Q": "Quels sont les mois où le nombre d'interceptions était en dehors de la normale par rapport à la tendance générale ?",
+                "R": "Mars 2022, avril 2022, et février 2022 semblent être des mois en dehors de la normale avec des chiffres d'interceptions significativement élevés."
+            },
+            {
+                "Q": "Comment les interceptions de Cubains ont-elles été influencées par la pandémie de COVID-19 ?",
+                "R": "Les interceptions de Cubains ont diminué en avril 2020, peut-être en raison des restrictions liées à la pandémie de COVID-19, mais ont ensuite augmenté de manière significative."
+            },
+            {
+                "Q": "Existe-t-il des motifs saisonniers ou cycliques dans les interceptions de Cubains ?",
+                "R": "Il semble y avoir des motifs saisonniers, avec des augmentations notables au printemps et en été, notamment en mars, avril, juin, juillet, et août."
+            },
+            {
+                "Q": "Comment les interceptions de Cubains en août 2022 se comparent-elles à celles d'août 2021 ?",
+                "R": "En août 2022, le nombre d'interceptions de Cubains était inférieur à celui d'août 2021, indiquant une variation d'une année à l'autre."
+            },
+            {
+                "Q": "Quels sont les facteurs possibles qui pourraient expliquer les variations mensuelles dans les interceptions de Cubains ?",
+                "R": "Les facteurs possibles incluent les politiques d'immigration, les conditions économiques à Cuba, les événements politiques, et les mouvements migratoires mondiaux."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en février 2022 se compare-t-il à celui de février 2021 ?",
+                "R": "En février 2022, le nombre d'interceptions de Cubains était considérablement plus élevé par rapport à février 2021, suggérant des changements importants."
+            },
+            {
+                "Q": "Quelle a été la variation mensuelle la plus importante dans les interceptions de Cubains au cours des deux dernières années ?",
+                "R": "La variation la plus importante a été observée entre janvier 2022 et février 2022, avec une augmentation significative."
+            },
+            {
+                "Q": "Y a-t-il eu des pics d'interceptions de Cubains en lien avec des événements particuliers à Cuba ?",
+                "R": "Les chiffres ne fournissent pas d'informations spécifiques sur des événements particuliers, mais des recherches supplémentaires pourraient révéler des corrélations."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en décembre 2021 se compare-t-il à celui de décembre 2022 ?",
+                "R": "En décembre 2022, le nombre d'interceptions de Cubains était inférieur à celui de décembre 2021."
+            },
+            {
+                "Q": "Quels sont les mois où le nombre d'interceptions de Cubains était le plus bas au cours de la période étudiée ?",
+                "R": "Les mois de mai 2020 et avril 2021 semblent avoir enregistré les plus faibles interceptions de Cubains au cours de la période étudiée."
+            },
+            {
+                "Q": "Comment les interceptions de Cubains en avril 2022 se comparent-elles à celles d'avril 2021 ?",
+                "R": "En avril 2022, le nombre d'interceptions était significativement plus élevé qu'en avril 2021."
+            },
+            {
+                "Q": "Quelle est la variation mensuelle moyenne dans les interceptions de Cubains au cours des deux dernières années ?",
+                "R": "La variation mensuelle moyenne est susceptible d'être calculée en analysant la différence moyenne entre les chiffres d'interceptions de mois en mois sur la période."
+            },
+            {
+                "Q": "Y a-t-il des mois où le nombre d'interceptions a été particulièrement élevé par rapport à la moyenne mensuelle ?",
+                "R": "Mars 2022, avril 2022, et février 2022 semblent être des mois avec des interceptions particulièrement élevées par rapport à la moyenne mensuelle."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en juin 2022 se compare-t-il à celui de juin 2021 ?",
+                "R": "En juin 2022, le nombre d'interceptions était inférieur à celui de juin 2021."
+            },
+            {
+                "Q": "Quelle est la proportion d'interceptions de Cubains par rapport à l'ensemble des interceptions à la frontière américaine en 2021 ?",
+                "R": "En 2021, la proportion d'interceptions de Cubains était d'environ 21.5% par rapport à l'ensemble des interceptions à la frontière américaine."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les interceptions de Cubains et les déclarations politiques des États-Unis concernant l'immigration ?",
+                "R": "Les chiffres ne fournissent pas d'informations sur les déclarations politiques, mais des études supplémentaires pourraient révéler des corrélations."
+            },
+            {
+                "Q": "Quelle est la part des interceptions de Cubains dans l'ensemble des interceptions de migrants en 2022 ?",
+                "R": "En mars 2022, la part des interceptions de Cubains était d'environ 56.4% par rapport à l'ensemble des interceptions de migrants en 2022."
+            },
+            {
+                "Q": "Y a-t-il eu des changements dans la composition démographique des Cubains interceptés au fil du temps ?",
+                "R": "Les chiffres fournis ne donnent pas d'informations sur la composition démographique. Des études supplémentaires pourraient être nécessaires pour examiner ce facteur."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en mai 2022 se compare-t-il à celui de mai 2021 ?",
+                "R": "En mai 2022, le nombre d'interceptions était inférieur à celui de mai 2021."
+            },
+            {
+                "Q": "Quelle est la tendance des interceptions de Cubains en février 2021 par rapport à janvier 2021 ?",
+                "R": "En février 2021, le nombre d'interceptions a considérablement augmenté par rapport à janvier 2021."
+            },
+            {
+                "Q": "Y a-t-il une augmentation significative du nombre d'interceptions entre avril 2022 et mai 2022 ?",
+                "R": "Oui, il y a eu une augmentation significative entre avril 2022 et mai 2022."
+            },
+            {
+                "Q": "Quels sont les mois où le nombre d'interceptions de Cubains était proche de la moyenne mensuelle ?",
+                "R": "Les mois de janvier 2020, janvier 2021, septembre 2021, octobre 2021, et décembre 2022 semblent avoir des chiffres proches de la moyenne mensuelle."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en juillet 2021 se compare-t-il à celui de juillet 2022 ?",
+                "R": "En juillet 2022, le nombre d'interceptions était inférieur à celui de juillet 2021."
+            },
+            {
+                "Q": "Quelle a été la variation du nombre d'interceptions entre octobre 2021 et novembre 2021 ?",
+                "R": "La variation entre octobre 2021 et novembre 2021 a montré une augmentation dans le nombre d'interceptions."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en août 2021 se compare-t-il à celui d'août 2022 ?",
+                "R": "En août 2022, le nombre d'interceptions était inférieur à celui d'août 2021."
+            },
+            {
+                "Q": "Existe-t-il une corrélation entre le nombre d'interceptions de Cubains et les politiques d'immigration américaines ?",
+                "R": "Les chiffres ne fournissent pas d'informations directes sur les politiques d'immigration, mais des recherches supplémentaires pourraient révéler des corrélations."
+            },
+            {
+                "Q": "Quelle est la tendance des interceptions de Cubains en avril 2021 par rapport à mars 2021 ?",
+                "R": "En avril 2021, le nombre d'interceptions a diminué par rapport à mars 2021."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en décembre 2022 se compare-t-il à celui de décembre 2021 ?",
+                "R": "En décembre 2022, le nombre d'interceptions était inférieur à celui de décembre 2021."
+            },
+            {
+                "Q": "Quels mois ont enregistré les plus faibles interceptions de Cubains en 2022 ?",
+                "R": "Les mois de mai 2022 et juin 2022 semblent avoir enregistré les plus faibles interceptions de Cubains en 2022."
+            },
+            {
+                "Q": "Y a-t-il une baisse significative du nombre d'interceptions entre novembre 2021 et décembre 2021 ?",
+                "R": "Il y a eu une augmentation significative du nombre d'interceptions entre novembre 2021 et décembre 2021."
+            },
+            {
+                "Q": "Quelle est la tendance des interceptions de Cubains en mars 2022 par rapport à février 2022 ?",
+                "R": "En mars 2022, le nombre d'interceptions a considérablement augmenté par rapport à février 2022."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en juin 2021 se compare-t-il à celui de juin 2022 ?",
+                "R": "En juin 2022, le nombre d'interceptions était inférieur à celui de juin 2021."
+            },
+            {
+                "Q": "Quels ont été les chiffres d'interceptions les plus faibles au cours de l'année 2020 ?",
+                "R": "Les mois d'avril 2020 et novembre 2020 semblent avoir enregistré les chiffres d'interceptions les plus faibles au cours de l'année 2020."
+            },
+            {
+                "Q": "Comment le nombre d'interceptions en octobre 2022 se compare-t-il à celui d'octobre 2021 ?",
+                "R": "En octobre 2022, le nombre d'interceptions de Cubains à la frontière américaine était de 20 031, tandis qu'en octobre 2021, il était de 6 067. Ainsi, le nombre d'interceptions en octobre 2022 était significativement plus élevé qu'en octobre 2021."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains à la frontière américaine ont eu lieu en octobre 2019 ?",
+                "R": "En octobre 2019, il y a eu 1 931 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en novembre 2019 ?",
+                "R": "En novembre 2019, il y a eu 1 244 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en décembre 2019 ?",
+                "R": "En décembre 2019, il y a eu 1 009 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains à la frontière américaine pour janvier 2020 ?",
+                "R": "En janvier 2020, il y a eu 732 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été effectuées en février 2020 ?",
+                "R": "En février 2020, il y a eu 674 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en mars 2020 ?",
+                "R": "En mars 2020, il y a eu 520 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'incidents d'interceptions de Cubains ont été enregistrés en avril 2020 ?",
+                "R": "En avril 2020, il y a eu 183 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains à la frontière américaine pour mai 2020 ?",
+                "R": "En mai 2020, il y a eu 539 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont eu lieu en juin 2020 ?",
+                "R": "En juin 2020, il y a eu 981 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en juillet 2020 ?",
+                "R": "En juillet 2020, il y a eu 1 612 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'incidents ont été enregistrés en août 2020 ?",
+                "R": "En août 2020, il y a eu 2 216 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains à la frontière américaine pour septembre 2020 ?",
+                "R": "En septembre 2020, il y a eu 2 374 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en octobre 2020 ?",
+                "R": "En octobre 2020, il y a eu 1 691 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en novembre 2020 ?",
+                "R": "En novembre 2020, il y a eu 1 614 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'incidents ont eu lieu en décembre 2020 ?",
+                "R": "En décembre 2020, il y a eu 2 122 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains pour janvier 2021 ?",
+                "R": "En janvier 2021, il y a eu 1 972 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en février 2021 ?",
+                "R": "En février 2021, il y a eu 3 881 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en mars 2021 ?",
+                "R": "En mars 2021, il y a eu 5 716 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'incidents ont été enregistrés en avril 2021 ?",
+                "R": "En avril 2021, il y a eu 3 340 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains en mai 2021 ?",
+                "R": "En mai 2021, il y a eu 2 737 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont eu lieu en juin 2021 ?",
+                "R": "En juin 2021, il y a eu 3 122 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en juillet 2021 ?",
+                "R": "En juillet 2021, il y a eu 3 605 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'incidents ont été enregistrés en août 2021 ?",
+                "R": "En août 2021, il y a eu 4 585 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains en septembre 2021 ?",
+                "R": "En septembre 2021, il y a eu 4 918 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en octobre 2021 ?",
+                "R": "En octobre 2021, il y a eu 6 067 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en novembre 2021 ?",
+                "R": "En novembre 2021, il y a eu 6 679 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'incidents ont eu lieu en décembre 2021 ?",
+                "R": "En décembre 2021, il y a eu 8 198 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains pour janvier 2022 ?",
+                "R": "En janvier 2022, il y a eu 9 830 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en février 2022 ?",
+                "R": "En février 2022, il y a eu 16 657 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en mars 2022 ?",
+                "R": "En mars 2022, il y a eu 32 395 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'incidents ont été enregistrés en avril 2022 ?",
+                "R": "En avril 2022, il y a eu 35 091 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains en mai 2022 ?",
+                "R": "En mai 2022, il y a eu 25 987 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont eu lieu en juin 2022 ?",
+                "R": "En juin 2022, il y a eu 16 448 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en juillet 2022 ?",
+                "R": "En juillet 2022, il y a eu 20 496 interceptions de Cubains à la frontière américaine."
+            },
+            {
+                "Q": "Combien d'incidents ont été enregistrés en août 2022 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains en septembre 2022 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en octobre 2022 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en novembre 2022 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'incidents ont eu lieu en décembre 2022 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains pour janvier 2023 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en février 2023 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en mars 2023 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'incidents ont été enregistrés en avril 2023 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains en mai 2023 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont eu lieu en juin 2023 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en juillet 2023 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'incidents ont été enregistrés en août 2023 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains en septembre 2023 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en octobre 2023 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en novembre 2023 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'incidents ont eu lieu en décembre 2023 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains pour janvier 2024 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en février 2024 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en mars 2024 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'incidents ont été enregistrés en avril 2024 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains en mai 2024 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont eu lieu en juin 2024 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en juillet 2024 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'incidents ont été enregistrés en août 2024 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains en septembre 2024 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en octobre 2024 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en novembre 2024 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'incidents ont eu lieu en décembre 2024 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains pour janvier 2025 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en février 2025 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en mars 2025 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'incidents ont été enregistrés en avril 2025 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains en mai 2025 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont eu lieu en juin 2025 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en juillet 2025 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'incidents ont été enregistrés en août 2025 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains en septembre 2025 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en octobre 2025 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en novembre 2025 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'incidents ont eu lieu en décembre 2025 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains pour janvier 2026 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'interceptions de Cubains ont été enregistrées en février 2026 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quel est le nombre d'interceptions de Cubains en mars 2026 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Combien d'incidents ont été enregistrés en avril 2026 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            },
+            {
+                "Q": "Quelle est la statistique d'interceptions de Cubains en mai 2026 ?",
+                "R": "Le texte ne fournit pas d'information directe à ce sujet."
+            }
+        ],
+        "end": true
+    },
+    "clusters": {
+        "clusters": [
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains pour janvier 2021 ?",
+                "answer": [
+                    "En janvier 2021, il y a eu 1 972 interceptions de Cubains à la frontière américaine.",
+                    "En janvier 2022, il y a eu 9 830 interceptions de Cubains à la frontière américaine."
+                ],
+                "diff_word": [
+                    [
+                        9,
+                        [
+                            "2021",
+                            "2022"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.8040856123,
+                        "start": 630,
+                        "end": 634,
+                        "type": "article"
+                    },
+                    {
+                        "score": 0.4696393907,
+                        "start": 630,
+                        "end": 634,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il une baisse significative du nombre d'interceptions entre mars 2020 et janvier 2021 ?",
+                "answer": [
+                    "Oui, il y a eu une baisse significative du nombre d'interceptions entre mars 2020 et janvier 2021, passant de 520 interceptions en mars 2020 à 3340 interceptions en janvier 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle est la période où les interceptions ont atteint leur pic en 2022 ?",
+                "answer": [
+                    "Les interceptions ont atteint leur pic en mars 2022 avec 32.395 interceptions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                27
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                28
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                30
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                31
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                32
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                33
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                34
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle a été la tendance des interceptions de Cubains au cours du dernier trimestre de 2021 ?",
+                "answer": [
+                    "La tendance des interceptions de Cubains au cours du dernier trimestre de 2021 a été à la hausse, culminant avec un pic en décembre 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                15
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                16
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                17
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                18
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                19
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                20
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                21
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                22
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                23
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                24
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                25
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                26
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Comment le nombre d'interceptions en mars 2021 se compare-t-il à mars 2022 ?",
+                "answer": [
+                    "Le nombre d'interceptions en mars 2021 (5716 interceptions) est inférieur à celui de mars 2022 (32.395 interceptions)."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                17
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quels sont les mois où le nombre d'interceptions était en dehors de la normale par rapport à la tendance générale ?",
+                "answer": [
+                    "Mars 2022, avril 2022, et février 2022 semblent être des mois en dehors de la normale avec des chiffres d'interceptions significativement élevés."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6012779027,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                28
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                30
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quels sont les mois où le nombre d'interceptions de Cubains était le plus bas au cours de la période étudiée ?",
+                "answer": [
+                    "Les mois de mai 2020 et avril 2021 semblent avoir enregistré les plus faibles interceptions de Cubains au cours de la période étudiée."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5130717307,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                7
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                18
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle est la part des interceptions de Cubains dans l'ensemble des interceptions de migrants en 2022 ?",
+                "answer": [
+                    "En mars 2022, la part des interceptions de Cubains était d'environ 56.4% par rapport à l'ensemble des interceptions de migrants en 2022."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                27
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                28
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                30
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                31
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                32
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                33
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                34
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une augmentation significative du nombre d'interceptions entre avril 2022 et mai 2022 ?",
+                "answer": [
+                    "Oui, il y a eu une augmentation significative entre avril 2022 et mai 2022."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                30
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                31
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle a été la variation du nombre d'interceptions entre octobre 2021 et novembre 2021 ?",
+                "answer": [
+                    "La variation entre octobre 2021 et novembre 2021 a montré une augmentation dans le nombre d'interceptions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                24
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                25
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle est la tendance des interceptions de Cubains en mars 2021 par rapport à février 2021 ?",
+                "answer": [
+                    "En mars 2021, le nombre d'interceptions était de 5716, tandis qu'en février 2021, il était de 3340.",
+                    "En février 2021, le nombre d'interceptions a considérablement augmenté par rapport à janvier 2021.",
+                    "En avril 2021, le nombre d'interceptions a diminué par rapport à mars 2021.",
+                    "En mars 2022, le nombre d'interceptions a considérablement augmenté par rapport à février 2022."
+                ],
+                "diff_word": [
+                    [
+                        9,
+                        [
+                            "mars",
+                            "février",
+                            "avril",
+                            "mars"
+                        ]
+                    ],
+                    [
+                        10,
+                        [
+                            "2021",
+                            "2021",
+                            "2021",
+                            "2022"
+                        ]
+                    ],
+                    [
+                        14,
+                        [
+                            "février",
+                            "janvier",
+                            "mars",
+                            "février"
+                        ]
+                    ],
+                    [
+                        15,
+                        [
+                            "2021",
+                            "2021",
+                            "2021",
+                            "2022"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                17
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                15
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                16
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                17
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                18
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                28
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Comment les interceptions de Cubains ont-elles été affectées entre janvier 2021 et mars 2021 ?",
+                "answer": [
+                    "Entre janvier 2021 et mars 2021, le nombre d'interceptions de Cubains a augmenté de manière significative, passant de 1972 interceptions en janvier 2021 à 5716 interceptions en mars 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                15
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                17
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Comment a évolué le nombre d'interceptions de Cubains en janvier 2020 par rapport à décembre 2019 ?",
+                "answer": [
+                    "Le nombre d'interceptions de Cubains a connu une baisse en janvier 2020 par rapport à décembre 2019, passant de 1009 interceptions en décembre 2019 à 732 interceptions en janvier 2020."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                2
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Comment le nombre d'interceptions en octobre 2021 se compare-t-il à novembre 2021 ?",
+                "answer": [
+                    "Le nombre d'interceptions en octobre 2021 (6067 interceptions) est inférieur à celui de novembre 2021 (6679 interceptions)."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                24
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                25
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une augmentation significative des interceptions de Cubains entre janvier 2022 et mars 2022 ?",
+                "answer": [
+                    "Oui, il y a eu une augmentation significative, passant de 16.657 interceptions en janvier 2022 à 32.395 interceptions en mars 2022."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                27
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quel mois a enregistré la plus forte augmentation d'interceptions par rapport au mois précédent ?",
+                "answer": [
+                    "La plus forte augmentation d'interceptions d'un mois à l'autre a été enregistrée entre janvier 2022 (16.657 interceptions) et mars 2022 (32.395 interceptions)."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6130886227,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                27
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il eu des changements significatifs dans les politiques d'immigration entre 2021 et 2022 qui pourraient expliquer les variations d'interceptions ?",
+                "answer": [
+                    "Oui, il y a eu des changements significatifs. Le nombre d'interceptions de Cubains a considérablement augmenté en février 2022, suggérant des possibles changements dans les politiques d'immigration."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                15
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                16
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                17
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                18
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                19
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                20
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                21
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                22
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                23
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                24
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                25
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                26
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                27
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                28
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                30
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                31
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                32
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                33
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                34
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont été enregistrées en décembre 2019 ?",
+                "answer": [
+                    "En décembre 2019, il y a eu 1 009 interceptions de Cubains à la frontière américaine.",
+                    "En février 2020, il y a eu 674 interceptions de Cubains à la frontière américaine.",
+                    "En octobre 2020, il y a eu 1 691 interceptions de Cubains à la frontière américaine.",
+                    "En février 2021, il y a eu 3 881 interceptions de Cubains à la frontière américaine.",
+                    "En octobre 2021, il y a eu 6 067 interceptions de Cubains à la frontière américaine.",
+                    "En février 2022, il y a eu 16 657 interceptions de Cubains à la frontière américaine."
+                ],
+                "diff_word": [
+                    [
+                        6,
+                        [
+                            "enregistrées",
+                            "effectuées",
+                            "enregistrées",
+                            "enregistrées",
+                            "enregistrées",
+                            "enregistrées"
+                        ]
+                    ],
+                    [
+                        8,
+                        [
+                            "décembre",
+                            "février",
+                            "octobre",
+                            "février",
+                            "octobre",
+                            "février"
+                        ]
+                    ],
+                    [
+                        9,
+                        [
+                            "2019",
+                            "2020",
+                            "2020",
+                            "2021",
+                            "2021",
+                            "2022"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.515884161,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5334756076,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                12
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5632503182,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                16
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5588162541,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                24
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.560839504,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                28
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains à la frontière américaine pour janvier 2020 ?",
+                "answer": [
+                    "En janvier 2020, il y a eu 732 interceptions de Cubains à la frontière américaine.",
+                    "En mai 2020, il y a eu 539 interceptions de Cubains à la frontière américaine.",
+                    "En septembre 2020, il y a eu 2 374 interceptions de Cubains à la frontière américaine."
+                ],
+                "diff_word": [
+                    [
+                        12,
+                        [
+                            "janvier",
+                            "mai",
+                            "septembre"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.4404552579,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                11
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains en septembre 2021 ?",
+                "answer": [
+                    "En septembre 2021, il y a eu 4 918 interceptions de Cubains à la frontière américaine.",
+                    "En mai 2022, il y a eu 25 987 interceptions de Cubains à la frontière américaine."
+                ],
+                "diff_word": [
+                    [
+                        8,
+                        [
+                            "septembre",
+                            "mai"
+                        ]
+                    ],
+                    [
+                        9,
+                        [
+                            "2021",
+                            "2022"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.5441846251,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                23
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5534329116,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                31
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les interceptions de Cubains et les mouvements migratoires globaux dans la région ?",
+                "answer": [
+                    "Il semble y avoir une corrélation, surtout en mars 2022, où les interceptions de Cubains ont fortement augmenté, peut-être en lien avec des mouvements migratoires globaux dans la région."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5364329219,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en novembre 2019 ?",
+                "answer": [
+                    "En novembre 2019, il y a eu 1 244 interceptions de Cubains à la frontière américaine.",
+                    "En mars 2020, il y a eu 520 interceptions de Cubains à la frontière américaine.",
+                    "En juillet 2020, il y a eu 1 612 interceptions de Cubains à la frontière américaine.",
+                    "En mars 2021, il y a eu 5 716 interceptions de Cubains à la frontière américaine.",
+                    "En juillet 2021, il y a eu 3 605 interceptions de Cubains à la frontière américaine.",
+                    "En novembre 2021, il y a eu 6 679 interceptions de Cubains à la frontière américaine.",
+                    "En mars 2022, il y a eu 32 395 interceptions de Cubains à la frontière américaine.",
+                    "En juillet 2022, il y a eu 20 496 interceptions de Cubains à la frontière américaine."
+                ],
+                "diff_word": [
+                    [
+                        8,
+                        [
+                            "novembre",
+                            "mars",
+                            "juillet",
+                            "mars",
+                            "juillet",
+                            "novembre",
+                            "mars",
+                            "juillet"
+                        ]
+                    ],
+                    [
+                        9,
+                        [
+                            "2019",
+                            "2020",
+                            "2020",
+                            "2021",
+                            "2021",
+                            "2021",
+                            "2022",
+                            "2022"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.4942372441,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5366180241,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5869698673,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                17
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.564725548,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                21
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5438299477,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                25
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5945374072,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5737517178,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                33
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il des mois où le nombre d'interceptions a été particulièrement élevé par rapport à la moyenne mensuelle ?",
+                "answer": [
+                    "Mars 2022, avril 2022, et février 2022 semblent être des mois avec des interceptions particulièrement élevées par rapport à la moyenne mensuelle."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6275955513,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                28
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                30
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Comment le nombre d'interceptions en octobre 2022 se compare-t-il à celui d'octobre 2021 ?",
+                "answer": [
+                    "En octobre 2022, le nombre d'interceptions de Cubains à la frontière américaine était de 20 031, tandis qu'en octobre 2021, il était de 6 067. Ainsi, le nombre d'interceptions en octobre 2022 était significativement plus élevé qu'en octobre 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6685786769,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                24
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une baisse significative du nombre d'interceptions entre novembre 2021 et décembre 2021 ?",
+                "answer": [
+                    "Il y a eu une augmentation significative du nombre d'interceptions entre novembre 2021 et décembre 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                25
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                26
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quels mois ont enregistré les plus fortes interceptions de Cubains en 2021 ?",
+                "answer": [
+                    "Les mois de septembre, octobre, novembre, et décembre 2021 ont enregistré les plus fortes interceptions de Cubains à la frontière américaine, culminant avec 8198 interceptions en décembre 2021.",
+                    "Les mois de mai 2022 et juin 2022 semblent avoir enregistré les plus faibles interceptions de Cubains en 2022."
+                ],
+                "diff_word": [
+                    [
+                        6,
+                        [
+                            "fortes",
+                            "faibles"
+                        ]
+                    ],
+                    [
+                        11,
+                        [
+                            "2021",
+                            "2022"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                26
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                27
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                28
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                30
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                31
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                32
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                33
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                34
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Combien d'incidents ont eu lieu en décembre 2020 ?",
+                "answer": [
+                    "En décembre 2020, il y a eu 2 122 interceptions de Cubains à la frontière américaine.",
+                    "En décembre 2021, il y a eu 8 198 interceptions de Cubains à la frontière américaine."
+                ],
+                "diff_word": [
+                    [
+                        7,
+                        [
+                            "2020",
+                            "2021"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.7028651349,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                14
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.7215848546,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                26
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Combien d'incidents d'interceptions de Cubains ont été enregistrés en avril 2020 ?",
+                "answer": [
+                    "En avril 2020, il y a eu 183 interceptions de Cubains à la frontière américaine."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont eu lieu en juin 2020 ?",
+                "answer": [
+                    "En juin 2020, il y a eu 981 interceptions de Cubains à la frontière américaine.",
+                    "En juin 2021, il y a eu 3 122 interceptions de Cubains à la frontière américaine.",
+                    "En juin 2022, il y a eu 16 448 interceptions de Cubains à la frontière américaine."
+                ],
+                "diff_word": [
+                    [
+                        9,
+                        [
+                            "2020",
+                            "2021",
+                            "2022"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5866699815,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                20
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5983388275,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                32
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quels ont été les chiffres d'interceptions les plus élevés au cours de l'année 2019 ?",
+                "answer": [
+                    "Les chiffres les plus élevés d'interceptions de Cubains à la frontière américaine en 2019 ont été enregistrés en octobre 2019, avec 1931 interceptions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Comment les interceptions de Cubains en août 2022 se comparent-elles à celles d'août 2021 ?",
+                "answer": [
+                    "En août 2022, le nombre d'interceptions de Cubains était inférieur à celui d'août 2021, indiquant une variation d'une année à l'autre.",
+                    "En avril 2022, le nombre d'interceptions était significativement plus élevé qu'en avril 2021."
+                ],
+                "diff_word": [
+                    [
+                        6,
+                        [
+                            "août",
+                            "avril"
+                        ]
+                    ],
+                    [
+                        12,
+                        [
+                            "d'août",
+                            "d'avril"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                22
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                34
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                18
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                30
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle est la tendance des interceptions de Cubains à partir de septembre 2020 jusqu'à janvier 2022 ?",
+                "answer": [
+                    "La tendance des interceptions de Cubains à la frontière américaine a été à la hausse à partir de septembre 2020, atteignant un pic en mars 2022 avec 32.395 interceptions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                11
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                27
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quels mois ont enregistré le plus grand nombre d'interceptions en 2022 jusqu'à présent ?",
+                "answer": [
+                    "Jusqu'à présent en 2022, le mois de mars a enregistré le plus grand nombre d'interceptions, avec 32.395 interceptions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                27
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                28
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                30
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                31
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                32
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                33
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                34
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle a été la variation du nombre d'interceptions entre septembre 2021 et janvier 2022 ?",
+                "answer": [
+                    "Entre septembre 2021 et janvier 2022, le nombre d'interceptions a connu une augmentation notable, passant de 4918 interceptions en septembre 2021 à 32.395 interceptions en mars 2022."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                23
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle est la proportion d'interceptions de Cubains par rapport à l'ensemble des interceptions à la frontière américaine ?",
+                "answer": [
+                    "En janvier 2021, la proportion d'interceptions de Cubains était d'environ 16.5% par rapport à l'ensemble des interceptions à la frontière américaine."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.4311756492,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                15
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quels mois ont connu une augmentation significative d'interceptions en 2020 ?",
+                "answer": [
+                    "Les mois avec des interceptions significatives en 2020 incluent septembre (2374 interceptions) et octobre (1691 interceptions)."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                3
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                4
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                5
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                6
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                7
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                8
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                9
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                10
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                11
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                12
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                13
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                14
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la part des interceptions de Cubains dans l'ensemble des interceptions de migrants à la frontière américaine ?",
+                "answer": [
+                    "En mars 2022, la part des interceptions de Cubains était d'environ 41.5% par rapport à l'ensemble des interceptions de migrants à la frontière américaine."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.4285570979,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Comment les interceptions de Cubains ont-elles été influencées par la pandémie de COVID-19 ?",
+                "answer": [
+                    "Les interceptions de Cubains ont diminué en avril 2020, peut-être en raison des restrictions liées à la pandémie de COVID-19, mais ont ensuite augmenté de manière significative."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5342344195,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Comment le nombre d'interceptions en janvier 2022 se compare-t-il à celui de mars 2022 ?",
+                "answer": [
+                    "Le nombre d'interceptions en janvier 2022 (16.657 interceptions) est inférieur à celui de mars 2022 (32.395 interceptions).",
+                    "En janvier 2022, le nombre d'interceptions était de 35 091, tandis qu'en janvier 2021, il était de 1972.",
+                    "En juillet 2022, le nombre d'interceptions de Cubains était inférieur à celui de janvier 2022, indiquant une variation dans les chiffres au cours de cette période.",
+                    "En février 2022, le nombre d'interceptions de Cubains était considérablement plus élevé par rapport à février 2021, suggérant des changements importants.",
+                    "En décembre 2022, le nombre d'interceptions de Cubains était inférieur à celui de décembre 2021.",
+                    "En juin 2022, le nombre d'interceptions était inférieur à celui de juin 2021.",
+                    "En mai 2022, le nombre d'interceptions était inférieur à celui de mai 2021.",
+                    "En juillet 2022, le nombre d'interceptions était inférieur à celui de juillet 2021.",
+                    "En décembre 2022, le nombre d'interceptions était inférieur à celui de décembre 2021.",
+                    "En juin 2022, le nombre d'interceptions était inférieur à celui de juin 2021."
+                ],
+                "diff_word": [
+                    [
+                        5,
+                        [
+                            "janvier",
+                            "janvier",
+                            "juillet",
+                            "février",
+                            "décembre",
+                            "juin",
+                            "mai",
+                            "juillet",
+                            "décembre",
+                            "juin"
+                        ]
+                    ],
+                    [
+                        6,
+                        [
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2021",
+                            "2022",
+                            "2022",
+                            "2021",
+                            "2022",
+                            "2021"
+                        ]
+                    ],
+                    [
+                        12,
+                        [
+                            "mars",
+                            "janvier",
+                            "janvier",
+                            "février",
+                            "décembre",
+                            "juin",
+                            "mai",
+                            "juillet",
+                            "décembre",
+                            "juin"
+                        ]
+                    ],
+                    [
+                        13,
+                        [
+                            "2022",
+                            "2021",
+                            "2022",
+                            "2021",
+                            "2022",
+                            "2021",
+                            "2021",
+                            "2022",
+                            "2021",
+                            "2022"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                27
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                29
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                15
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                27
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                33
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                16
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                28
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6578490138,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                26
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                20
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                32
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                19
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                31
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                21
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                33
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6714453101,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                26
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                20
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                32
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle a été la variation mensuelle la plus importante dans les interceptions de Cubains au cours des deux dernières années ?",
+                "answer": [
+                    "La variation la plus importante a été observée entre janvier 2022 et février 2022, avec une augmentation significative."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5562950075,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                27
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                28
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle est la proportion d'interceptions de Cubains par rapport à l'ensemble des interceptions à la frontière américaine en 2021 ?",
+                "answer": [
+                    "En 2021, la proportion d'interceptions de Cubains était d'environ 21.5% par rapport à l'ensemble des interceptions à la frontière américaine."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                15
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                16
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                17
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                18
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                19
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                20
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                21
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                22
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                23
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                24
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                25
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                26
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Comment le nombre d'interceptions en août 2021 se compare-t-il à celui d'août 2022 ?",
+                "answer": [
+                    "En août 2022, le nombre d'interceptions était inférieur à celui d'août 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                22
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                34
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Combien d'incidents ont été enregistrés en août 2020 ?",
+                "answer": [
+                    "En août 2020, il y a eu 2 216 interceptions de Cubains à la frontière américaine.",
+                    "En avril 2021, il y a eu 3 340 interceptions de Cubains à la frontière américaine.",
+                    "En août 2021, il y a eu 4 585 interceptions de Cubains à la frontière américaine.",
+                    "En avril 2022, il y a eu 35 091 interceptions de Cubains à la frontière américaine."
+                ],
+                "diff_word": [
+                    [
+                        6,
+                        [
+                            "août",
+                            "avril",
+                            "août",
+                            "avril"
+                        ]
+                    ],
+                    [
+                        7,
+                        [
+                            "2020",
+                            "2021",
+                            "2021",
+                            "2022"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.6993391626,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                10
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.7034259178,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                18
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.715073511,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                22
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.7193374746,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                30
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quels sont les mois où le nombre d'interceptions de Cubains était proche de la moyenne mensuelle ?",
+                "answer": [
+                    "Les mois de janvier 2020, janvier 2021, septembre 2021, octobre 2021, et décembre 2022 semblent avoir des chiffres proches de la moyenne mensuelle."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5081277192,
+                        "row": [
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                3
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                15
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                23
+                            ],
+                            [
+                                "nombre d'interceptions de cubains à la frontière américaine",
+                                24
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Existe-t-il une corrélation entre les interceptions de Cubains et les événements politiques ou économiques à Cuba ?",
+                "answer": [
+                    "Cette information n'est pas fournie dans les données ou le texte fourni."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.2989948988,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Comment les interceptions de Cubains en septembre 2021 se comparent-elles à celles de septembre 2022 ?",
+                "answer": [
+                    "Les interceptions de Cubains en septembre 2021 (4918 interceptions) sont inférieures à celles de septembre 2022, mais la valeur exacte pour septembre 2022 n'est pas fournie."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7465911508,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quels mois ont connu une baisse significative d'interceptions en 2021 ?",
+                "answer": [
+                    "Aucune information sur une baisse significative n'est fournie dans les données fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.4585632682,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Existe-t-il des tendances à long terme dans les interceptions de Cubains à la frontière américaine ?",
+                "answer": [
+                    "Les données ne permettent pas de déterminer des tendances à long terme, mais une augmentation significative est observée à partir de septembre 2020 jusqu'à mars 2022."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6959555745,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quel mois a enregistré la plus forte baisse d'interceptions par rapport au mois précédent ?",
+                "answer": [
+                    "Les données fournies ne permettent pas de déterminer la plus forte baisse d'interceptions d'un mois à l'autre."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7075959146,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Comment le nombre d'interceptions en novembre 2022 se compare-t-il à celui de novembre 2021 ?",
+                "answer": [
+                    "Les données ne sont pas fournies pour novembre 2022, mais pour novembre 2021, le nombre d'interceptions de Cubains à la frontière américaine était de 6679."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7493944168,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la proportion d'interceptions de Cubains par rapport à l'ensemble des interceptions à la frontière américaine en 2022 ?",
+                "answer": [
+                    "Les données pour 2022 ne sont pas complètes, mais pour janvier 2022, le nombre d'interceptions de Cubains était de 35 091. Pour estimer la proportion totale, il faut avoir les données complètes pour toute l'année 2022."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7560278922,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Y a-t-il eu des changements significatifs dans les motifs d'immigration des Cubains au cours des derniers mois ?",
+                "answer": [
+                    "Les données fournies ne permettent pas de déterminer les motifs d'immigration des Cubains."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.552633822,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la part des interceptions de Cubains dans l'ensemble des interceptions de migrants en 2021 ?",
+                "answer": [
+                    "Pour estimer cette proportion, il faut avoir les données complètes pour toute l'année 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.738007009,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Y a-t-il une saisonnalité particulière dans les interceptions de Cubains au cours de l'année 2022 ?",
+                "answer": [
+                    "Les données ne sont pas fournies pour toute l'année 2022, donc il est difficile de déterminer s'il y a une saisonnalité particulière."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6368513405,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Comment le nombre d'interceptions en septembre 2022 se compare-t-il à celui de septembre 2021 ?",
+                "answer": [
+                    "Les données pour septembre 2022 ne sont pas fournies. En septembre 2021, le nombre d'interceptions était de 4918."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7039793134,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Existe-t-il des mois où le nombre d'interceptions a été particulièrement bas par rapport à la moyenne mensuelle ?",
+                "answer": [
+                    "Les données ne permettent pas de déterminer les mois où le nombre d'interceptions a été particulièrement bas par rapport à la moyenne mensuelle."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.767107442,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la variation mensuelle moyenne dans les interceptions de Cubains au cours de l'année 2021 ?",
+                "answer": [
+                    "Pour calculer la variation mensuelle moyenne, nous aurions besoin des données complètes pour chaque mois de 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7205742896,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Y a-t-il une corrélation entre le nombre d'interceptions de Cubains et les conditions économiques à Cuba ?",
+                "answer": [
+                    "La corrélation n'est pas établie avec certitude sans des données spécifiques sur les conditions économiques à Cuba."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5993597209,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Comment le nombre d'interceptions en juillet 2022 se compare-t-il à celui de juillet 2021 ?",
+                "answer": [
+                    "Les données pour juillet 2022 ne sont pas fournies. En juillet 2021, le nombre d'interceptions était de 4585."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6311377883,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la proportion d'interceptions de Cubains par rapport à l'ensemble des interceptions à la frontière américaine en 2020 ?",
+                "answer": [
+                    "Pour estimer cette proportion, nous aurions besoin des données complètes pour toute l'année 2020."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5861907005,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Y a-t-il des mois où le nombre d'interceptions a été particulièrement élevé par rapport à la moyenne mensuelle en 2021 ?",
+                "answer": [
+                    "Cela dépend de la moyenne mensuelle, pour laquelle nous avons besoin des données complètes pour 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6137958765,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Comment le nombre d'interceptions en mars 2021 se compare-t-il à celui de mars 2022 ?",
+                "answer": [
+                    "Les données pour mars 2022 ne sont pas fournies. En mars 2021, le nombre d'interceptions était de 5716."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7135601938,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle a été la variation mensuelle la plus importante dans les interceptions de Cubains au cours de l'année 2020 ?",
+                "answer": [
+                    "Pour déterminer la variation mensuelle la plus importante, nous aurions besoin des données complètes pour chaque mois de 2020."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.655313462,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Y a-t-il eu des pics d'interceptions de Cubains en lien avec des événements particuliers aux États-Unis ?",
+                "answer": [
+                    "Les données fournies ne mentionnent pas d'événements particuliers aux États-Unis."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5558340847,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Comment le nombre d'interceptions en novembre 2021 se compare-t-il à celui de novembre 2022 ?",
+                "answer": [
+                    "Les données pour novembre 2022 ne sont pas fournies. En novembre 2021, le nombre d'interceptions était de 6679."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6417427957,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la part des interceptions de Cubains dans l'ensemble des interceptions de migrants en 2020 ?",
+                "answer": [
+                    "Pour estimer cette proportion, nous aurions besoin des données complètes pour toute l'année 2020."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5861907005,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les interceptions de Cubains et les politiques d'asile aux États-Unis ?",
+                "answer": [
+                    "La corrélation n'est pas établie avec certitude sans des données spécifiques sur les politiques d'asile aux États-Unis."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5677404702,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Comment le nombre d'interceptions en septembre 2021 se compare-t-il à celui de septembre 2022 ?",
+                "answer": [
+                    "Les données pour septembre 2022 ne sont pas fournies. En septembre 2021, le nombre d'interceptions était de 4918."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7039793134,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quels sont les mois où le nombre d'interceptions de Cubains était le plus bas au cours de l'année 2021 ?",
+                "answer": [
+                    "Pour déterminer les mois avec le nombre le plus bas, nous aurions besoin des données complètes pour chaque mois de 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6534137428,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Comment le nombre d'interceptions en août 2022 se compare-t-il à celui d'août 2021 ?",
+                "answer": [
+                    "Les données pour août 2022 ne sont pas fournies. En août 2021, le nombre d'interceptions était de 3605."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7076388299,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les interceptions de Cubains et les événements climatiques à Cuba ?",
+                "answer": [
+                    "La corrélation n'est pas établie avec certitude sans des données spécifiques sur les événements climatiques à Cuba."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5841148198,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la tendance des interceptions de Cubains en juin 2022 par rapport à mai 2022 ?",
+                "answer": [
+                    "Les données pour juin 2022 ne sont pas fournies. Sans ces données, il est difficile de déterminer la tendance."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5649314225,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quels mois ont enregistré les plus faibles interceptions de Cubains en 2021 ?",
+                "answer": [
+                    "Pour déterminer les mois avec le nombre le plus bas, nous aurions besoin des données complètes pour chaque mois de 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6534137428,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quels ont été les chiffres d'interceptions les plus faibles au cours de l'année 2021 ?",
+                "answer": [
+                    "Pour déterminer les chiffres les plus faibles, nous aurions besoin des données complètes pour chaque mois de 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5896509588,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les interceptions de Cubains et les mesures de sécurité aux frontières américaines ?",
+                "answer": [
+                    "La corrélation n'est pas établie avec certitude sans des données spécifiques sur les mesures de sécurité aux frontières américaines."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5542728007,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Y a-t-il eu des pics d'interceptions de Cubains en lien avec des événements particuliers à Cuba ?",
+                "answer": [
+                    "Les chiffres ne fournissent pas d'informations spécifiques sur des événements particuliers, mais des recherches supplémentaires pourraient révéler des corrélations."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3641463518,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les interceptions de Cubains et les déclarations politiques des États-Unis concernant l'immigration ?",
+                "answer": [
+                    "Les chiffres ne fournissent pas d'informations sur les déclarations politiques, mais des études supplémentaires pourraient révéler des corrélations."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3933166862,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Y a-t-il eu des changements dans la composition démographique des Cubains interceptés au fil du temps ?",
+                "answer": [
+                    "Les chiffres fournis ne donnent pas d'informations sur la composition démographique. Des études supplémentaires pourraient être nécessaires pour examiner ce facteur."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.4318309426,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Existe-t-il une corrélation entre le nombre d'interceptions de Cubains et les politiques d'immigration américaines ?",
+                "answer": [
+                    "Les chiffres ne fournissent pas d'informations directes sur les politiques d'immigration, mais des recherches supplémentaires pourraient révéler des corrélations."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.4619802237,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quels ont été les chiffres d'interceptions les plus faibles au cours de l'année 2020 ?",
+                "answer": [
+                    "Les mois d'avril 2020 et novembre 2020 semblent avoir enregistré les chiffres d'interceptions les plus faibles au cours de l'année 2020."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.795215562,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'incidents ont été enregistrés en août 2022 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains en septembre 2022 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont été enregistrées en octobre 2022 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en novembre 2022 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'incidents ont eu lieu en décembre 2022 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains pour janvier 2023 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont été enregistrées en février 2023 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en mars 2023 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'incidents ont été enregistrés en avril 2023 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains en mai 2023 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont eu lieu en juin 2023 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en juillet 2023 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'incidents ont été enregistrés en août 2023 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains en septembre 2023 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont été enregistrées en octobre 2023 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en novembre 2023 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'incidents ont eu lieu en décembre 2023 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains pour janvier 2024 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont été enregistrées en février 2024 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en mars 2024 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'incidents ont été enregistrés en avril 2024 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains en mai 2024 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont eu lieu en juin 2024 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en juillet 2024 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'incidents ont été enregistrés en août 2024 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains en septembre 2024 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont été enregistrées en octobre 2024 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en novembre 2024 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'incidents ont eu lieu en décembre 2024 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains pour janvier 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont été enregistrées en février 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en mars 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'incidents ont été enregistrés en avril 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains en mai 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont eu lieu en juin 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en juillet 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'incidents ont été enregistrés en août 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains en septembre 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont été enregistrées en octobre 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en novembre 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'incidents ont eu lieu en décembre 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains pour janvier 2026 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'interceptions de Cubains ont été enregistrées en février 2026 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en mars 2026 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Combien d'incidents ont été enregistrés en avril 2026 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908604,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains en mai 2026 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe à ce sujet."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.3385908008,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 3
+            },
+            {
+                "question": "Quels sont les facteurs possibles qui pourraient expliquer les variations mensuelles dans les interceptions de Cubains ?",
+                "answer": [
+                    "Les facteurs possibles incluent les politiques d'immigration, les conditions économiques à Cuba, les événements politiques, et les mouvements migratoires mondiaux."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 601,
+                        "end": 608,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 2
+            },
+            {
+                "question": "Quelle est la moyenne mensuelle d'interceptions de Cubains sur la période présentée dans le graphique ?",
+                "answer": [
+                    "Pour calculer la moyenne mensuelle, il faut diviser le total des interceptions par le nombre de mois dans la période. Cependant, la période exacte n'est pas clairement définie dans les données fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 565,
+                        "end": 624,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 2
+            },
+            {
+                "question": "Existe-t-il des motifs saisonniers ou cycliques dans les interceptions de Cubains ?",
+                "answer": [
+                    "Il semble y avoir des motifs saisonniers, avec des augmentations notables au printemps et en été, notamment en mars, avril, juin, juillet, et août."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 601,
+                        "end": 608,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 2
+            },
+            {
+                "question": "Combien d'interceptions de Cubains à la frontière américaine ont eu lieu en octobre 2019 ?",
+                "answer": [
+                    "En octobre 2019, il y a eu 1 931 interceptions de Cubains à la frontière américaine."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 8,
+                        "end": 12,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 2
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les interceptions de Cubains et les événements socio-économiques à Cuba ?",
+                "answer": [
+                    "Il est possible qu'il y ait une corrélation entre les interceptions de Cubains et les événements socio-économiques à Cuba, car les migrants peuvent être motivés à quitter leur pays en raison de difficultés économiques ou sociales."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 0,
+                        "end": 53,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 2
+            },
+            {
+                "question": "Existe-t-il une corrélation entre le nombre d'interceptions de Cubains et les mois de l'année ?",
+                "answer": [
+                    "Oui, il semble y avoir une corrélation, avec une tendance à des augmentations significatives pendant les mois de fin d'année."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 0,
+                        "end": 12,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 2
+            },
+            {
+                "question": "Quelle est la variation mensuelle moyenne dans les interceptions de Cubains au cours des deux dernières années ?",
+                "answer": [
+                    "La variation mensuelle moyenne est susceptible d'être calculée en analysant la différence moyenne entre les chiffres d'interceptions de mois en mois sur la période."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 616,
+                        "end": 624,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 2
+            },
+            {
+                "question": "Quelle est la statistique d'interceptions de Cubains en mai 2021 ?",
+                "answer": [
+                    "En mai 2021, il y a eu 2 737 interceptions de Cubains à la frontière américaine."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 630,
+                        "end": 634,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 2
+            },
+            {
+                "question": "Quelle est la tendance générale des interceptions de Cubains à la frontière américaine au cours des derniers mois ?",
+                "answer": [
+                    "La tendance générale des interceptions de Cubains à la frontière américaine a montré une augmentation significative au fil des mois, passant par une augmentation marquée à partir de septembre 2021 jusqu'à janvier 2022."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 0,
+                        "end": 46,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 2
+            },
+            {
+                "question": "Y a-t-il une saisonnalité dans les interceptions de Cubains à la frontière américaine ?",
+                "answer": [
+                    "Il semble y avoir une saisonnalité avec une tendance à des augmentations significatives pendant les mois de fin d'année."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 0,
+                        "end": 12,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 2
+            },
+            {
+                "question": "Quel est le nombre d'interceptions de Cubains en novembre 2020 ?",
+                "answer": [
+                    "En novembre 2020, il y a eu 1 614 interceptions de Cubains à la frontière américaine."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 8,
+                        "end": 12,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 2
+            }
+        ],
+        "topics": {
+            "0": [
+                "CLUSTER B",
+                "Ces couples portent sur les sujets suivants : comparaisons mensuelles d'interceptions de Cubains en 2020-2022, tendances, variations, politique migratoire et corrélation avec migrations régionales."
+            ],
+            "1": [
+                "CLUSTER C",
+                "Ces couples portent sur les statistiques mensuelles d'interceptions de Cubains, les pics d'incidents et les tendances de septembre 2019 à janvier 2022."
+            ],
+            "-1": [
+                "CLUSTER A",
+                "Ce couple porte sur les mois d'augmentation notable des interceptions en 2020 : identification des périodes de hausse."
+            ],
+            "3": [
+                "BIN"
+            ],
+            "2": [
+                "CONTEXT"
+            ]
+        }
+    }
+}

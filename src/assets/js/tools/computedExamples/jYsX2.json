@@ -1,0 +1,3101 @@
+{
+    "data": "Date\tTaux directeur\tTaux d'inflation\n2024-01-24\t5\t\n2023-12-19\t5\t3,4\n2023-11-19\t5\t3.1\n2023-10-25\t5\t3.1\n2023-09-19\t5\t3.8\n2023-09-06\t5\t4\n2023-07-12\t5\t3.3\n2023-06-07\t4,75\t2,8\n2023-05-01\t4,5\t3,4\n2023-04-12\t4,5\t4,4\n2023-03-08\t4,5\t4,3\n2023-02-01\t4,5\t5,2\n2023-01-25\t4,5\t5,9\n2022-12-21\t4,25\t6,3\n2022-12-07\t4,25\t6,3\n2022-11-01\t3,75\t6,8\n2022-10-26\t3,75\t6,9\n2022-09-07\t3,25\t7\n2022-07-13\t2,5\t7,6\n2022-06-30\t1,5\t8,1\n2022-05-31\t1\t7,7\n2022-04-29\t1\t6,8\n2022-03-31\t0,5\t6,7\n2022-02-28\t0,25\t5,7\n2022-01-31\t0,25\t5,1\n2021-12-31\t0,25\t4,8\n2021-11-30\t0,25\t4,7\n2021-10-29\t0,25\t4,7\n2021-09-30\t0,25\t4,4\n2021-08-31\t0,25\t4,1\n2021-07-30\t0,25\t3,7\n2021-06-30\t0,25\t3,1\n2021-05-31\t0,25\t3,6\n2021-04-30\t0,25\t3,4\n2021-03-31\t0,25\t2,2\n2021-02-26\t0,25\t1,1\n2021-01-29\t0,25\t1\n2020-12-31\t0,25\t0,7",
+    "defvalues": {
+        "rows_data": [
+            {
+                "color": "#cc0000",
+                "label": "Taux d'inflation de la Banque du Canada"
+            },
+            {
+                "color": "#2e2e2e",
+                "label": "Taux directeur de la Banque du Canada"
+            }
+        ],
+        "dataX": "Mois",
+        "dataY": "Évolution en pourcentage"
+    },
+    "couples": {
+        "qrs": [
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada le 31 décembre 2020 ?",
+                "R": "Le taux directeur de la Banque du Canada le 31 décembre 2020 était de 0.25%."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada le 31 décembre 2020 ?",
+                "R": "Le taux d'inflation de la Banque du Canada le 31 décembre 2020 était de 0.7%."
+            },
+            {
+                "Q": "Quel était le mois où le taux d'inflation de la Banque du Canada a atteint 1% en 2021 ?",
+                "R": "Le taux d'inflation de la Banque du Canada a atteint 1% en janvier 2021."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en janvier 2021 ?",
+                "R": "Le taux directeur de la Banque du Canada en janvier 2021 était de 0.25%."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en janvier 2021 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en janvier 2021 était de 1%."
+            },
+            {
+                "Q": "En février 2021, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en février 2021 était de 0.25%."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en février 2021 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en février 2021 était de 1.1%."
+            },
+            {
+                "Q": "Quel mois a enregistré le taux d'inflation le plus élevé en 2021 ?",
+                "R": "Le mois de décembre 2021 a enregistré le taux d'inflation le plus élevé, soit 4.8%."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en juillet 2021 ?",
+                "R": "Le taux directeur de la Banque du Canada en juillet 2021 était de 0.25%."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en juillet 2021 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en juillet 2021 était de 3.7%."
+            },
+            {
+                "Q": "En août 2021, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en août 2021 était de 0.25%."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en août 2021 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en août 2021 était de 4.1%."
+            },
+            {
+                "Q": "En septembre 2021, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en septembre 2021 était de 0.25%."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en septembre 2021 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en septembre 2021 était de 4.4%."
+            },
+            {
+                "Q": "Quel mois a enregistré le taux d'inflation le plus bas en 2021 ?",
+                "R": "Le mois de juin 2021 a enregistré le taux d'inflation le plus bas, soit 3.1%."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en décembre 2021 ?",
+                "R": "Le taux directeur de la Banque du Canada en décembre 2021 était de 0.25%."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en décembre 2021 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en décembre 2021 était de 4.8%."
+            },
+            {
+                "Q": "Au cours de quelle période le taux directeur de la Banque du Canada a-t-il augmenté en 2022 ?",
+                "R": "Le taux directeur de la Banque du Canada a augmenté en mars 2022, passant de 0.25% à 0.5%."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en février 2022 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en février 2022 était de 5.7 %."
+            },
+            {
+                "Q": "En mars 2022, quel était le taux directeur de la Banque du Canada ?",
+                "R": "En mars 2022, le taux directeur de la Banque du Canada était de 0.5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en mars 2022 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en mars 2022 était de 6.7 %."
+            },
+            {
+                "Q": "Quel mois a enregistré la plus grande augmentation du taux directeur en 2022 ?",
+                "R": "La plus grande augmentation du taux directeur en 2022 a eu lieu en juillet, passant de 1.5 % à 2.5 %."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en mai 2022 ?",
+                "R": "Le taux directeur de la Banque du Canada en mai 2022 était de 1 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en mai 2022 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en mai 2022 était de 7.7 %."
+            },
+            {
+                "Q": "En juin 2022, quel était le taux directeur de la Banque du Canada ?",
+                "R": "En juin 2022, le taux directeur de la Banque du Canada était de 1.5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en juin 2022 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en juin 2022 était de 8.1 %."
+            },
+            {
+                "Q": "En juillet 2022, quel était le taux directeur de la Banque du Canada ?",
+                "R": "En juillet 2022, le taux directeur de la Banque du Canada était de 2.5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en juillet 2022 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en juillet 2022 était de 7.6 %."
+            },
+            {
+                "Q": "Quel mois a enregistré le taux d'inflation le plus élevé en 2022 ?",
+                "R": "Le mois de juin 2022 a enregistré le taux d'inflation le plus élevé en 2022, avec 8.1 %."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en septembre 2022 ?",
+                "R": "Le taux directeur de la Banque du Canada en septembre 2022 était de 3.25 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en septembre 2022 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en septembre 2022 était de 7 %."
+            },
+            {
+                "Q": "En octobre 2022, quel était le taux directeur de la Banque du Canada ?",
+                "R": "En octobre 2022, le taux directeur de la Banque du Canada était de 3.75 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en octobre 2022 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en octobre 2022 était de 6.9 %."
+            },
+            {
+                "Q": "En novembre 2022, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en novembre 2022 était de 5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en novembre 2022 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en novembre 2022 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "Quel mois a enregistré le taux d'inflation le plus bas en 2022 ?",
+                "R": "Le taux d'inflation le plus bas en 2022 n'est pas indiqué dans les données fournies."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en décembre 2022 ?",
+                "R": "Le taux directeur de la Banque du Canada en décembre 2022 était de 4.25 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en décembre 2022 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en décembre 2022 était de 6.3 %."
+            },
+            {
+                "Q": "Au cours de quelle période le taux directeur de la Banque du Canada a-t-il atteint 25% ?",
+                "R": "Le taux directeur de la Banque du Canada n'a pas atteint 25 % selon les données fournies."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en février 2023 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en février 2023 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "En mars 2023, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en mars 2023 était de 4.5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en mars 2023 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en mars 2023 était de 4.3 %."
+            },
+            {
+                "Q": "Quel mois a enregistré la plus grande augmentation du taux directeur en 2023 ?",
+                "R": "La plus grande augmentation du taux directeur en 2023 n'est pas spécifiée dans les données fournies."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en mai 2023 ?",
+                "R": "Le taux directeur de la Banque du Canada en mai 2023 était de 4.5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en mai 2023 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en mai 2023 était de 3.4 %."
+            },
+            {
+                "Q": "En juin 2023, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en juin 2023 était de 4.75 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en juin 2023 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en juin 2023 était de 2.8 %."
+            },
+            {
+                "Q": "En juillet 2023, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en juillet 2023 était de 5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en juillet 2023 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en juillet 2023 était de 3.3 %."
+            },
+            {
+                "Q": "Quel mois a enregistré le taux d'inflation le plus élevé en 2023 ?",
+                "R": "Le mois avec le taux d'inflation le plus élevé en 2023 n'est pas spécifié dans les données fournies."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en septembre 2023 ?",
+                "R": "Le taux directeur de la Banque du Canada en septembre 2023 était de 5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en septembre 2023 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en septembre 2023 était de 4 %."
+            },
+            {
+                "Q": "En octobre 2023, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en octobre 2023 était de 5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en octobre 2023 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en octobre 2023 était de 3.1 %."
+            },
+            {
+                "Q": "En novembre 2023, quel était le taux directeur de la Banque du Canada ?",
+                "R": "En novembre 2023, le taux directeur de la Banque du Canada était de 5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en novembre 2023 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en novembre 2023 était de 3.1 %."
+            },
+            {
+                "Q": "Quel mois a enregistré le taux d'inflation le plus bas en 2023 ?",
+                "R": "Le mois de novembre 2023 a enregistré le taux d'inflation le plus bas, qui était de 3.1 %."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en décembre 2023 ?",
+                "R": "Le taux directeur de la Banque du Canada en décembre 2023 était de 5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en décembre 2023 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en décembre 2023 était de 3.4 %."
+            },
+            {
+                "Q": "Au cours de quelle période le taux directeur de la Banque du Canada a-t-il atteint 5 % ?",
+                "R": "Le taux directeur de la Banque du Canada a atteint 5 % à partir du mois de juillet 2023."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en février 2024 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en février 2024 était de 5.2 %."
+            },
+            {
+                "Q": "En mars 2024, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en mars 2024 était de 5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en mars 2024 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en mars 2024 était de 4.3 %."
+            },
+            {
+                "Q": "Quel mois a enregistré la plus grande augmentation du taux directeur en 2024 ?",
+                "R": "Le mois de juillet 2024 a enregistré la plus grande augmentation du taux directeur, passant de 4.75 % à 5 %."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en mai 2024 ?",
+                "R": "Le taux directeur de la Banque du Canada en mai 2024 était de 5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en mai 2024 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en mai 2024 était de 3.4 %."
+            },
+            {
+                "Q": "En juin 2024, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en juin 2024 était de 5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en juin 2024 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en juin 2024 était de 3.3 %."
+            },
+            {
+                "Q": "En juillet 2024, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en juillet 2024 était de 5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en juillet 2024 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en juillet 2024 était de 3.8 %."
+            },
+            {
+                "Q": "Quel mois a enregistré le taux d'inflation le plus élevé en 2024 ?",
+                "R": "Le mois de février 2024 a enregistré le taux d'inflation le plus élevé, qui était de 5.2 %."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en septembre 2024 ?",
+                "R": "Le taux directeur de la Banque du Canada en septembre 2024 était de 5 %."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en septembre 2024 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en septembre 2024 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "En octobre 2024, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en octobre 2024 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en octobre 2024 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en octobre 2024 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "En novembre 2024, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en novembre 2024 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en novembre 2024 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en novembre 2024 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "Quel mois a enregistré le taux d'inflation le plus bas en 2024 ?",
+                "R": "Le mois qui a enregistré le taux d'inflation le plus bas en 2024 est janvier, avec un taux de 0%."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en décembre 2024 ?",
+                "R": "Le taux directeur de la Banque du Canada en décembre 2024 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en décembre 2024 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en décembre 2024 est de 0%."
+            },
+            {
+                "Q": "Au cours de quelle période le taux directeur de la Banque du Canada a-t-il atteint 5% ?",
+                "R": "Le taux directeur de la Banque du Canada a atteint 5% à partir de juillet 2023."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en février 2025 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en février 2025 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "En mars 2025, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en mars 2025 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en mars 2025 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en mars 2025 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "Quel mois a enregistré la plus grande augmentation du taux directeur en 2025 ?",
+                "R": "La plus grande augmentation du taux directeur en 2025 n'est pas spécifiée dans les données."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en mai 2025 ?",
+                "R": "Le taux directeur de la Banque du Canada en mai 2025 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en mai 2025 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en mai 2025 n'est pas fourni dans les données."
+            },
+            {
+                "Q": "En juin 2025, quel était le taux directeur de la Banque du Canada ?",
+                "R": "D'après les données fournies, le tableau ne contient pas d'information sur le taux directeur de la Banque du Canada en juin 2025."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en juin 2025 ?",
+                "R": "Le texte ne mentionne pas le taux d'inflation de la Banque du Canada en juin 2025."
+            },
+            {
+                "Q": "En juillet 2025, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Les données fournies dans le tableau ne mentionnent pas le taux directeur de la Banque du Canada en juillet 2025."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en juillet 2025 ?",
+                "R": "Le texte ne fournit pas d'information sur le taux d'inflation de la Banque du Canada en juillet 2025."
+            },
+            {
+                "Q": "Quel mois a enregistré le taux d'inflation le plus élevé en 2025 ?",
+                "R": "D'après le tableau, le mois avec le taux d'inflation le plus élevé en 2025 était le mois de juin, avec un taux d'inflation de 8.1%."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada en septembre 2025 ?",
+                "R": "Le tableau ne contient pas d'information sur le taux directeur de la Banque du Canada en septembre 2025."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en septembre 2025 ?",
+                "R": "Le texte et le tableau ne donnent pas d'information sur le taux d'inflation de la Banque du Canada en septembre 2025."
+            },
+            {
+                "Q": "En octobre 2025, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Les données fournies dans le texte et le tableau ne mentionnent pas le taux directeur de la Banque du Canada en octobre 2025."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en octobre 2025 ?",
+                "R": "Le texte ne fournit pas d'information sur le taux d'inflation de la Banque du Canada en octobre 2025."
+            },
+            {
+                "Q": "En novembre 2025, quel était le taux directeur de la Banque du Canada ?",
+                "R": "Le tableau ne contient pas d'information sur le taux directeur de la Banque du Canada en novembre 2025."
+            },
+            {
+                "Q": "Quel était le taux d'inflation de la Banque du Canada en novembre 2025 ?",
+                "R": "Le texte ne donne pas d'information sur le taux d'inflation de la Banque du Canada en novembre 2025."
+            },
+            {
+                "Q": "Quel mois a enregistré le taux d'inflation le plus bas en 2025 ?",
+                "R": "D'après le tableau, le mois avec le taux d'inflation le plus bas en 2025 était le mois de janvier, avec un taux d'inflation de 0%."
+            },
+            {
+                "Q": "Quel était le taux directeur de la Banque du Canada le 24 janvier 2026 ?",
+                "R": "Le tableau et le texte ne fournissent pas d'information sur le taux directeur de la Banque du Canada le 24 janvier 2026."
+            },
+            {
+                "Q": "Quel est le taux directeur de la Banque du Canada en décembre 2020 ?",
+                "R": "Le taux directeur de la Banque du Canada en décembre 2020 était de 0.25%."
+            },
+            {
+                "Q": "Quel est le taux d'inflation de la Banque du Canada en janvier 2021 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en janvier 2021 était de 1%."
+            },
+            {
+                "Q": "Quelle est la tendance du taux directeur de la Banque du Canada en février 2021 ?",
+                "R": "En février 2021, le taux directeur de la Banque du Canada est resté inchangé à 0.25%."
+            },
+            {
+                "Q": "À combien s'élève le taux d'inflation de la Banque du Canada en mars 2021 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en mars 2021 était de 2.2%."
+            },
+            {
+                "Q": "Quelle évolution observe-t-on du taux d'inflation de la Banque du Canada en avril 2021 ?",
+                "R": "En avril 2021, le taux d'inflation de la Banque du Canada a augmenté pour atteindre 3.4%."
+            },
+            {
+                "Q": "En mai 2021, quel est le niveau du taux directeur de la Banque du Canada ?",
+                "R": "En mai 2021, le taux directeur de la Banque du Canada est resté à 0.25%."
+            },
+            {
+                "Q": "Comment évolue le taux d'inflation de la Banque du Canada en juin 2021 ?",
+                "R": "En juin 2021, le taux d'inflation de la Banque du Canada a légèrement diminué pour atteindre 3.1%."
+            },
+            {
+                "Q": "En juillet 2021, quel est le taux directeur de la Banque du Canada ?",
+                "R": "En juillet 2021, le taux directeur de la Banque du Canada est resté à 0.25%."
+            },
+            {
+                "Q": "Quelle est la progression du taux d'inflation de la Banque du Canada en août 2021 ?",
+                "R": "En août 2021, le taux d'inflation de la Banque du Canada a augmenté pour atteindre 4.1%."
+            },
+            {
+                "Q": "Quel est le taux d'inflation de la Banque du Canada en septembre 2021 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en septembre 2021 était de 4.4%."
+            },
+            {
+                "Q": "En octobre 2021, quel est le taux directeur de la Banque du Canada ?",
+                "R": "En octobre 2021, le taux directeur de la Banque du Canada est resté à 0.25%.Décrivez l'évolution du taux d'inflation de la Banque du Canada en novembre.En novembre 2021, le taux d'inflation de la Banque du Canada est resté stable à 4.7%."
+            },
+            {
+                "Q": "Quel est le taux d'inflation de la Banque du Canada en décembre 2021 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en décembre 2021 était de 4.8%."
+            },
+            {
+                "Q": "Quel est le taux directeur de la Banque du Canada en janvier 2022 ?",
+                "R": "En janvier 2022, le taux directeur de la Banque du Canada est resté à 0.25%."
+            },
+            {
+                "Q": "En février 2022, quel est le niveau du taux d'inflation de la Banque du Canada ?",
+                "R": "En février 2022, le taux d'inflation de la Banque du Canada a augmenté pour atteindre 5.7%."
+            },
+            {
+                "Q": "Comment évolue le taux directeur de la Banque du Canada en mars 2022 ?",
+                "R": "En mars 2022, le taux directeur de la Banque du Canada a augmenté à 0.5%."
+            },
+            {
+                "Q": "À combien s'élève le taux d'inflation de la Banque du Canada en avril 2022 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en avril 2022 était de 6.8%."
+            },
+            {
+                "Q": "Quelle tendance observe-t-on pour le taux directeur de la Banque du Canada en mai 2022 ?",
+                "R": "En mai 2022, le taux directeur de la Banque du Canada a continué d'augmenter, atteignant 1%."
+            },
+            {
+                "Q": "Quel est le taux d'inflation de la Banque du Canada en juin 2022 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en juin 2022 était de 7.7%."
+            },
+            {
+                "Q": "En juillet 2022, quel est le taux directeur de la Banque du Canada ?",
+                "R": "En juillet 2022, le taux directeur de la Banque du Canada a augmenté à 1.5%."
+            },
+            {
+                "Q": "Comment évolue le taux d'inflation de la Banque du Canada en août 2022 ?",
+                "R": "En août 2022, le taux d'inflation de la Banque du Canada a légèrement diminué pour atteindre 7.6%."
+            },
+            {
+                "Q": "Quel est le taux d'inflation de la Banque du Canada en septembre 2022 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en septembre 2022 était de 7%."
+            },
+            {
+                "Q": "En octobre 2022, quel est le taux directeur de la Banque du Canada ?",
+                "R": "En octobre 2022, le taux directeur de la Banque du Canada a augmenté à 3.75%."
+            },
+            {
+                "Q": "Quelle est la progression du taux d'inflation de la Banque du Canada en novembre 2022 ?",
+                "R": "En novembre 2022, le taux d'inflation de la Banque du Canada était de 6.8%."
+            },
+            {
+                "Q": "Quel est le taux d'inflation de la Banque du Canada en décembre 2022 ?",
+                "R": "En décembre 2022, le taux d'inflation de la Banque du Canada était de 6.3%."
+            },
+            {
+                "Q": "Quel est le taux directeur de la Banque du Canada en janvier 2023 ?",
+                "R": "En janvier 2023, le taux directeur de la Banque du Canada était de 4.5%."
+            },
+            {
+                "Q": "En février 2023, quel est le niveau du taux d'inflation de la Banque du Canada ?",
+                "R": "En février 2023, le taux d'inflation de la Banque du Canada était de 5.2%."
+            },
+            {
+                "Q": "Comment évolue le taux directeur de la Banque du Canada en mars 2023 ?",
+                "R": "En mars 2023, le taux directeur de la Banque du Canada reste constant à 4.5%."
+            },
+            {
+                "Q": "À combien s'élève le taux d'inflation de la Banque du Canada en avril 2023 ?",
+                "R": "En avril 2023, le taux d'inflation de la Banque du Canada était de 4.4%."
+            },
+            {
+                "Q": "Quelle tendance observe-t-on pour le taux directeur de la Banque du Canada en mai 2023 ?",
+                "R": "En mai 2023, le taux directeur de la Banque du Canada augmente à 4.5%."
+            },
+            {
+                "Q": "Quel est le taux d'inflation de la Banque du Canada en juin 2023 ?",
+                "R": "En juin 2023, le taux d'inflation de la Banque du Canada était de 3.4%."
+            },
+            {
+                "Q": "En juillet 2023, quel est le taux directeur de la Banque du Canada ?",
+                "R": "En juillet 2023, le taux directeur de la Banque du Canada était de 5%."
+            },
+            {
+                "Q": "Comment évolue le taux d'inflation de la Banque du Canada en août 2023 ?",
+                "R": "En août 2023, le taux d'inflation de la Banque du Canada diminue à 2.8%."
+            },
+            {
+                "Q": "Quel est le taux d'inflation de la Banque du Canada en septembre 2023 ?",
+                "R": "En septembre 2023, le taux d'inflation de la Banque du Canada était de 4%."
+            },
+            {
+                "Q": "En octobre 2023, quel est le taux directeur de la Banque du Canada ?",
+                "R": "En octobre 2023, le taux directeur de la Banque du Canada était de 5%."
+            },
+            {
+                "Q": "Quelle est la progression du taux d'inflation de la Banque du Canada en novembre 2023 ?",
+                "R": "En novembre 2023, le taux d'inflation de la Banque du Canada était de 3.1%."
+            },
+            {
+                "Q": "Quel est le taux d'inflation de la Banque du Canada en décembre 2023 ?",
+                "R": "En décembre 2023, le taux d'inflation de la Banque du Canada était de 3.4%."
+            },
+            {
+                "Q": "Quel est le taux directeur de la Banque du Canada en janvier 2024 ?",
+                "R": "En janvier 2024, le taux directeur de la Banque du Canada était de 5%."
+            },
+            {
+                "Q": "En janvier 2024, quel est le niveau du taux d'inflation de la Banque du Canada ?",
+                "R": "En janvier 2024, le taux d'inflation de la Banque du Canada était de 0%."
+            },
+            {
+                "Q": "Quel est le taux d'inflation de la Banque du Canada en janvier 2024 ?",
+                "R": "En janvier 2024, le taux d'inflation de la Banque du Canada était de 0%."
+            },
+            {
+                "Q": "En janvier 2024, quel est le niveau du taux directeur de la Banque du Canada ?",
+                "R": "Le taux directeur de la Banque du Canada en janvier 2024 est de 5 %."
+            },
+            {
+                "Q": "Comment évolue le taux d'inflation de la Banque du Canada en janvier 2024 ?",
+                "R": "En janvier 2024, le taux d'inflation de la Banque du Canada est de 0 %."
+            },
+            {
+                "Q": "À combien s'élève le taux directeur de la Banque du Canada en janvier 2024 ?",
+                "R": "Le taux directeur de la Banque du Canada en janvier 2024 est de 5 %."
+            },
+            {
+                "Q": "Quelle tendance observe-t-on pour le taux d'inflation de la Banque du Canada en janvier 2024 ?",
+                "R": "En janvier 2024, le taux d'inflation de la Banque du Canada est de 0 %, ce qui semble indiquer une stagnation ou une baisse par rapport aux mois précédents."
+            },
+            {
+                "Q": "À combien s'élève le taux d'inflation de la Banque du Canada en janvier 2024 ?",
+                "R": "Le taux d'inflation de la Banque du Canada en janvier 2024 est de 0 %."
+            },
+            {
+                "Q": "Comment évolue le taux directeur de la Banque du Canada en janvier 2024 ?",
+                "R": "Le taux directeur de la Banque du Canada reste constant à 5% en janvier 2024."
+            },
+            {
+                "Q": "Quelle tendance observe-t-on pour le taux directeur de la Banque du Canada en janvier 2024 ?",
+                "R": "La tendance observée pour le taux directeur de la Banque du Canada en janvier 2024 est la stabilité, restant à 5%."
+            }
+        ],
+        "end": true
+    },
+    "clusters": {
+        "clusters": [
+            {
+                "question": "Quel était le taux directeur de la Banque du Canada le 31 décembre 2020 ?",
+                "answer": [
+                    "Le taux directeur de la Banque du Canada le 31 décembre 2020 était de 0.25%.",
+                    "Le taux d'inflation de la Banque du Canada le 31 décembre 2020 était de 0.7%."
+                ],
+                "diff_word": [
+                    [
+                        4,
+                        [
+                            "directeur",
+                            "d'inflation"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En février 2021, quel était le taux directeur de la Banque du Canada ?",
+                "answer": [
+                    "Le taux directeur de la Banque du Canada en février 2021 était de 0.25%.",
+                    "Le taux directeur de la Banque du Canada en août 2021 était de 0.25%.",
+                    "Le taux directeur de la Banque du Canada en septembre 2021 était de 0.25%.",
+                    "En mars 2022, le taux directeur de la Banque du Canada était de 0.5 %.",
+                    "En juin 2022, le taux directeur de la Banque du Canada était de 1.5 %.",
+                    "En juillet 2022, le taux directeur de la Banque du Canada était de 2.5 %.",
+                    "En octobre 2022, le taux directeur de la Banque du Canada était de 3.75 %.",
+                    "Le taux directeur de la Banque du Canada en novembre 2022 était de 5 %.",
+                    "Le taux directeur de la Banque du Canada en mars 2023 était de 4.5 %.",
+                    "Le taux directeur de la Banque du Canada en juin 2023 était de 4.75 %.",
+                    "Le taux directeur de la Banque du Canada en juillet 2023 était de 5 %.",
+                    "Le taux directeur de la Banque du Canada en octobre 2023 était de 5 %.",
+                    "En novembre 2023, le taux directeur de la Banque du Canada était de 5 %.",
+                    "Le taux directeur de la Banque du Canada en mars 2024 était de 5 %.",
+                    "Le taux directeur de la Banque du Canada en juin 2024 était de 5 %.",
+                    "Le taux directeur de la Banque du Canada en juillet 2024 était de 5 %.",
+                    "En juillet 2021, le taux directeur de la Banque du Canada est resté à 0.25%.",
+                    "En octobre 2021, le taux directeur de la Banque du Canada est resté à 0.25%.Décrivez l'évolution du taux d'inflation de la Banque du Canada en novembre.En novembre 2021, le taux d'inflation de la Banque du Canada est resté stable à 4.7%.",
+                    "En juillet 2022, le taux directeur de la Banque du Canada a augmenté à 1.5%.",
+                    "En octobre 2022, le taux directeur de la Banque du Canada a augmenté à 3.75%.",
+                    "En juillet 2023, le taux directeur de la Banque du Canada était de 5%.",
+                    "En octobre 2023, le taux directeur de la Banque du Canada était de 5%."
+                ],
+                "diff_word": [
+                    [
+                        1,
+                        [
+                            "février",
+                            "août",
+                            "septembre",
+                            "mars",
+                            "juin",
+                            "juillet",
+                            "octobre",
+                            "novembre",
+                            "mars",
+                            "juin",
+                            "juillet",
+                            "octobre",
+                            "novembre",
+                            "mars",
+                            "juin",
+                            "juillet",
+                            "juillet",
+                            "octobre",
+                            "juillet",
+                            "octobre",
+                            "juillet",
+                            "octobre"
+                        ]
+                    ],
+                    [
+                        2,
+                        [
+                            "2021,",
+                            "2021,",
+                            "2021,",
+                            "2022,",
+                            "2022,",
+                            "2022,",
+                            "2022,",
+                            "2022,",
+                            "2023,",
+                            "2023,",
+                            "2023,",
+                            "2023,",
+                            "2023,",
+                            "2024,",
+                            "2024,",
+                            "2024,",
+                            "2021,",
+                            "2021,",
+                            "2022,",
+                            "2022,",
+                            "2023,",
+                            "2023,"
+                        ]
+                    ],
+                    [
+                        4,
+                        [
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "est",
+                            "est",
+                            "est",
+                            "est",
+                            "est",
+                            "est"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                15
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                18
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                19
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                21
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5485150665,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                22
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                27
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                30
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                31
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                34
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                35
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                10
+                            ],
+                            [
+                                "taux directeur de la banque du canada",
+                                10
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5277083218,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                19
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                21
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                31
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                34
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel était le mois où le taux d'inflation de la Banque du Canada a atteint 1% en 2021 ?",
+                "answer": [
+                    "Le taux d'inflation de la Banque du Canada a atteint 1% en janvier 2021."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel était le taux directeur de la Banque du Canada en janvier 2021 ?",
+                "answer": [
+                    "Le taux directeur de la Banque du Canada en janvier 2021 était de 0.25%.",
+                    "Le taux d'inflation de la Banque du Canada en janvier 2021 était de 1%.",
+                    "Le taux d'inflation de la Banque du Canada en février 2021 était de 1.1%.",
+                    "Le taux directeur de la Banque du Canada en juillet 2021 était de 0.25%.",
+                    "Le taux d'inflation de la Banque du Canada en juillet 2021 était de 3.7%.",
+                    "Le taux d'inflation de la Banque du Canada en août 2021 était de 4.1%.",
+                    "Le taux d'inflation de la Banque du Canada en septembre 2021 était de 4.4%.",
+                    "Le taux directeur de la Banque du Canada en décembre 2021 était de 0.25%.",
+                    "Le taux d'inflation de la Banque du Canada en décembre 2021 était de 4.8%.",
+                    "Le taux d'inflation de la Banque du Canada en février 2022 était de 5.7 %.",
+                    "Le taux d'inflation de la Banque du Canada en mars 2022 était de 6.7 %.",
+                    "Le taux directeur de la Banque du Canada en mai 2022 était de 1 %.",
+                    "Le taux d'inflation de la Banque du Canada en mai 2022 était de 7.7 %.",
+                    "Le taux d'inflation de la Banque du Canada en juin 2022 était de 8.1 %.",
+                    "Le taux d'inflation de la Banque du Canada en juillet 2022 était de 7.6 %.",
+                    "Le taux directeur de la Banque du Canada en septembre 2022 était de 3.25 %.",
+                    "Le taux d'inflation de la Banque du Canada en septembre 2022 était de 7 %.",
+                    "Le taux d'inflation de la Banque du Canada en octobre 2022 était de 6.9 %.",
+                    "Le taux directeur de la Banque du Canada en décembre 2022 était de 4.25 %.",
+                    "Le taux d'inflation de la Banque du Canada en décembre 2022 était de 6.3 %.",
+                    "Le taux d'inflation de la Banque du Canada en mars 2023 était de 4.3 %.",
+                    "Le taux directeur de la Banque du Canada en mai 2023 était de 4.5 %.",
+                    "Le taux d'inflation de la Banque du Canada en mai 2023 était de 3.4 %.",
+                    "Le taux d'inflation de la Banque du Canada en juin 2023 était de 2.8 %.",
+                    "Le taux d'inflation de la Banque du Canada en juillet 2023 était de 3.3 %.",
+                    "Le taux directeur de la Banque du Canada en septembre 2023 était de 5 %.",
+                    "Le taux d'inflation de la Banque du Canada en septembre 2023 était de 4 %.",
+                    "Le taux d'inflation de la Banque du Canada en octobre 2023 était de 3.1 %.",
+                    "Le taux d'inflation de la Banque du Canada en novembre 2023 était de 3.1 %.",
+                    "Le taux directeur de la Banque du Canada en décembre 2023 était de 5 %.",
+                    "Le taux d'inflation de la Banque du Canada en décembre 2023 était de 3.4 %.",
+                    "Le taux d'inflation de la Banque du Canada en février 2024 était de 5.2 %.",
+                    "Le taux d'inflation de la Banque du Canada en mars 2024 était de 4.3 %.",
+                    "Le taux directeur de la Banque du Canada en mai 2024 était de 5 %.",
+                    "Le taux d'inflation de la Banque du Canada en mai 2024 était de 3.4 %.",
+                    "Le taux d'inflation de la Banque du Canada en juin 2024 était de 3.3 %.",
+                    "Le taux d'inflation de la Banque du Canada en juillet 2024 était de 3.8 %.",
+                    "Le taux directeur de la Banque du Canada en septembre 2024 était de 5 %.",
+                    "Le taux d'inflation de la Banque du Canada en décembre 2024 est de 0%.",
+                    "Le taux directeur de la Banque du Canada en décembre 2020 était de 0.25%.",
+                    "Le taux d'inflation de la Banque du Canada en janvier 2021 était de 1%.",
+                    "En juin 2021, le taux d'inflation de la Banque du Canada a légèrement diminué pour atteindre 3.1%.",
+                    "Le taux d'inflation de la Banque du Canada en septembre 2021 était de 4.4%.",
+                    "Le taux d'inflation de la Banque du Canada en décembre 2021 était de 4.8%.",
+                    "En janvier 2022, le taux directeur de la Banque du Canada est resté à 0.25%.",
+                    "En mars 2022, le taux directeur de la Banque du Canada a augmenté à 0.5%.",
+                    "Le taux d'inflation de la Banque du Canada en juin 2022 était de 7.7%.",
+                    "En août 2022, le taux d'inflation de la Banque du Canada a légèrement diminué pour atteindre 7.6%.",
+                    "Le taux d'inflation de la Banque du Canada en septembre 2022 était de 7%.",
+                    "En décembre 2022, le taux d'inflation de la Banque du Canada était de 6.3%.",
+                    "En janvier 2023, le taux directeur de la Banque du Canada était de 4.5%.",
+                    "En mars 2023, le taux directeur de la Banque du Canada reste constant à 4.5%.",
+                    "En juin 2023, le taux d'inflation de la Banque du Canada était de 3.4%.",
+                    "En août 2023, le taux d'inflation de la Banque du Canada diminue à 2.8%.",
+                    "En septembre 2023, le taux d'inflation de la Banque du Canada était de 4%.",
+                    "En décembre 2023, le taux d'inflation de la Banque du Canada était de 3.4%.",
+                    "En janvier 2024, le taux directeur de la Banque du Canada était de 5%.",
+                    "En janvier 2024, le taux d'inflation de la Banque du Canada était de 0%.",
+                    "En janvier 2024, le taux d'inflation de la Banque du Canada est de 0 %.",
+                    "Le taux directeur de la Banque du Canada reste constant à 5% en janvier 2024."
+                ],
+                "diff_word": [
+                    [
+                        0,
+                        [
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Comment",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Comment",
+                            "Quel",
+                            "Comment",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Comment",
+                            "Quel",
+                            "Comment",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Quel",
+                            "Comment",
+                            "Comment"
+                        ]
+                    ],
+                    [
+                        1,
+                        [
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "était",
+                            "est",
+                            "est",
+                            "évolue",
+                            "est",
+                            "est",
+                            "est",
+                            "évolue",
+                            "est",
+                            "évolue",
+                            "est",
+                            "est",
+                            "est",
+                            "évolue",
+                            "est",
+                            "évolue",
+                            "est",
+                            "est",
+                            "est",
+                            "est",
+                            "évolue",
+                            "évolue"
+                        ]
+                    ],
+                    [
+                        4,
+                        [
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur"
+                        ]
+                    ],
+                    [
+                        11,
+                        [
+                            "janvier",
+                            "janvier",
+                            "février",
+                            "juillet",
+                            "juillet",
+                            "août",
+                            "septembre",
+                            "décembre",
+                            "décembre",
+                            "février",
+                            "mars",
+                            "mai",
+                            "mai",
+                            "juin",
+                            "juillet",
+                            "septembre",
+                            "septembre",
+                            "octobre",
+                            "décembre",
+                            "décembre",
+                            "mars",
+                            "mai",
+                            "mai",
+                            "juin",
+                            "juillet",
+                            "septembre",
+                            "septembre",
+                            "octobre",
+                            "novembre",
+                            "décembre",
+                            "décembre",
+                            "février",
+                            "mars",
+                            "mai",
+                            "mai",
+                            "juin",
+                            "juillet",
+                            "septembre",
+                            "décembre",
+                            "décembre",
+                            "janvier",
+                            "juin",
+                            "septembre",
+                            "décembre",
+                            "janvier",
+                            "mars",
+                            "juin",
+                            "août",
+                            "septembre",
+                            "décembre",
+                            "janvier",
+                            "mars",
+                            "juin",
+                            "août",
+                            "septembre",
+                            "décembre",
+                            "janvier",
+                            "janvier",
+                            "janvier",
+                            "janvier"
+                        ]
+                    ],
+                    [
+                        12,
+                        [
+                            "2021",
+                            "2021",
+                            "2021",
+                            "2021",
+                            "2021",
+                            "2021",
+                            "2021",
+                            "2021",
+                            "2021",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2024",
+                            "2024",
+                            "2024",
+                            "2024",
+                            "2024",
+                            "2024",
+                            "2024",
+                            "2024",
+                            "2020",
+                            "2021",
+                            "2021",
+                            "2021",
+                            "2021",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2022",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2023",
+                            "2024",
+                            "2024",
+                            "2024",
+                            "2024"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                12
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                12
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                14
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                15
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                17
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                17
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                18
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                19
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                20
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                20
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                21
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                23
+                            ],
+                            [
+                                "taux d'inflation de la banque du canada",
+                                24
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                23
+                            ],
+                            [
+                                "taux d'inflation de la banque du canada",
+                                24
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                27
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                29
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                29
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                30
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                31
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                32
+                            ],
+                            [
+                                "taux d'inflation de la banque du canada",
+                                33
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                32
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                34
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                35
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                36
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                36
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.4812831581,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5006488115,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.4985622168,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5043240488,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                12
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                13
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                15
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5104176998,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                18
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                19
+                            ],
+                            [
+                                "taux d'inflation de la banque du canada",
+                                20
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                20
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                23
+                            ],
+                            [
+                                "taux d'inflation de la banque du canada",
+                                24
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                25
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                27
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5056521446,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                30
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                30
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                32
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                36
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En novembre 2025, quel était le taux directeur de la Banque du Canada ?",
+                "answer": [
+                    "Le tableau ne contient pas d'information sur le taux directeur de la Banque du Canada en novembre 2025."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.4127007425,
+                        "start": 198,
+                        "end": 203,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Au cours de quelle période le taux directeur de la Banque du Canada a-t-il atteint 5 % ?",
+                "answer": [
+                    "Le taux directeur de la Banque du Canada a atteint 5 % à partir du mois de juillet 2023."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6137253791,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                31
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel mois a enregistré le taux d'inflation le plus élevé en 2021 ?",
+                "answer": [
+                    "Le mois de décembre 2021 a enregistré le taux d'inflation le plus élevé, soit 4.8%.",
+                    "Le mois de juin 2021 a enregistré le taux d'inflation le plus bas, soit 3.1%.",
+                    "Le mois de juin 2022 a enregistré le taux d'inflation le plus élevé en 2022, avec 8.1 %.",
+                    "Le mois de novembre 2023 a enregistré le taux d'inflation le plus bas, qui était de 3.1 %.",
+                    "Le mois de février 2024 a enregistré le taux d'inflation le plus élevé, qui était de 5.2 %.",
+                    "Le mois qui a enregistré le taux d'inflation le plus bas en 2024 est janvier, avec un taux de 0%."
+                ],
+                "diff_word": [
+                    [
+                        9,
+                        [
+                            "élevé",
+                            "bas",
+                            "élevé",
+                            "bas",
+                            "élevé",
+                            "bas"
+                        ]
+                    ],
+                    [
+                        11,
+                        [
+                            "2021",
+                            "2021",
+                            "2022",
+                            "2023",
+                            "2024",
+                            "2024"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                12
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                18
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                34
+                            ],
+                            [
+                                "taux d'inflation de la banque du canada",
+                                35
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel mois a enregistré la plus grande augmentation du taux directeur en 2022 ?",
+                "answer": [
+                    "La plus grande augmentation du taux directeur en 2022 a eu lieu en juillet, passant de 1.5 % à 2.5 %.",
+                    "Le mois de juillet 2024 a enregistré la plus grande augmentation du taux directeur, passant de 4.75 % à 5 %."
+                ],
+                "diff_word": [
+                    [
+                        12,
+                        [
+                            "2022",
+                            "2024"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                16
+                            ],
+                            [
+                                "taux directeur de la banque du canada",
+                                17
+                            ],
+                            [
+                                "taux directeur de la banque du canada",
+                                18
+                            ],
+                            [
+                                "taux directeur de la banque du canada",
+                                19
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Au cours de quelle période le taux directeur de la Banque du Canada a-t-il augmenté en 2022 ?",
+                "answer": [
+                    "Le taux directeur de la Banque du Canada a augmenté en mars 2022, passant de 0.25% à 0.5%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                13
+                            ],
+                            [
+                                "taux directeur de la banque du canada",
+                                14
+                            ],
+                            [
+                                "taux directeur de la banque du canada",
+                                15
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Au cours de quelle période le taux directeur de la Banque du Canada a-t-il atteint 5% ?",
+                "answer": [
+                    "Le taux directeur de la Banque du Canada a atteint 5% à partir de juillet 2023."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5872294903,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                31
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la tendance du taux directeur de la Banque du Canada en février 2021 ?",
+                "answer": [
+                    "En février 2021, le taux directeur de la Banque du Canada est resté inchangé à 0.25%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle évolution observe-t-on du taux d'inflation de la Banque du Canada en avril 2021 ?",
+                "answer": [
+                    "En avril 2021, le taux d'inflation de la Banque du Canada a augmenté pour atteindre 3.4%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En mai 2021, quel est le niveau du taux directeur de la Banque du Canada ?",
+                "answer": [
+                    "En mai 2021, le taux directeur de la Banque du Canada est resté à 0.25%.",
+                    "En février 2022, le taux d'inflation de la Banque du Canada a augmenté pour atteindre 5.7%.",
+                    "En février 2023, le taux d'inflation de la Banque du Canada était de 5.2%.",
+                    "En janvier 2024, le taux d'inflation de la Banque du Canada était de 0%.",
+                    "Le taux directeur de la Banque du Canada en janvier 2024 est de 5 %."
+                ],
+                "diff_word": [
+                    [
+                        1,
+                        [
+                            "mai",
+                            "février",
+                            "février",
+                            "janvier",
+                            "janvier"
+                        ]
+                    ],
+                    [
+                        2,
+                        [
+                            "2021,",
+                            "2022,",
+                            "2023,",
+                            "2024,",
+                            "2024,"
+                        ]
+                    ],
+                    [
+                        9,
+                        [
+                            "directeur",
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                14
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                26
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle tendance observe-t-on pour le taux directeur de la Banque du Canada en mai 2022 ?",
+                "answer": [
+                    "En mai 2022, le taux directeur de la Banque du Canada a continué d'augmenter, atteignant 1%.",
+                    "En mai 2023, le taux directeur de la Banque du Canada augmente à 4.5%.",
+                    "En janvier 2024, le taux d'inflation de la Banque du Canada est de 0 %, ce qui semble indiquer une stagnation ou une baisse par rapport aux mois précédents.",
+                    "La tendance observée pour le taux directeur de la Banque du Canada en janvier 2024 est la stabilité, restant à 5%."
+                ],
+                "diff_word": [
+                    [
+                        6,
+                        [
+                            "directeur",
+                            "directeur",
+                            "d'inflation",
+                            "directeur"
+                        ]
+                    ],
+                    [
+                        13,
+                        [
+                            "mai",
+                            "mai",
+                            "janvier",
+                            "janvier"
+                        ]
+                    ],
+                    [
+                        14,
+                        [
+                            "2022",
+                            "2023",
+                            "2024",
+                            "2024"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                17
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                29
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux directeur de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la progression du taux d'inflation de la Banque du Canada en août 2021 ?",
+                "answer": [
+                    "En août 2021, le taux d'inflation de la Banque du Canada a augmenté pour atteindre 4.1%.",
+                    "En novembre 2022, le taux d'inflation de la Banque du Canada était de 6.8%.",
+                    "En novembre 2023, le taux d'inflation de la Banque du Canada était de 3.1%."
+                ],
+                "diff_word": [
+                    [
+                        13,
+                        [
+                            "août",
+                            "novembre",
+                            "novembre"
+                        ]
+                    ],
+                    [
+                        14,
+                        [
+                            "2021",
+                            "2022",
+                            "2023"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                22
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                35
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "À combien s'élève le taux d'inflation de la Banque du Canada en mars 2021 ?",
+                "answer": [
+                    "Le taux d'inflation de la Banque du Canada en mars 2021 était de 2.2%.",
+                    "Le taux d'inflation de la Banque du Canada en avril 2022 était de 6.8%.",
+                    "En avril 2023, le taux d'inflation de la Banque du Canada était de 4.4%.",
+                    "Le taux directeur de la Banque du Canada en janvier 2024 est de 5 %.",
+                    "Le taux d'inflation de la Banque du Canada en janvier 2024 est de 0 %."
+                ],
+                "diff_word": [
+                    [
+                        5,
+                        [
+                            "d'inflation",
+                            "d'inflation",
+                            "d'inflation",
+                            "directeur",
+                            "d'inflation"
+                        ]
+                    ],
+                    [
+                        12,
+                        [
+                            "mars",
+                            "avril",
+                            "avril",
+                            "janvier",
+                            "janvier"
+                        ]
+                    ],
+                    [
+                        13,
+                        [
+                            "2021",
+                            "2022",
+                            "2023",
+                            "2024",
+                            "2024"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                16
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                28
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "taux d'inflation de la banque du canada",
+                                37
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en novembre 2022 ?",
+                "answer": [
+                    "Le taux d'inflation de la Banque du Canada en novembre 2022 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7057900131,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel mois a enregistré le taux d'inflation le plus bas en 2022 ?",
+                "answer": [
+                    "Le taux d'inflation le plus bas en 2022 n'est pas indiqué dans les données fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7436560988,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en février 2023 ?",
+                "answer": [
+                    "Le taux d'inflation de la Banque du Canada en février 2023 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6918524206,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel mois a enregistré la plus grande augmentation du taux directeur en 2023 ?",
+                "answer": [
+                    "La plus grande augmentation du taux directeur en 2023 n'est pas spécifiée dans les données fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6875054836,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel mois a enregistré le taux d'inflation le plus élevé en 2023 ?",
+                "answer": [
+                    "Le mois avec le taux d'inflation le plus élevé en 2023 n'est pas spécifié dans les données fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.720992893,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en septembre 2024 ?",
+                "answer": [
+                    "Le taux d'inflation de la Banque du Canada en septembre 2024 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7356758416,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "En octobre 2024, quel était le taux directeur de la Banque du Canada ?",
+                "answer": [
+                    "Le taux directeur de la Banque du Canada en octobre 2024 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7682534605,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en octobre 2024 ?",
+                "answer": [
+                    "Le taux d'inflation de la Banque du Canada en octobre 2024 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7423059046,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "En novembre 2024, quel était le taux directeur de la Banque du Canada ?",
+                "answer": [
+                    "Le taux directeur de la Banque du Canada en novembre 2024 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7437041402,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en novembre 2024 ?",
+                "answer": [
+                    "Le taux d'inflation de la Banque du Canada en novembre 2024 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7239657044,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux directeur de la Banque du Canada en décembre 2024 ?",
+                "answer": [
+                    "Le taux directeur de la Banque du Canada en décembre 2024 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7648016363,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en février 2025 ?",
+                "answer": [
+                    "Le taux d'inflation de la Banque du Canada en février 2025 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7278014421,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "En mars 2025, quel était le taux directeur de la Banque du Canada ?",
+                "answer": [
+                    "Le taux directeur de la Banque du Canada en mars 2025 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7510864586,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en mars 2025 ?",
+                "answer": [
+                    "Le taux d'inflation de la Banque du Canada en mars 2025 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7387265563,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel mois a enregistré la plus grande augmentation du taux directeur en 2025 ?",
+                "answer": [
+                    "La plus grande augmentation du taux directeur en 2025 n'est pas spécifiée dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7489570975,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux directeur de la Banque du Canada en mai 2025 ?",
+                "answer": [
+                    "Le taux directeur de la Banque du Canada en mai 2025 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7383485436,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en mai 2025 ?",
+                "answer": [
+                    "Le taux d'inflation de la Banque du Canada en mai 2025 n'est pas fourni dans les données."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7033863962,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "En juin 2025, quel était le taux directeur de la Banque du Canada ?",
+                "answer": [
+                    "D'après les données fournies, le tableau ne contient pas d'information sur le taux directeur de la Banque du Canada en juin 2025."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7460439801,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "En juillet 2025, quel était le taux directeur de la Banque du Canada ?",
+                "answer": [
+                    "Les données fournies dans le tableau ne mentionnent pas le taux directeur de la Banque du Canada en juillet 2025."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6962095499,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en juillet 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information sur le taux d'inflation de la Banque du Canada en juillet 2025."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7511579543,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en septembre 2025 ?",
+                "answer": [
+                    "Le texte et le tableau ne donnent pas d'information sur le taux d'inflation de la Banque du Canada en septembre 2025."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.747790575,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "En octobre 2025, quel était le taux directeur de la Banque du Canada ?",
+                "answer": [
+                    "Les données fournies dans le texte et le tableau ne mentionnent pas le taux directeur de la Banque du Canada en octobre 2025."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6909732819,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en octobre 2025 ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information sur le taux d'inflation de la Banque du Canada en octobre 2025."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7357535064,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en novembre 2025 ?",
+                "answer": [
+                    "Le texte ne donne pas d'information sur le taux d'inflation de la Banque du Canada en novembre 2025."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7387436926,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Au cours de quelle période le taux directeur de la Banque du Canada a-t-il atteint 25% ?",
+                "answer": [
+                    "Le taux directeur de la Banque du Canada n'a pas atteint 25 % selon les données fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 105,
+                        "end": 107,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quel mois a enregistré le taux d'inflation le plus élevé en 2025 ?",
+                "answer": [
+                    "D'après le tableau, le mois avec le taux d'inflation le plus élevé en 2025 était le mois de juin, avec un taux d'inflation de 8.1%.",
+                    "D'après le tableau, le mois avec le taux d'inflation le plus bas en 2025 était le mois de janvier, avec un taux d'inflation de 0%."
+                ],
+                "diff_word": [
+                    [
+                        9,
+                        [
+                            "élevé",
+                            "bas"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 207,
+                        "end": 216,
+                        "type": "article"
+                    },
+                    {
+                        "score": 0,
+                        "start": 207,
+                        "end": 216,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quel était le taux d'inflation de la Banque du Canada en juin 2025 ?",
+                "answer": [
+                    "Le texte ne mentionne pas le taux d'inflation de la Banque du Canada en juin 2025.",
+                    "Le tableau ne contient pas d'information sur le taux directeur de la Banque du Canada en septembre 2025."
+                ],
+                "diff_word": [
+                    [
+                        4,
+                        [
+                            "d'inflation",
+                            "directeur"
+                        ]
+                    ],
+                    [
+                        11,
+                        [
+                            "juin",
+                            "septembre"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 665,
+                        "end": 672,
+                        "type": "article"
+                    },
+                    {
+                        "score": 0,
+                        "start": 665,
+                        "end": 672,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quel était le taux directeur de la Banque du Canada le 24 janvier 2026 ?",
+                "answer": [
+                    "Le tableau et le texte ne fournissent pas d'information sur le taux directeur de la Banque du Canada le 24 janvier 2026."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 198,
+                        "end": 203,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            }
+        ],
+        "topics": {
+            "-1": [
+                "CLUSTER A",
+                "Ces couples portent sur le taux directeur et inflation de la Banque du Canada : 2021-2022. fluctuations, tendances, et chiffres clés."
+            ],
+            "1": [
+                "BIN"
+            ],
+            "0": [
+                "CONTEXT"
+            ]
+        }
+    }
+}

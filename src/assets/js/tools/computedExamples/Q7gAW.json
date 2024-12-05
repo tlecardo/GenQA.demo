@@ -1,0 +1,3638 @@
+{
+    "data": "Année\tNombre de déplacements\n2011\t15\n2012\t30.1\n2013\t22.1\n2014\t19.1\n2015\t19.2\n2016\t24.2\n2017\t18.8\n2018\t17.2\n2019\t24.9\n2020\t30.7",
+    "defvalues": {
+        "rows_data": [
+            {
+                "color": "#cc0000",
+                "label": "Nombre de personnes déplacées liées au climat"
+            }
+        ],
+        "dataX": "Année",
+        "dataY": "Nombre de déplacements"
+    },
+    "couples": {
+        "qrs": [
+            {
+                "Q": "Quel est le nombre de personnes déplacées dans le monde en 2011 ?",
+                "R": "En 2011, le nombre de personnes déplacées dans le monde était de 15 millions."
+            },
+            {
+                "Q": "Combien de personnes ont été déplacées dans le monde en 2012 ?",
+                "R": "En 2012, le nombre de personnes déplacées dans le monde était de 30.1 millions."
+            },
+            {
+                "Q": "En quelle année a-t-on enregistré 22.1 millions de personnes déplacées dans le monde ?",
+                "R": "En 2013, on a enregistré 22.1 millions de personnes déplacées dans le monde."
+            },
+            {
+                "Q": "Quel était le nombre de personnes déplacées dans le monde en 2014 ?",
+                "R": "En 2014, le nombre de personnes déplacées dans le monde était de 19.1 millions."
+            },
+            {
+                "Q": "En 2015, combien de millions de personnes étaient déplacées dans le monde ?",
+                "R": "En 2015, le nombre de personnes déplacées dans le monde était de 19.2 millions."
+            },
+            {
+                "Q": "Quelle est la quantité de personnes déplacées dans le monde en 2016 ?",
+                "R": "En 2016, le nombre de personnes déplacées dans le monde était de 24.2 millions."
+            },
+            {
+                "Q": "En 2017, combien de personnes ont été déplacées à l'échelle mondiale ?",
+                "R": "En 2017, le nombre de personnes déplacées dans le monde était de 18.8 millions."
+            },
+            {
+                "Q": "Quel était le nombre de personnes déplacées dans le monde en 2018 ?",
+                "R": "En 2018, le nombre de personnes déplacées dans le monde était de 17.2 millions."
+            },
+            {
+                "Q": "En 2019, combien de millions de personnes étaient déplacées à l'échelle mondiale ?",
+                "R": "En 2019, le nombre de personnes déplacées dans le monde était de 24.9 millions."
+            },
+            {
+                "Q": "Combien de personnes ont été déplacées dans le monde en 2020 ?",
+                "R": "En 2020, le nombre de personnes déplacées dans le monde était de 30.7 millions."
+            },
+            {
+                "Q": "En 2011, combien de millions de personnes ont été déplacées dans le monde ?",
+                "R": "En 2011, le nombre de personnes déplacées dans le monde était de 15 millions."
+            },
+            {
+                "Q": "Quelle année a enregistré le plus grand nombre de personnes déplacées parmi les années fournies ?",
+                "R": "L'année qui a enregistré le plus grand nombre de personnes déplacées parmi les années fournies est 2020, avec 30.7 millions de personnes."
+            },
+            {
+                "Q": "En 2013, quel était le nombre de personnes déplacées dans le monde ?",
+                "R": "En 2013, le nombre de personnes déplacées dans le monde était de 22.1 millions."
+            },
+            {
+                "Q": "Combien de personnes étaient déplacées dans le monde en 2014 ?",
+                "R": "En 2014, le nombre de personnes déplacées dans le monde était de 19.1 millions."
+            },
+            {
+                "Q": "Quelle année a enregistré la plus forte baisse du nombre de personnes déplacées ?",
+                "R": "La plus forte baisse du nombre de personnes déplacées a été observée entre 2015 et 2016, passant de 19.2 millions à 24.2 millions."
+            },
+            {
+                "Q": "En 2016, combien de millions de personnes étaient déplacées à l'échelle mondiale ?",
+                "R": "En 2016, le nombre de personnes déplacées dans le monde était de 24.2 millions."
+            },
+            {
+                "Q": "Quelle année a connu la plus grande augmentation du nombre de personnes déplacées ?",
+                "R": "La plus grande augmentation du nombre de personnes déplacées a été observée entre 2019 et 2020, passant de 24.9 millions à 30.7 millions."
+            },
+            {
+                "Q": "Combien de personnes ont été déplacées dans le monde en 2018 ?",
+                "R": "En 2018, le nombre de personnes déplacées dans le monde était de 17.2 millions."
+            },
+            {
+                "Q": "Quel était le pourcentage d'augmentation du nombre de personnes déplacées entre 2011 et 2012 ?",
+                "R": "Le pourcentage d'augmentation du nombre de personnes déplacées entre 2011 et 2012 était de 100.67%."
+            },
+            {
+                "Q": "En 2019, combien de personnes ont été déplacées dans le monde ?",
+                "R": "En 2019, le nombre de personnes déplacées dans le monde était de 24.9 millions."
+            },
+            {
+                "Q": "Quelle année a enregistré le nombre le plus bas de personnes déplacées ?",
+                "R": "L'année qui a enregistré le nombre le plus bas de personnes déplacées parmi les années fournies est 2018, avec 17.2 millions de personnes."
+            },
+            {
+                "Q": "Combien de personnes étaient déplacées dans le monde en 2015 ?",
+                "R": "En 2015, le nombre de personnes déplacées dans le monde était de 19.2 millions."
+            },
+            {
+                "Q": "En 2017, quel était le nombre de personnes déplacées à l'échelle mondiale ?",
+                "R": "En 2017, le nombre de personnes déplacées dans le monde était de 18.8 millions."
+            },
+            {
+                "Q": "Quel pourcentage de diminution du nombre de personnes déplacées a été observé entre 2016 et 2017 ?",
+                "R": "Entre 2016 et 2017, le pourcentage de diminution du nombre de personnes déplacées était d'environ 22.31%."
+            },
+            {
+                "Q": "En 2018, combien de millions de personnes étaient déplacées dans le monde ?",
+                "R": "En 2018, le nombre de personnes déplacées dans le monde était de 17.2 millions."
+            },
+            {
+                "Q": "Quelle année a connu la plus forte augmentation du nombre de personnes déplacées par rapport à l'année précédente ?",
+                "R": "La plus forte augmentation du nombre de personnes déplacées par rapport à l'année précédente a été observée entre 2019 et 2020."
+            },
+            {
+                "Q": "En 2019, quel était le pourcentage d'augmentation du nombre de personnes déplacées ?",
+                "R": "En 2019, le pourcentage d'augmentation du nombre de personnes déplacées par rapport à l'année précédente n'est pas fourni dans les données fournies."
+            },
+            {
+                "Q": "Quel était le pourcentage de diminution du nombre de personnes déplacées entre 2018 et 2019 ?",
+                "R": "Entre 2018 et 2019, le pourcentage de diminution du nombre de personnes déplacées était de 8.72%."
+            },
+            {
+                "Q": "En 2020, quelle a été la variation du nombre de personnes déplacées par rapport à l'année précédente ?",
+                "R": "En 2020, le nombre de personnes déplacées a augmenté de 23.29% par rapport à l'année précédente (2019)."
+            },
+            {
+                "Q": "Quelle année a enregistré le pourcentage le plus élevé d'augmentation du nombre de personnes déplacées ?",
+                "R": "L'année qui a enregistré le pourcentage le plus élevé d'augmentation du nombre de personnes déplacées est 2020, avec une augmentation de 23.29%."
+            },
+            {
+                "Q": "Combien de personnes étaient déplacées dans le monde en 2013 ?",
+                "R": "En 2013, le nombre de personnes déplacées dans le monde était de 22.1 millions."
+            },
+            {
+                "Q": "En 2015, quel était le pourcentage d'augmentation du nombre de personnes déplacées par rapport à l'année précédente ?",
+                "R": "En 2015, le pourcentage d'augmentation du nombre de personnes déplacées par rapport à l'année précédente (2014) était de 0.52%."
+            },
+            {
+                "Q": "Quelle année a connu la plus grande diminution du nombre de personnes déplacées ?",
+                "R": "L'année qui a connu la plus grande diminution du nombre de personnes déplacées est 2016, avec une baisse de 7.86%."
+            },
+            {
+                "Q": "En 2017, combien de personnes ont été déplacées dans le monde ?",
+                "R": "En 2017, le nombre de personnes déplacées dans le monde était de 18.8 millions."
+            },
+            {
+                "Q": "Quel pourcentage de variation a été observé dans le nombre de personnes déplacées entre 2016 et 2017 ?",
+                "R": "Entre 2016 et 2017, le pourcentage de variation du nombre de personnes déplacées était de -22.31%."
+            },
+            {
+                "Q": "En 2019, quelle a été la variation du nombre de personnes déplacées par rapport à l'année précédente ?",
+                "R": "En 2019, le nombre de personnes déplacées a augmenté de 44.77% par rapport à l'année précédente (2018)."
+            },
+            {
+                "Q": "Combien de personnes étaient déplacées dans le monde en 2016 ?",
+                "R": "En 2016, le nombre de personnes déplacées dans le monde était de 24.2 millions."
+            },
+            {
+                "Q": "Quelle année a enregistré le pourcentage le plus bas de variation du nombre de personnes déplacées ?",
+                "R": "L'année qui a enregistré le pourcentage le plus bas de variation du nombre de personnes déplacées est 2015, avec une variation de 0.52%."
+            },
+            {
+                "Q": "En 2020, quel a été le pourcentage d'augmentation du nombre de personnes déplacées ?",
+                "R": "En 2020, le pourcentage d'augmentation du nombre de personnes déplacées par rapport à l'année précédente (2019) était de 23.29%."
+            },
+            {
+                "Q": "En 2014, quel était le pourcentage de variation du nombre de personnes déplacées par rapport à l'année précédente ?",
+                "R": "En 2014, le pourcentage de variation du nombre de personnes déplacées par rapport à l'année précédente (2013) était de -13.12%."
+            },
+            {
+                "Q": "Quelle année a enregistré la plus forte baisse du nombre de personnes déplacées par rapport à l'année précédente ?",
+                "R": "L'année qui a enregistré la plus forte baisse du nombre de personnes déplacées par rapport à l'année précédente est 2016, avec une baisse de 7.86%."
+            },
+            {
+                "Q": "Combien de personnes étaient déplacées dans le monde en 2018 ?",
+                "R": "En 2018, le nombre de personnes déplacées dans le monde était de 17.2 millions."
+            },
+            {
+                "Q": "En 2020, quel pourcentage de diminution du nombre de personnes déplacées a été observé par rapport à l'année précédente ?",
+                "R": "En 2020, il n'y a pas eu de diminution ; au contraire, il y a eu une augmentation de 23.29% par rapport à l'année précédente (2019)."
+            },
+            {
+                "Q": "En 2013, combien de millions de personnes ont été déplacées dans le monde ?",
+                "R": "En 2013, le nombre de personnes déplacées dans le monde était de 22.1 millions."
+            },
+            {
+                "Q": "Combien de personnes ont été déplacées dans le monde en 2015 ?",
+                "R": "En 2015, le nombre de personnes déplacées dans le monde était de 19.2 millions."
+            },
+            {
+                "Q": "Quel était le pourcentage de variation du nombre de personnes déplacées entre 2014 et 2015 ?",
+                "R": "En 2015, le nombre de personnes déplacées était de 19.2 millions, ce qui représente une augmentation de 0.1 million par rapport à 2014. Le pourcentage de variation est [(19.2 - 19.1) / 19.1]  100."
+            },
+            {
+                "Q": "En 2016, quel pourcentage de diminution du nombre de personnes déplacées a été observé par rapport à l'année précédente ?",
+                "R": "En 2016, le nombre de personnes déplacées était de 24.2 millions, ce qui représente une augmentation par rapport à 2015. Le pourcentage de diminution est donc nul."
+            },
+            {
+                "Q": "En 2017, combien de millions de personnes ont été déplacées dans le monde ?",
+                "R": "En 2017, le nombre de personnes déplacées était de 18.8 millions."
+            },
+            {
+                "Q": "En 2019, quel pourcentage de diminution du nombre de personnes déplacées a été observé par rapport à l'année précédente ?",
+                "R": "En 2019, le nombre de personnes déplacées était de 24.9 millions. Le pourcentage de diminution est [(24.9 - 17.2) / 24.9]  100."
+            },
+            {
+                "Q": "Quelle année a enregistré le plus fort pourcentage de variation du nombre de personnes déplacées ?",
+                "R": "L'année 2012 a enregistré le plus fort pourcentage de variation du nombre de personnes déplacées par rapport à 2011."
+            },
+            {
+                "Q": "En 2020, combien de personnes ont été déplacées dans le monde ?",
+                "R": "En 2020, le nombre de personnes déplacées était de 30.7 millions."
+            },
+            {
+                "Q": "En 2013, quel pourcentage de diminution du nombre de personnes déplacées a été observé par rapport à l'année précédente ?",
+                "R": "En 2013, le nombre de personnes déplacées était de 22.1 millions. Le pourcentage de diminution est [(22.1 - 30.1) / 30.1]  100."
+            },
+            {
+                "Q": "En 2016, quel était le pourcentage de variation du nombre de personnes déplacées par rapport à l'année précédente ?",
+                "R": "En 2016, le nombre de personnes déplacées était de 24.2 millions. Le pourcentage de variation est [(24.2 - 19.2) / 19.2]  100."
+            },
+            {
+                "Q": "En 2019, quel pourcentage de variation du nombre de personnes déplacées a été observé par rapport à l'année précédente ?",
+                "R": "En 2019, le nombre de personnes déplacées était de 24.9 millions. Le pourcentage de variation est [(24.9 - 17.2) / 17.2]  100."
+            },
+            {
+                "Q": "Quelle année a connu le plus bas pourcentage de diminution du nombre de personnes déplacées ?",
+                "R": "L'année 2014 a connu le plus bas pourcentage de diminution du nombre de personnes déplacées par rapport à 2013."
+            },
+            {
+                "Q": "En 2020, combien de millions de personnes ont été déplacées dans le monde ?",
+                "R": "En 2020, le nombre de personnes déplacées était de 30.7 millions."
+            },
+            {
+                "Q": "Combien de personnes ont été déplacées dans le monde en 2011 ?",
+                "R": "En 2011, le nombre de personnes déplacées était de 15 millions."
+            },
+            {
+                "Q": "En 2012, quel pourcentage de variation du nombre de personnes déplacées a été observé par rapport à l'année précédente ?",
+                "R": "En 2012, le nombre de personnes déplacées était de 30.1 millions. Le pourcentage de variation est [(30.1 - 15) / 15]  100."
+            },
+            {
+                "Q": "En 2014, combien de personnes étaient déplacées dans le monde ?",
+                "R": "En 2014, le nombre de personnes déplacées était de 19.1 millions."
+            },
+            {
+                "Q": "En 2015, quel était le pourcentage de diminution du nombre de personnes déplacées par rapport à l'année précédente ?",
+                "R": "En 2015, le nombre de personnes déplacées était de 19.2 millions. Le pourcentage de diminution est [(19.2 - 19.1) / 19.1]  100."
+            },
+            {
+                "Q": "Quelle année a connu la plus forte baisse du nombre de personnes déplacées ?",
+                "R": "L'année 2018 a connu la plus forte baisse du nombre de personnes déplacées par rapport à 2017."
+            },
+            {
+                "Q": "Combien de personnes ont été déplacées dans le monde en 2017 ?",
+                "R": "En 2017, le nombre de personnes déplacées était de 18.8 millions."
+            },
+            {
+                "Q": "En 2018, quel pourcentage de variation du nombre de personnes déplacées a été observé par rapport à l'année précédente ?",
+                "R": "En 2018, le nombre de personnes déplacées était de 17.2 millions. Le pourcentage de variation est [(17.2 - 18.8) / 18.8]  100."
+            },
+            {
+                "Q": "Quelle année a enregistré le plus bas pourcentage de diminution du nombre de personnes déplacées ?",
+                "R": "L'année 2014 a enregistré le plus bas pourcentage de diminution du nombre de personnes déplacées par rapport à 2013."
+            },
+            {
+                "Q": "En 2019, combien de millions de personnes étaient déplacées dans le monde ?",
+                "R": "En 2019, le nombre de personnes déplacées était de 24.9 millions."
+            },
+            {
+                "Q": "Quelle est la tendance des déplacements de personnes dans le monde entre 2011 et 2020 ?",
+                "R": "La tendance générale montre une fluctuation des déplacements de personnes, avec des augmentations et des diminutions d'une année à l'autre."
+            },
+            {
+                "Q": "En quelle année a-t-on enregistré le nombre le plus élevé de personnes déplacées dans le monde ?",
+                "R": "Le nombre le plus élevé de personnes déplacées a été enregistré en 2020, avec 30.7 millions."
+            },
+            {
+                "Q": "Y a-t-il une année où le nombre de personnes déplacées a diminué par rapport à l'année précédente ?",
+                "R": "Oui, entre 2016 et 2017, le nombre de personnes déplacées a diminué de 5.4 millions."
+            },
+            {
+                "Q": "Quelle est la moyenne annuelle des personnes déplacées dans le monde pendant cette période ?",
+                "R": "La moyenne annuelle des personnes déplacées pendant cette période est d'environ 22.5 millions."
+            },
+            {
+                "Q": "Existe-t-il une corrélation entre les déplacements de personnes et les années spécifiques ?",
+                "R": "La corrélation peut être observée en analysant les données spécifiques pour identifier les tendances ou les événements particuliers qui ont influencé les déplacements."
+            },
+            {
+                "Q": "Comment la situation des déplacements de personnes a-t-elle évolué entre 2011 et 2015 ?",
+                "R": "La situation a connu une diminution initiale en 2012, suivie d'une augmentation en 2013, puis d'une relative stabilité jusqu'en 2015."
+            },
+            {
+                "Q": "Quelle année a enregistré la plus grande augmentation par rapport à l'année précédente ?",
+                "R": "La plus grande augmentation d'une année à l'autre a été de 5.9 millions entre 2015 et 2016."
+            },
+            {
+                "Q": "Quelle est la différence entre le nombre de personnes déplacées en 2012 et 2018 ?",
+                "R": "La différence entre 2012 et 2018 est une diminution de 12.9 millions de personnes déplacées."
+            },
+            {
+                "Q": "Y a-t-il une année où le nombre de personnes déplacées a atteint son point le plus bas ?",
+                "R": "En 2017, le nombre de personnes déplacées a atteint son point le plus bas au cours de cette période."
+            },
+            {
+                "Q": "Quelle est la tendance globale des déplacements de personnes au cours de la période spécifiée ?",
+                "R": "La tendance globale montre des variations, avec des années d'augmentation suivies de périodes de diminution."
+            },
+            {
+                "Q": "Quel pourcentage d'augmentation y a-t-il eu entre 2014 et 2016 ?",
+                "R": "Le pourcentage d'augmentation entre 2014 et 2016 est d'environ 26.7%."
+            },
+            {
+                "Q": "Quelle année a enregistré la plus faible augmentation par rapport à l'année précédente ?",
+                "R": "La plus faible augmentation a été enregistrée entre 2018 et 2019, avec seulement 7.7 millions de personnes déplacées en plus."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et les changements climatiques ?",
+                "R": "Le texte suggère une corrélation potentielle entre les déplacements de personnes et les changements climatiques, notamment en raison de l'augmentation de la température dans certaines zones."
+            },
+            {
+                "Q": "Quelle est la différence entre le nombre de personnes déplacées en 2016 et 2019 ?",
+                "R": "La différence entre 2016 et 2019 est une augmentation de 6.9 millions de personnes déplacées."
+            },
+            {
+                "Q": "Comment la situation des déplacements de personnes a-t-elle évolué entre 2019 et 2020 ?",
+                "R": "La situation a connu une augmentation significative en 2020, avec une hausse de 5.8 millions de personnes déplacées par rapport à l'année précédente."
+            },
+            {
+                "Q": "Y a-t-il une année où le nombre de personnes déplacées a augmenté de façon significative ?",
+                "R": "L'année où le nombre de personnes déplacées a augmenté de façon significative est 2020, avec une augmentation de 5.8 millions par rapport à 2019."
+            },
+            {
+                "Q": "Quelle est la variation annuelle moyenne des personnes déplacées au cours de cette période ?",
+                "R": "La variation annuelle moyenne des personnes déplacées au cours de cette période est de 1.88 millions."
+            },
+            {
+                "Q": "Quelle année a enregistré la plus grande diminution par rapport à l'année précédente ?",
+                "R": "L'année 2016 a enregistré la plus grande diminution par rapport à l'année précédente, passant de 30.1 millions à 24.2 millions, soit une diminution de 5.9 millions."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et les régions du monde très chaudes ?",
+                "R": "Le texte ne fournit pas d'informations spécifiques sur une corrélation entre les déplacements de personnes et les régions très chaudes."
+            },
+            {
+                "Q": "Comment le nombre de personnes déplacées en 2018 se compare-t-il à la moyenne annuelle ?",
+                "R": "En 2018, le nombre de personnes déplacées était de 17.2 millions, en dessous de la moyenne annuelle de 1.88 millions."
+            },
+            {
+                "Q": "Quelle est la tendance des déplacements de personnes après 2015 ?",
+                "R": "Après 2015, la tendance des déplacements de personnes a été globalement à la baisse, avec quelques fluctuations."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et le stress thermique ?",
+                "R": "Le texte suggère une corrélation potentielle entre les déplacements de personnes et le stress thermique dans les zones très chaudes."
+            },
+            {
+                "Q": "Quelle année a enregistré la plus forte diminution par rapport à l'année précédente ?",
+                "R": "L'année 2016 a enregistré la plus forte diminution par rapport à l'année précédente."
+            },
+            {
+                "Q": "Comment la situation des déplacements de personnes a-t-elle évolué entre 2013 et 2017 ?",
+                "R": "La situation des déplacements de personnes a diminué entre 2013 et 2017, atteignant son point le plus bas en 2017."
+            },
+            {
+                "Q": "Y a-t-il une année où le nombre de personnes déplacées a diminué de façon significative ?",
+                "R": "L'année 2016 a enregistré une diminution significative par rapport à l'année précédente."
+            },
+            {
+                "Q": "Quelle est la variation totale des personnes déplacées pendant la période spécifiée ?",
+                "R": "La variation totale des personnes déplacées pendant la période spécifiée est une augmentation nette de 15.6 millions."
+            },
+            {
+                "Q": "Quelle est la moyenne annuelle des personnes déplacées après 2015 ?",
+                "R": "La moyenne annuelle des personnes déplacées après 2015 est d'environ 23.8 millions."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et l'augmentation des températures ?",
+                "R": "Le texte suggère une corrélation entre les déplacements de personnes et l'augmentation des températures dans les zones très chaudes."
+            },
+            {
+                "Q": "Comment le nombre de personnes déplacées en 2012 se compare-t-il à la moyenne annuelle ?",
+                "R": "En 2012, le nombre de personnes déplacées était de 30.1 millions, dépassant la moyenne annuelle de 1.88 millions."
+            },
+            {
+                "Q": "Quelle est la tendance des déplacements de personnes avant 2015 ?",
+                "R": "Avant 2015, la tendance des déplacements de personnes était à la hausse, culminant en 2012."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et les régions tropicales et subtropicales ?",
+                "R": "Le texte indique une préoccupation concernant les régions tropicales et subtropicales, mais ne fournit pas une corrélation directe avec les déplacements de personnes."
+            },
+            {
+                "Q": "Quelle année a enregistré la plus forte augmentation par rapport à l'année précédente avant 2015 ?",
+                "R": "L'année 2012 a enregistré la plus forte augmentation par rapport à l'année précédente avant 2015."
+            },
+            {
+                "Q": "Comment la situation des déplacements de personnes a-t-elle évolué entre 2011 et 2014 ?",
+                "R": "La situation des déplacements de personnes a diminué entre 2011 et 2014."
+            },
+            {
+                "Q": "Quelle est la différence entre le nombre de personnes déplacées en 2014 et 2019 ?",
+                "R": "La différence entre le nombre de personnes déplacées en 2014 (19.1 millions) et 2019 (24.9 millions) est de 5.8 millions, indiquant une augmentation sur cette période."
+            },
+            {
+                "Q": "Y a-t-il une année où le nombre de personnes déplacées a augmenté de façon significative avant 2015 ?",
+                "R": "L'année 2012 a enregistré une augmentation significative par rapport à l'année précédente avant 2015."
+            },
+            {
+                "Q": "Quelle est la variation totale des personnes déplacées avant 2015 ?",
+                "R": "La variation totale des personnes déplacées avant 2015 est une augmentation nette de 15.1 millions."
+            },
+            {
+                "Q": "Quelle est la moyenne annuelle des personnes déplacées avant 2015 ?",
+                "R": "La moyenne annuelle des personnes déplacées avant 2015 est d'environ 24.4 millions."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et le fonctionnement normal du corps humain ?",
+                "R": "Le texte mentionne que l'Organisation internationale des migrations s'inquiète de l'augmentation de la température dans des zones très chaudes, pouvant rendre l'air ambiant trop chaud pour le fonctionnement normal du corps humain. Ainsi, il existe une corrélation entre les déplacements de personnes et cette problématique liée à la chaleur."
+            },
+            {
+                "Q": "Comment le nombre de personnes déplacées en 2019 se compare-t-il à la moyenne annuelle ?",
+                "R": "En 2019, le nombre de personnes déplacées était de 24.9 millions, tandis que la moyenne annuelle sur la période 2011-2020 était de 22.5 millions (somme des chiffres divisée par 10). Ainsi, le nombre de personnes déplacées en 2019 était supérieur à la moyenne annuelle."
+            },
+            {
+                "Q": "Quelle est la tendance des déplacements de personnes après 2018 ?",
+                "R": "Après 2018, on observe une augmentation des déplacements de personnes, passant de 17.2 millions en 2018 à 24.9 millions en 2019 et à 30.7 millions en 2020."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et l'Organisation internationale des migrations ?",
+                "R": "Oui, le texte indique que l'Organisation internationale des migrations (OIM) s'inquiète de l'augmentation de la température dans des zones très chaudes, ce qui pourrait entraîner des migrations importantes."
+            },
+            {
+                "Q": "Quelle année a enregistré la plus forte diminution par rapport à l'année précédente après 2015 ?",
+                "R": "Aucune année après 2015 n'a enregistré une diminution par rapport à l'année précédente. Toutes les années après 2015 ont connu une augmentation du nombre de personnes déplacées."
+            },
+            {
+                "Q": "Comment la situation des déplacements de personnes a-t-elle évolué entre 2017 et 2020 ?",
+                "R": "Entre 2017 et 2020, le nombre de personnes déplacées a augmenté, passant de 18.8 millions en 2017 à 30.7 millions en 2020."
+            },
+            {
+                "Q": "Quelle est la différence entre le nombre de personnes déplacées en 2016 et 2018 ?",
+                "R": "En 2016, le nombre de personnes déplacées était de 24.2 millions, tandis qu'en 2018, il était de 17.2 millions. La différence est donc de 7 millions de personnes déplacées de moins en 2018 par rapport à 2016."
+            },
+            {
+                "Q": "Y a-t-il une année où le nombre de personnes déplacées a diminué de façon significative après 2015 ?",
+                "R": "Non, aucune année après 2015 n'a enregistré une diminution significative du nombre de personnes déplacées."
+            },
+            {
+                "Q": "Quelle est la moyenne annuelle des personnes déplacées après 2018 ?",
+                "R": "La moyenne annuelle des personnes déplacées après 2018 est de 24.07 millions, calculée en prenant la somme des chiffres de 2019 et 2020 et en divisant par 2."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et l'augmentation de la température dans des zones du monde très chaudes ?",
+                "R": "Oui, le texte mentionne que l'Organisation internationale des migrations s'inquiète de l'augmentation de la température dans des zones très chaudes et prévoit des migrations importantes en conséquence."
+            },
+            {
+                "Q": "Comment le nombre de personnes déplacées en 2013 se compare-t-il à la moyenne annuelle ?",
+                "R": "En 2013, le nombre de personnes déplacées était de 22.1 millions, tandis que la moyenne annuelle sur la période 2011-2020 était de 22.5 millions. Ainsi, le nombre de personnes déplacées en 2013 était légèrement inférieur à la moyenne annuelle."
+            },
+            {
+                "Q": "Quelle est la tendance des déplacements de personnes avant 2018 ?",
+                "R": "Avant 2018, la tendance des déplacements de personnes était globalement à la hausse, passant de 15 millions en 2011 à 24.2 millions en 2016."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et le stress thermique très fort ?",
+                "R": "Oui, le texte indique que le stress thermique très fort dans des zones très chaudes peut entraîner des migrations importantes, suggérant une corrélation entre les déplacements de personnes et le stress thermique."
+            },
+            {
+                "Q": "Quelle année a enregistré la plus forte augmentation par rapport à l'année précédente avant 2018 ?",
+                "R": "En 2012, le nombre de personnes déplacées a enregistré la plus forte augmentation par rapport à l'année précédente, passant de 15 millions en 2011 à 30.1 millions en 2012."
+            },
+            {
+                "Q": "Comment la situation des déplacements de personnes a-t-elle évolué entre 2011 et 2016 ?",
+                "R": "Entre 2011 et 2016, la situation des déplacements de personnes a évolué à la hausse, passant de 15 millions en 2011 à 24.2 millions en 2016."
+            },
+            {
+                "Q": "Quelle est la différence entre le nombre de personnes déplacées en 2015 et 2017 ?",
+                "R": "En 2015, le nombre de personnes déplacées était de 19.2 millions, tandis qu'en 2017, il était de 18.8 millions. La différence est donc de 0.4 million de personnes déplacées de moins en 2017 par rapport à 2015."
+            },
+            {
+                "Q": "Y a-t-il une année où le nombre de personnes déplacées a augmenté de façon significative avant 2018 ?",
+                "R": "En 2012, le nombre de personnes déplacées a augmenté de manière significative par rapport à l'année précédente, passant de 15 millions en 2011 à 30.1 millions en 2012."
+            },
+            {
+                "Q": "Quelle est la variation totale des personnes déplacées avant 2018 ?",
+                "R": "La variation totale des personnes déplacées avant 2018 est une augmentation de 12.1 millions, calculée en soustrayant le nombre de personnes déplacées en 2011 (15 millions) du nombre en 2017 (18.8 millions)."
+            },
+            {
+                "Q": "Quelle est la moyenne annuelle des personnes déplacées avant 2018 ?",
+                "R": "La moyenne annuelle des personnes déplacées avant 2018 est de 19.44 millions, calculée en prenant la somme des chiffres de 2012 à 2017 et en divisant par 6."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et les changements climatiques dans des régions tropicales et subtropicales ?",
+                "R": "Le texte ne fournit pas d'information directe sur la corrélation entre les déplacements de personnes et les changements climatiques dans les régions tropicales et subtropicales."
+            },
+            {
+                "Q": "Comment le nombre de personnes déplacées en 2017 se compare-t-il à la moyenne annuelle ?",
+                "R": "En 2017, le nombre de personnes déplacées était de 18.8 millions, comparé à une moyenne annuelle qui nécessite des calculs avec les données de toutes les années fournies."
+            },
+            {
+                "Q": "Quelle est la tendance des déplacements de personnes après 2016 ?",
+                "R": "Après 2016, les données indiquent une variation dans le nombre de personnes déplacées, nécessitant une analyse spécifique des chiffres pour déterminer la tendance."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et l'augmentation de la température dans des régions tropicales et subtropicales ?",
+                "R": "Le texte mentionne une préoccupation de l'Organisation internationale des migrations (OIM) quant à l'augmentation de la température, mais il ne précise pas de corrélation directe avec les déplacements de personnes."
+            },
+            {
+                "Q": "Comment la situation des déplacements de personnes a-t-elle évolué entre 2013 et 2019 ?",
+                "R": "Entre 2013 et 2019, les données montrent une variation dans le nombre de personnes déplacées, nécessitant une analyse spécifique pour déterminer l'évolution."
+            },
+            {
+                "Q": "Quelle est la différence entre le nombre de personnes déplacées en 2019 et 2020 ?",
+                "R": "La différence entre le nombre de personnes déplacées en 2019 et 2020 est de 5.8 millions."
+            },
+            {
+                "Q": "Quelle est la variation totale des personnes déplacées après 2015 ?",
+                "R": "La variation totale des personnes déplacées après 2015 nécessite des calculs avec les données de toutes les années fournies."
+            },
+            {
+                "Q": "Quelle est la moyenne annuelle des personnes déplacées après 2016 ?",
+                "R": "La moyenne annuelle des personnes déplacées après 2016 nécessite des calculs avec les données de toutes les années fournies."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et les migrations importantes prévues ?",
+                "R": "Le texte mentionne des migrations importantes prévues en raison de l'augmentation de la température, mais il ne précise pas de corrélation directe avec les déplacements de personnes."
+            },
+            {
+                "Q": "Comment le nombre de personnes déplacées en 2016 se compare-t-il à la moyenne annuelle ?",
+                "R": "En 2016, le nombre de personnes déplacées était de 24.2 millions, comparé à une moyenne annuelle qui nécessite des calculs avec les données de toutes les années fournies."
+            },
+            {
+                "Q": "Quelle est la tendance des déplacements de personnes avant 2017 ?",
+                "R": "Avant 2017, les données indiquent une variation dans le nombre de personnes déplacées, nécessitant une analyse spécifique des chiffres pour déterminer la tendance."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et les prévisions de migrations importantes ?",
+                "R": "Le texte mentionne des migrations importantes prévues en raison de l'augmentation de la température, mais il ne précise pas de corrélation directe avec les déplacements de personnes."
+            },
+            {
+                "Q": "Quelle année a enregistré la plus forte augmentation par rapport à l'année précédente avant 2017 ?",
+                "R": "Les données ne sont pas fournies pour répondre à cette question spécifique."
+            },
+            {
+                "Q": "Quelle est la différence entre le nombre de personnes déplacées en 2015 et 2018 ?",
+                "R": "La différence entre le nombre de personnes déplacées en 2015 et 2018 est de -2.0 millions."
+            },
+            {
+                "Q": "Y a-t-il une année où le nombre de personnes déplacées a augmenté de façon significative avant 2017 ?",
+                "R": "Les données ne permettent pas de déterminer une année spécifique où une augmentation significative a eu lieu avant 2017."
+            },
+            {
+                "Q": "Quelle est la variation totale des personnes déplacées avant 2017 ?",
+                "R": "La variation totale des personnes déplacées avant 2017 nécessite des calculs avec les données de toutes les années fournies."
+            },
+            {
+                "Q": "Quelle est la moyenne annuelle des personnes déplacées avant 2017 ?",
+                "R": "La moyenne annuelle des personnes déplacées avant 2017 nécessite des calculs avec les données de toutes les années fournies."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et l'urgence d'agir dès maintenant ?",
+                "R": "Oui, selon le texte, l'augmentation de la température dans des zones très chaudes est liée aux déplacements de personnes, et les scientifiques soulignent l'urgence d'agir dès maintenant pour recueillir des données précises sur les événements à évolution lente."
+            },
+            {
+                "Q": "Comment le nombre de personnes déplacées en 2015 se compare-t-il à la moyenne annuelle ?",
+                "R": "En 2015, le nombre de personnes déplacées était de 19.2 millions, comparé à la moyenne annuelle des années 2011 à 2020 qui est de 22.4 millions."
+            },
+            {
+                "Q": "Quelle est la tendance des déplacements de personnes après 2014 ?",
+                "R": "La tendance des déplacements de personnes après 2014 est variable, avec des fluctuations annuelles. Après 2014, on observe une hausse en 2016, suivie d'une diminution en 2017, et des variations ultérieures."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et l'augmentation de la température dans des zones très chaudes ?",
+                "R": "Oui, le texte mentionne une corrélation entre les déplacements de personnes et l'augmentation de la température dans des zones très chaudes, en particulier en raison du stress thermique croissant."
+            },
+            {
+                "Q": "Quelle année a enregistré la plus forte diminution par rapport à l'année précédente après 2014 ?",
+                "R": "La plus forte diminution par rapport à l'année précédente après 2014 a été enregistrée en 2017, où le nombre de personnes déplacées est passé de 24.2 millions en 2016 à 18.8 millions."
+            },
+            {
+                "Q": "Comment la situation des déplacements de personnes a-t-elle évolué entre 2013 et 2018 ?",
+                "R": "La situation des déplacements de personnes a diminué de 22.1 millions en 2013 à 17.2 millions en 2018, indiquant une baisse au cours de cette période."
+            },
+            {
+                "Q": "Quelle est la différence entre le nombre de personnes déplacées en 2018 et 2019 ?",
+                "R": "La différence entre le nombre de personnes déplacées en 2018 et 2019 est une augmentation, passant de 17.2 millions en 2018 à 24.9 millions en 2019."
+            },
+            {
+                "Q": "Y a-t-il une année où le nombre de personnes déplacées a diminué de façon significative après 2014 ?",
+                "R": "Oui, en 2017, le nombre de personnes déplacées a diminué de manière significative par rapport à l'année précédente."
+            },
+            {
+                "Q": "Quelle est la variation totale des personnes déplacées après 2014 ?",
+                "R": "La variation totale des personnes déplacées après 2014 est une diminution globale, passant de 19.1 millions en 2014 à 30.7 millions en 2020."
+            },
+            {
+                "Q": "Quelle est la moyenne annuelle des personnes déplacées après 2014 ?",
+                "R": "La moyenne annuelle des personnes déplacées après 2014 est d'environ 23.1 millions."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et la collecte de données précises sur les événements à évolution lente ?",
+                "R": "Oui, le texte souligne l'importance de recueillir des données précises sur des événements à évolution lente, tels que l'érosion côtière, pour anticiper et gérer les déplacements de personnes."
+            },
+            {
+                "Q": "Comment le nombre de personnes déplacées en 2014 se compare-t-il à la moyenne annuelle ?",
+                "R": "En 2014, le nombre de personnes déplacées était de 19.1 millions, comparable à la moyenne annuelle des années 2011 à 2020 qui est de 22.4 millions."
+            },
+            {
+                "Q": "Quelle est la tendance des déplacements de personnes avant 2013 ?",
+                "R": "Avant 2013, la tendance des déplacements de personnes montre une augmentation, passant de 15 millions en 2011 à 30.1 millions en 2012."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et l'érosion côtière ?",
+                "R": "Oui, le texte mentionne l'érosion côtière comme l'un des événements à évolution lente ayant une corrélation avec les déplacements de personnes."
+            },
+            {
+                "Q": "Quelle année a enregistré la plus forte augmentation par rapport à l'année précédente avant 2013 ?",
+                "R": "Avant 2013, l'année 2012 a enregistré la plus forte augmentation, passant de 15 millions en 2011 à 30.1 millions en 2012."
+            },
+            {
+                "Q": "Comment la situation des déplacements de personnes a-t-elle évolué entre 2011 et 2017 ?",
+                "R": "Entre 2011 et 2017, la situation des déplacements de personnes a fluctué, atteignant son pic en 2016 à 24.2 millions avant de diminuer à 18.8 millions en 2017."
+            },
+            {
+                "Q": "Quelle est la différence entre le nombre de personnes déplacées en 2017 et 2020 ?",
+                "R": "La différence entre le nombre de personnes déplacées en 2017 et 2020 est une augmentation, passant de 18.8 millions en 2017 à 30.7 millions en 2020."
+            },
+            {
+                "Q": "Y a-t-il une année où le nombre de personnes déplacées a augmenté de façon significative avant 2013 ?",
+                "R": "Oui, en 2012, le nombre de personnes déplacées a augmenté de manière significative par rapport à l'année précédente."
+            },
+            {
+                "Q": "Quelle est la variation totale des personnes déplacées avant 2013 ?",
+                "R": "La variation totale des personnes déplacées avant 2013 montre une augmentation globale, passant de 15 millions en 2011 à 30.1 millions en 2012."
+            },
+            {
+                "Q": "Quelle est la moyenne annuelle des personnes déplacées avant 2013 ?",
+                "R": "La moyenne annuelle des personnes déplacées avant 2013 est d'environ 24.8 millions."
+            },
+            {
+                "Q": "Y a-t-il une corrélation entre les déplacements de personnes et les politiques ciblées de relocalisations planifiées ?",
+                "R": "Oui, le texte mentionne la nécessité de mettre en place des politiques ciblées, dont des relocalisations planifiées, pour faire face aux déplacements de personnes causés par des événements à évolution lente."
+            }
+        ],
+        "end": true
+    },
+    "clusters": {
+        "clusters": [
+            {
+                "question": "Quelle année a enregistré la plus forte augmentation par rapport à l'année précédente avant 2015 ?",
+                "answer": [
+                    "L'année 2012 a enregistré la plus forte augmentation par rapport à l'année précédente avant 2015.",
+                    "En 2012, le nombre de personnes déplacées a enregistré la plus forte augmentation par rapport à l'année précédente, passant de 15 millions en 2011 à 30.1 millions en 2012.",
+                    "Avant 2013, l'année 2012 a enregistré la plus forte augmentation, passant de 15 millions en 2011 à 30.1 millions en 2012."
+                ],
+                "diff_word": [
+                    [
+                        14,
+                        [
+                            "2015",
+                            "2018",
+                            "2013"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.6511431709,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6628288105,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6546196043,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En quelle année a-t-on enregistré 22.1 millions de personnes déplacées dans le monde ?",
+                "answer": [
+                    "En 2013, on a enregistré 22.1 millions de personnes déplacées dans le monde."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5999153107,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2014, combien de personnes étaient déplacées dans le monde ?",
+                "answer": [
+                    "En 2014, le nombre de personnes déplacées était de 19.1 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la quantité de personnes déplacées dans le monde en 2016 ?",
+                "answer": [
+                    "En 2016, le nombre de personnes déplacées dans le monde était de 24.2 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2011, combien de millions de personnes ont été déplacées dans le monde ?",
+                "answer": [
+                    "En 2011, le nombre de personnes déplacées dans le monde était de 15 millions.",
+                    "En 2013, le nombre de personnes déplacées dans le monde était de 22.1 millions.",
+                    "En 2020, le nombre de personnes déplacées était de 30.7 millions."
+                ],
+                "diff_word": [
+                    [
+                        1,
+                        [
+                            "2011,",
+                            "2013,",
+                            "2020,"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle année a enregistré le plus grand nombre de personnes déplacées parmi les années fournies ?",
+                "answer": [
+                    "L'année qui a enregistré le plus grand nombre de personnes déplacées parmi les années fournies est 2020, avec 30.7 millions de personnes."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5465167612,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et l'érosion côtière ?",
+                "answer": [
+                    "Oui, le texte mentionne l'érosion côtière comme l'un des événements à évolution lente ayant une corrélation avec les déplacements de personnes."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.323754847,
+                        "start": 648,
+                        "end": 669,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Comment la situation des déplacements de personnes a-t-elle évolué entre 2011 et 2015 ?",
+                "answer": [
+                    "La situation a connu une diminution initiale en 2012, suivie d'une augmentation en 2013, puis d'une relative stabilité jusqu'en 2015.",
+                    "La situation a connu une augmentation significative en 2020, avec une hausse de 5.8 millions de personnes déplacées par rapport à l'année précédente.",
+                    "La situation des déplacements de personnes a diminué entre 2013 et 2017, atteignant son point le plus bas en 2017.",
+                    "La situation des déplacements de personnes a diminué entre 2011 et 2014.",
+                    "Entre 2017 et 2020, le nombre de personnes déplacées a augmenté, passant de 18.8 millions en 2017 à 30.7 millions en 2020.",
+                    "Entre 2011 et 2016, la situation des déplacements de personnes a évolué à la hausse, passant de 15 millions en 2011 à 24.2 millions en 2016.",
+                    "La situation des déplacements de personnes a diminué de 22.1 millions en 2013 à 17.2 millions en 2018, indiquant une baisse au cours de cette période.",
+                    "Entre 2011 et 2017, la situation des déplacements de personnes a fluctué, atteignant son pic en 2016 à 24.2 millions avant de diminuer à 18.8 millions en 2017."
+                ],
+                "diff_word": [
+                    [
+                        10,
+                        [
+                            "2011",
+                            "2019",
+                            "2013",
+                            "2011",
+                            "2017",
+                            "2011",
+                            "2013",
+                            "2011"
+                        ]
+                    ],
+                    [
+                        12,
+                        [
+                            "2015",
+                            "2020",
+                            "2017",
+                            "2014",
+                            "2020",
+                            "2016",
+                            "2018",
+                            "2017"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Y a-t-il une année où le nombre de personnes déplacées a diminué par rapport à l'année précédente ?",
+                "answer": [
+                    "Oui, entre 2016 et 2017, le nombre de personnes déplacées a diminué de 5.4 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5680177808,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel pourcentage de diminution du nombre de personnes déplacées a été observé entre 2016 et 2017 ?",
+                "answer": [
+                    "Entre 2016 et 2017, le pourcentage de diminution du nombre de personnes déplacées était d'environ 22.31%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2015, combien de millions de personnes étaient déplacées dans le monde ?",
+                "answer": [
+                    "En 2015, le nombre de personnes déplacées dans le monde était de 19.2 millions.",
+                    "En 2018, le nombre de personnes déplacées dans le monde était de 17.2 millions.",
+                    "En 2019, le nombre de personnes déplacées était de 24.9 millions."
+                ],
+                "diff_word": [
+                    [
+                        1,
+                        [
+                            "2015,",
+                            "2018,",
+                            "2019,"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Y a-t-il une année où le nombre de personnes déplacées a augmenté de façon significative avant 2015 ?",
+                "answer": [
+                    "L'année 2012 a enregistré une augmentation significative par rapport à l'année précédente avant 2015.",
+                    "En 2012, le nombre de personnes déplacées a augmenté de manière significative par rapport à l'année précédente, passant de 15 millions en 2011 à 30.1 millions en 2012."
+                ],
+                "diff_word": [
+                    [
+                        16,
+                        [
+                            "2015",
+                            "2018"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.5880327076,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6047915518,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle année a enregistré le nombre le plus bas de personnes déplacées ?",
+                "answer": [
+                    "L'année qui a enregistré le nombre le plus bas de personnes déplacées parmi les années fournies est 2018, avec 17.2 millions de personnes."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6315081939,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle année a enregistré le pourcentage le plus élevé d'augmentation du nombre de personnes déplacées ?",
+                "answer": [
+                    "L'année qui a enregistré le pourcentage le plus élevé d'augmentation du nombre de personnes déplacées est 2020, avec une augmentation de 23.29%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5752906054,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2019, combien de millions de personnes étaient déplacées à l'échelle mondiale ?",
+                "answer": [
+                    "En 2019, le nombre de personnes déplacées dans le monde était de 24.9 millions.",
+                    "En 2016, le nombre de personnes déplacées dans le monde était de 24.2 millions."
+                ],
+                "diff_word": [
+                    [
+                        1,
+                        [
+                            "2019,",
+                            "2016,"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2020, quel a été le pourcentage d'augmentation du nombre de personnes déplacées ?",
+                "answer": [
+                    "En 2020, le pourcentage d'augmentation du nombre de personnes déplacées par rapport à l'année précédente (2019) était de 23.29%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6032162607,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la différence entre le nombre de personnes déplacées en 2012 et 2018 ?",
+                "answer": [
+                    "La différence entre 2012 et 2018 est une diminution de 12.9 millions de personnes déplacées.",
+                    "La différence entre 2016 et 2019 est une augmentation de 6.9 millions de personnes déplacées.",
+                    "La différence entre le nombre de personnes déplacées en 2014 (19.1 millions) et 2019 (24.9 millions) est de 5.8 millions, indiquant une augmentation sur cette période.",
+                    "En 2016, le nombre de personnes déplacées était de 24.2 millions, tandis qu'en 2018, il était de 17.2 millions. La différence est donc de 7 millions de personnes déplacées de moins en 2018 par rapport à 2016.",
+                    "En 2015, le nombre de personnes déplacées était de 19.2 millions, tandis qu'en 2017, il était de 18.8 millions. La différence est donc de 0.4 million de personnes déplacées de moins en 2017 par rapport à 2015.",
+                    "La différence entre le nombre de personnes déplacées en 2019 et 2020 est de 5.8 millions.",
+                    "La différence entre le nombre de personnes déplacées en 2015 et 2018 est de -2.0 millions.",
+                    "La différence entre le nombre de personnes déplacées en 2018 et 2019 est une augmentation, passant de 17.2 millions en 2018 à 24.9 millions en 2019.",
+                    "La différence entre le nombre de personnes déplacées en 2017 et 2020 est une augmentation, passant de 18.8 millions en 2017 à 30.7 millions en 2020."
+                ],
+                "diff_word": [
+                    [
+                        11,
+                        [
+                            "2012",
+                            "2016",
+                            "2014",
+                            "2016",
+                            "2015",
+                            "2019",
+                            "2015",
+                            "2018",
+                            "2017"
+                        ]
+                    ],
+                    [
+                        13,
+                        [
+                            "2018",
+                            "2019",
+                            "2019",
+                            "2018",
+                            "2017",
+                            "2020",
+                            "2018",
+                            "2019",
+                            "2020"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel était le pourcentage de variation du nombre de personnes déplacées entre 2014 et 2015 ?",
+                "answer": [
+                    "En 2015, le nombre de personnes déplacées était de 19.2 millions, ce qui représente une augmentation de 0.1 million par rapport à 2014. Le pourcentage de variation est [(19.2 - 19.1) \/ 19.1]  100."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle année a enregistré la plus forte baisse du nombre de personnes déplacées ?",
+                "answer": [
+                    "La plus forte baisse du nombre de personnes déplacées a été observée entre 2015 et 2016, passant de 19.2 millions à 24.2 millions.",
+                    "La plus grande augmentation du nombre de personnes déplacées a été observée entre 2019 et 2020, passant de 24.9 millions à 30.7 millions.",
+                    "L'année qui a connu la plus grande diminution du nombre de personnes déplacées est 2016, avec une baisse de 7.86%.",
+                    "L'année 2018 a connu la plus forte baisse du nombre de personnes déplacées par rapport à 2017."
+                ],
+                "diff_word": [
+                    [
+                        3,
+                        [
+                            "enregistré",
+                            "connu",
+                            "connu",
+                            "connu"
+                        ]
+                    ],
+                    [
+                        6,
+                        [
+                            "forte",
+                            "grande",
+                            "grande",
+                            "forte"
+                        ]
+                    ],
+                    [
+                        7,
+                        [
+                            "baisse",
+                            "augmentation",
+                            "diminution",
+                            "baisse"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.6082692444,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5805468559,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5818615407,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6101367325,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En quelle année a-t-on enregistré le nombre le plus élevé de personnes déplacées dans le monde ?",
+                "answer": [
+                    "Le nombre le plus élevé de personnes déplacées a été enregistré en 2020, avec 30.7 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5898741782,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel pourcentage d'augmentation y a-t-il eu entre 2014 et 2016 ?",
+                "answer": [
+                    "Le pourcentage d'augmentation entre 2014 et 2016 est d'environ 26.7%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2017, quel était le nombre de personnes déplacées à l'échelle mondiale ?",
+                "answer": [
+                    "En 2017, le nombre de personnes déplacées dans le monde était de 18.8 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Y a-t-il une année où le nombre de personnes déplacées a augmenté de façon significative ?",
+                "answer": [
+                    "L'année où le nombre de personnes déplacées a augmenté de façon significative est 2020, avec une augmentation de 5.8 millions par rapport à 2019.",
+                    "L'année 2016 a enregistré une diminution significative par rapport à l'année précédente."
+                ],
+                "diff_word": [
+                    [
+                        11,
+                        [
+                            "augmenté",
+                            "diminué"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.5981810242,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6031741798,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Combien de personnes ont été déplacées dans le monde en 2012 ?",
+                "answer": [
+                    "En 2012, le nombre de personnes déplacées dans le monde était de 30.1 millions.",
+                    "En 2020, le nombre de personnes déplacées dans le monde était de 30.7 millions.",
+                    "En 2018, le nombre de personnes déplacées dans le monde était de 17.2 millions.",
+                    "En 2015, le nombre de personnes déplacées dans le monde était de 19.2 millions.",
+                    "En 2011, le nombre de personnes déplacées était de 15 millions."
+                ],
+                "diff_word": [
+                    [
+                        10,
+                        [
+                            "2012",
+                            "2020",
+                            "2018",
+                            "2015",
+                            "2011"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2015, quel était le pourcentage d'augmentation du nombre de personnes déplacées par rapport à l'année précédente ?",
+                "answer": [
+                    "En 2015, le pourcentage d'augmentation du nombre de personnes déplacées par rapport à l'année précédente (2014) était de 0.52%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5367155224,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle année a enregistré le pourcentage le plus bas de variation du nombre de personnes déplacées ?",
+                "answer": [
+                    "L'année qui a enregistré le pourcentage le plus bas de variation du nombre de personnes déplacées est 2015, avec une variation de 0.52%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6080358922,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel pourcentage de variation a été observé dans le nombre de personnes déplacées entre 2016 et 2017 ?",
+                "answer": [
+                    "Entre 2016 et 2017, le pourcentage de variation du nombre de personnes déplacées était de -22.31%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2014, quel était le pourcentage de variation du nombre de personnes déplacées par rapport à l'année précédente ?",
+                "answer": [
+                    "En 2014, le pourcentage de variation du nombre de personnes déplacées par rapport à l'année précédente (2013) était de -13.12%.",
+                    "En 2016, le nombre de personnes déplacées était de 24.2 millions. Le pourcentage de variation est [(24.2 - 19.2) \/ 19.2]  100.",
+                    "En 2015, le nombre de personnes déplacées était de 19.2 millions. Le pourcentage de diminution est [(19.2 - 19.1) \/ 19.1]  100."
+                ],
+                "diff_word": [
+                    [
+                        1,
+                        [
+                            "2014,",
+                            "2016,",
+                            "2015,"
+                        ]
+                    ],
+                    [
+                        7,
+                        [
+                            "variation",
+                            "variation",
+                            "diminution"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.5312857777,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2020, quelle a été la variation du nombre de personnes déplacées par rapport à l'année précédente ?",
+                "answer": [
+                    "En 2020, le nombre de personnes déplacées a augmenté de 23.29% par rapport à l'année précédente (2019).",
+                    "En 2019, le nombre de personnes déplacées a augmenté de 44.77% par rapport à l'année précédente (2018)."
+                ],
+                "diff_word": [
+                    [
+                        1,
+                        [
+                            "2020,",
+                            "2019,"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.547473684,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5390517712,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle année a connu la plus forte augmentation du nombre de personnes déplacées par rapport à l'année précédente ?",
+                "answer": [
+                    "La plus forte augmentation du nombre de personnes déplacées par rapport à l'année précédente a été observée entre 2019 et 2020."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5439343452,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la moyenne annuelle des personnes déplacées après 2015 ?",
+                "answer": [
+                    "La moyenne annuelle des personnes déplacées après 2015 est d'environ 23.8 millions.",
+                    "La variation totale des personnes déplacées avant 2015 est une augmentation nette de 15.1 millions.",
+                    "La moyenne annuelle des personnes déplacées avant 2015 est d'environ 24.4 millions.",
+                    "La variation totale des personnes déplacées après 2015 est une augmentation de 13.5 millions, calculée en soustrayant le nombre de personnes déplacées en 2015 (19.2 millions) du nombre en 2020 (30.7 millions).",
+                    "La moyenne annuelle des personnes déplacées après 2018 est de 24.07 millions, calculée en prenant la somme des chiffres de 2019 et 2020 et en divisant par 2.",
+                    "La variation totale des personnes déplacées avant 2018 est une augmentation de 12.1 millions, calculée en soustrayant le nombre de personnes déplacées en 2011 (15 millions) du nombre en 2017 (18.8 millions).",
+                    "La moyenne annuelle des personnes déplacées avant 2018 est de 19.44 millions, calculée en prenant la somme des chiffres de 2012 à 2017 et en divisant par 6.",
+                    "La variation totale des personnes déplacées après 2014 est une diminution globale, passant de 19.1 millions en 2014 à 30.7 millions en 2020.",
+                    "La moyenne annuelle des personnes déplacées après 2014 est d'environ 23.1 millions.",
+                    "La variation totale des personnes déplacées avant 2013 montre une augmentation globale, passant de 15 millions en 2011 à 30.1 millions en 2012.",
+                    "La moyenne annuelle des personnes déplacées avant 2013 est d'environ 24.8 millions."
+                ],
+                "diff_word": [
+                    [
+                        3,
+                        [
+                            "moyenne",
+                            "variation",
+                            "moyenne",
+                            "variation",
+                            "moyenne",
+                            "variation",
+                            "moyenne",
+                            "variation",
+                            "moyenne",
+                            "variation",
+                            "moyenne"
+                        ]
+                    ],
+                    [
+                        4,
+                        [
+                            "annuelle",
+                            "totale",
+                            "annuelle",
+                            "totale",
+                            "annuelle",
+                            "totale",
+                            "annuelle",
+                            "totale",
+                            "annuelle",
+                            "totale",
+                            "annuelle"
+                        ]
+                    ],
+                    [
+                        8,
+                        [
+                            "après",
+                            "avant",
+                            "avant",
+                            "après",
+                            "après",
+                            "avant",
+                            "avant",
+                            "après",
+                            "après",
+                            "avant",
+                            "avant"
+                        ]
+                    ],
+                    [
+                        9,
+                        [
+                            "2015",
+                            "2015",
+                            "2015",
+                            "2015",
+                            "2018",
+                            "2018",
+                            "2018",
+                            "2014",
+                            "2014",
+                            "2013",
+                            "2013"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.5701783299,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5458618701,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.564485386,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5463159531,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5798016787,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5661863983,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5725077242,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5662577599,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5422040522,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.5571674556,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la tendance des déplacements de personnes après 2015 ?",
+                "answer": [
+                    "Après 2015, la tendance des déplacements de personnes a été globalement à la baisse, avec quelques fluctuations.",
+                    "Avant 2015, la tendance des déplacements de personnes était à la hausse, culminant en 2012.",
+                    "Après 2018, on observe une augmentation des déplacements de personnes, passant de 17.2 millions en 2018 à 24.9 millions en 2019 et à 30.7 millions en 2020.",
+                    "Avant 2018, la tendance des déplacements de personnes était globalement à la hausse, passant de 15 millions en 2011 à 24.2 millions en 2016.",
+                    "La tendance des déplacements de personnes après 2014 est variable, avec des fluctuations annuelles. Après 2014, on observe une hausse en 2016, suivie d'une diminution en 2017, et des variations ultérieures.",
+                    "Avant 2013, la tendance des déplacements de personnes montre une augmentation, passant de 15 millions en 2011 à 30.1 millions en 2012."
+                ],
+                "diff_word": [
+                    [
+                        8,
+                        [
+                            "après",
+                            "avant",
+                            "après",
+                            "avant",
+                            "après",
+                            "avant"
+                        ]
+                    ],
+                    [
+                        9,
+                        [
+                            "2015",
+                            "2015",
+                            "2018",
+                            "2018",
+                            "2014",
+                            "2013"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.617504552,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6099448353,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6286373958,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.615075469,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6061832011,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Y a-t-il une année où le nombre de personnes déplacées a diminué de façon significative après 2014 ?",
+                "answer": [
+                    "Oui, en 2017, le nombre de personnes déplacées a diminué de manière significative par rapport à l'année précédente."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.5917561501,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Combien de personnes étaient déplacées dans le monde en 2014 ?",
+                "answer": [
+                    "En 2014, le nombre de personnes déplacées dans le monde était de 19.1 millions.",
+                    "En 2015, le nombre de personnes déplacées dans le monde était de 19.2 millions.",
+                    "En 2013, le nombre de personnes déplacées dans le monde était de 22.1 millions.",
+                    "En 2016, le nombre de personnes déplacées dans le monde était de 24.2 millions.",
+                    "En 2018, le nombre de personnes déplacées dans le monde était de 17.2 millions."
+                ],
+                "diff_word": [
+                    [
+                        9,
+                        [
+                            "2014",
+                            "2015",
+                            "2013",
+                            "2016",
+                            "2018"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle année a enregistré la plus forte diminution par rapport à l'année précédente après 2014 ?",
+                "answer": [
+                    "La plus forte diminution par rapport à l'année précédente après 2014 a été enregistrée en 2017, où le nombre de personnes déplacées est passé de 24.2 millions en 2016 à 18.8 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6508068144,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2020, quel pourcentage de diminution du nombre de personnes déplacées a été observé par rapport à l'année précédente ?",
+                "answer": [
+                    "En 2020, il n'y a pas eu de diminution ; au contraire, il y a eu une augmentation de 23.29% par rapport à l'année précédente (2019).",
+                    "En 2016, le nombre de personnes déplacées était de 24.2 millions, ce qui représente une augmentation par rapport à 2015. Le pourcentage de diminution est donc nul.",
+                    "En 2019, le nombre de personnes déplacées était de 24.9 millions. Le pourcentage de diminution est [(24.9 - 17.2) \/ 24.9]  100.",
+                    "En 2013, le nombre de personnes déplacées était de 22.1 millions. Le pourcentage de diminution est [(22.1 - 30.1) \/ 30.1]  100.",
+                    "En 2019, le nombre de personnes déplacées était de 24.9 millions. Le pourcentage de variation est [(24.9 - 17.2) \/ 17.2]  100.",
+                    "En 2012, le nombre de personnes déplacées était de 30.1 millions. Le pourcentage de variation est [(30.1 - 15) \/ 15]  100.",
+                    "En 2018, le nombre de personnes déplacées était de 17.2 millions. Le pourcentage de variation est [(17.2 - 18.8) \/ 18.8]  100."
+                ],
+                "diff_word": [
+                    [
+                        1,
+                        [
+                            "2020,",
+                            "2016,",
+                            "2019,",
+                            "2013,",
+                            "2019,",
+                            "2012,",
+                            "2018,"
+                        ]
+                    ],
+                    [
+                        5,
+                        [
+                            "diminution",
+                            "diminution",
+                            "diminution",
+                            "diminution",
+                            "variation",
+                            "variation",
+                            "variation"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.5824520141,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2017, combien de personnes ont été déplacées à l'échelle mondiale ?",
+                "answer": [
+                    "En 2017, le nombre de personnes déplacées dans le monde était de 18.8 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2013, quel était le nombre de personnes déplacées dans le monde ?",
+                "answer": [
+                    "En 2013, le nombre de personnes déplacées dans le monde était de 22.1 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel était le pourcentage d'augmentation du nombre de personnes déplacées entre 2011 et 2012 ?",
+                "answer": [
+                    "Le pourcentage d'augmentation du nombre de personnes déplacées entre 2011 et 2012 était de 100.67%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la tendance des déplacements de personnes dans le monde entre 2011 et 2020 ?",
+                "answer": [
+                    "La tendance générale montre une fluctuation des déplacements de personnes, avec des augmentations et des diminutions d'une année à l'autre."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel est le nombre de personnes déplacées dans le monde en 2011 ?",
+                "answer": [
+                    "En 2011, le nombre de personnes déplacées dans le monde était de 15 millions.",
+                    "En 2014, le nombre de personnes déplacées dans le monde était de 19.1 millions.",
+                    "En 2018, le nombre de personnes déplacées dans le monde était de 17.2 millions."
+                ],
+                "diff_word": [
+                    [
+                        1,
+                        [
+                            "est",
+                            "était",
+                            "était"
+                        ]
+                    ],
+                    [
+                        11,
+                        [
+                            "2011",
+                            "2014",
+                            "2018"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle est la tendance globale des déplacements de personnes au cours de la période spécifiée ?",
+                "answer": [
+                    "La tendance globale montre des variations, avec des années d'augmentation suivies de périodes de diminution."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7109265327,
+                        "start": 507,
+                        "end": 554,
+                        "type": "article"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quel était le pourcentage de diminution du nombre de personnes déplacées entre 2018 et 2019 ?",
+                "answer": [
+                    "Entre 2018 et 2019, le pourcentage de diminution du nombre de personnes déplacées était de 8.72%."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Comment le nombre de personnes déplacées en 2018 se compare-t-il à la moyenne annuelle ?",
+                "answer": [
+                    "En 2018, le nombre de personnes déplacées était de 17.2 millions, en dessous de la moyenne annuelle de 1.88 millions.",
+                    "En 2012, le nombre de personnes déplacées était de 30.1 millions, dépassant la moyenne annuelle de 1.88 millions.",
+                    "En 2019, le nombre de personnes déplacées était de 24.9 millions, tandis que la moyenne annuelle sur la période 2011-2020 était de 22.5 millions (somme des chiffres divisée par 10). Ainsi, le nombre de personnes déplacées en 2019 était supérieur à la moyenne annuelle.",
+                    "En 2013, le nombre de personnes déplacées était de 22.1 millions, tandis que la moyenne annuelle sur la période 2011-2020 était de 22.5 millions. Ainsi, le nombre de personnes déplacées en 2013 était légèrement inférieur à la moyenne annuelle.",
+                    "En 2015, le nombre de personnes déplacées était de 19.2 millions, comparé à la moyenne annuelle des années 2011 à 2020 qui est de 22.4 millions.",
+                    "En 2014, le nombre de personnes déplacées était de 19.1 millions, comparable à la moyenne annuelle des années 2011 à 2020 qui est de 22.4 millions."
+                ],
+                "diff_word": [
+                    [
+                        7,
+                        [
+                            "2018",
+                            "2012",
+                            "2019",
+                            "2013",
+                            "2015",
+                            "2014"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2019, combien de personnes ont été déplacées dans le monde ?",
+                "answer": [
+                    "En 2019, le nombre de personnes déplacées dans le monde était de 24.9 millions.",
+                    "En 2017, le nombre de personnes déplacées dans le monde était de 18.8 millions.",
+                    "En 2020, le nombre de personnes déplacées était de 30.7 millions."
+                ],
+                "diff_word": [
+                    [
+                        1,
+                        [
+                            "2019,",
+                            "2017,",
+                            "2020,"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                6
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 1,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                9
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle année a enregistré le plus fort pourcentage de variation du nombre de personnes déplacées ?",
+                "answer": [
+                    "L'année 2012 a enregistré le plus fort pourcentage de variation du nombre de personnes déplacées par rapport à 2011.",
+                    "L'année 2014 a connu le plus bas pourcentage de diminution du nombre de personnes déplacées par rapport à 2013.",
+                    "L'année 2014 a enregistré le plus bas pourcentage de diminution du nombre de personnes déplacées par rapport à 2013."
+                ],
+                "diff_word": [
+                    [
+                        3,
+                        [
+                            "enregistré",
+                            "connu",
+                            "enregistré"
+                        ]
+                    ],
+                    [
+                        6,
+                        [
+                            "fort",
+                            "bas",
+                            "bas"
+                        ]
+                    ],
+                    [
+                        9,
+                        [
+                            "variation",
+                            "diminution",
+                            "diminution"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.558934927,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                0
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                1
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6156172305,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6118511856,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                2
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                3
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "Quelle année a enregistré la plus grande augmentation par rapport à l'année précédente ?",
+                "answer": [
+                    "La plus grande augmentation d'une année à l'autre a été de 5.9 millions entre 2015 et 2016.",
+                    "La plus faible augmentation a été enregistrée entre 2018 et 2019, avec seulement 7.7 millions de personnes déplacées en plus.",
+                    "L'année 2016 a enregistré la plus grande diminution par rapport à l'année précédente, passant de 30.1 millions à 24.2 millions, soit une diminution de 5.9 millions.",
+                    "L'année 2016 a enregistré la plus forte diminution par rapport à l'année précédente."
+                ],
+                "diff_word": [
+                    [
+                        6,
+                        [
+                            "grande",
+                            "faible",
+                            "grande",
+                            "forte"
+                        ]
+                    ],
+                    [
+                        7,
+                        [
+                            "augmentation",
+                            "augmentation",
+                            "diminution",
+                            "diminution"
+                        ]
+                    ]
+                ],
+                "src": [
+                    {
+                        "score": 0.6399346963,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                4
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6420858279,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                7
+                            ],
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                8
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6269329563,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    },
+                    {
+                        "score": 0.6321087852,
+                        "row": [
+                            [
+                                "Nombre de personnes déplacées liées au climat",
+                                5
+                            ]
+                        ],
+                        "type": "viz"
+                    }
+                ],
+                "cluster": -1
+            },
+            {
+                "question": "En 2019, quel était le pourcentage d'augmentation du nombre de personnes déplacées ?",
+                "answer": [
+                    "En 2019, le pourcentage d'augmentation du nombre de personnes déplacées par rapport à l'année précédente n'est pas fourni dans les données fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6812161505,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "En 2017, combien de millions de personnes ont été déplacées dans le monde ?",
+                "answer": [
+                    "En 2017, le nombre de personnes déplacées était de 18.8 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7938434631,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Combien de personnes ont été déplacées dans le monde en 2017 ?",
+                "answer": [
+                    "En 2017, le nombre de personnes déplacées était de 18.8 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7938434631,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Existe-t-il une corrélation entre les déplacements de personnes et les années spécifiques ?",
+                "answer": [
+                    "La corrélation peut être observée en analysant les données spécifiques pour identifier les tendances ou les événements particuliers qui ont influencé les déplacements."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7231867611,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il une année où le nombre de personnes déplacées a atteint son point le plus bas ?",
+                "answer": [
+                    "En 2017, le nombre de personnes déplacées a atteint son point le plus bas au cours de cette période."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7837688923,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et les régions du monde très chaudes ?",
+                "answer": [
+                    "Le texte ne fournit pas d'informations spécifiques sur une corrélation entre les déplacements de personnes et les régions très chaudes."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6096051335,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et les régions tropicales et subtropicales ?",
+                "answer": [
+                    "Le texte indique une préoccupation concernant les régions tropicales et subtropicales, mais ne fournit pas une corrélation directe avec les déplacements de personnes."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6835210919,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelle année a enregistré la plus forte diminution par rapport à l'année précédente après 2015 ?",
+                "answer": [
+                    "Aucune année après 2015 n'a enregistré une diminution par rapport à l'année précédente. Toutes les années après 2015 ont connu une augmentation du nombre de personnes déplacées."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7971274108,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il une année où le nombre de personnes déplacées a diminué de façon significative après 2015 ?",
+                "answer": [
+                    "Non, aucune année après 2015 n'a enregistré une diminution significative du nombre de personnes déplacées."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7423837781,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et les changements climatiques dans des régions tropicales et subtropicales ?",
+                "answer": [
+                    "Le texte ne fournit pas d'information directe sur la corrélation entre les déplacements de personnes et les changements climatiques dans les régions tropicales et subtropicales."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6795430481,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Comment le nombre de personnes déplacées en 2017 se compare-t-il à la moyenne annuelle ?",
+                "answer": [
+                    "En 2017, le nombre de personnes déplacées était de 18.8 millions, comparé à une moyenne annuelle qui nécessite des calculs avec les données de toutes les années fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6780585945,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelle est la tendance des déplacements de personnes après 2016 ?",
+                "answer": [
+                    "Après 2016, les données indiquent une variation dans le nombre de personnes déplacées, nécessitant une analyse spécifique des chiffres pour déterminer la tendance."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6671685576,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Comment la situation des déplacements de personnes a-t-elle évolué entre 2013 et 2019 ?",
+                "answer": [
+                    "Entre 2013 et 2019, les données montrent une variation dans le nombre de personnes déplacées, nécessitant une analyse spécifique pour déterminer l'évolution."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7326487899,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelle est la variation totale des personnes déplacées après 2015 ?",
+                "answer": [
+                    "La variation totale des personnes déplacées après 2015 nécessite des calculs avec les données de toutes les années fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6589336693,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelle est la moyenne annuelle des personnes déplacées après 2016 ?",
+                "answer": [
+                    "La moyenne annuelle des personnes déplacées après 2016 nécessite des calculs avec les données de toutes les années fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.669293344,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et les migrations importantes prévues ?",
+                "answer": [
+                    "Le texte mentionne des migrations importantes prévues en raison de l'augmentation de la température, mais il ne précise pas de corrélation directe avec les déplacements de personnes."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7612606287,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Comment le nombre de personnes déplacées en 2016 se compare-t-il à la moyenne annuelle ?",
+                "answer": [
+                    "En 2016, le nombre de personnes déplacées était de 24.2 millions, comparé à une moyenne annuelle qui nécessite des calculs avec les données de toutes les années fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7360401154,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelle est la tendance des déplacements de personnes avant 2017 ?",
+                "answer": [
+                    "Avant 2017, les données indiquent une variation dans le nombre de personnes déplacées, nécessitant une analyse spécifique des chiffres pour déterminer la tendance."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6884639859,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et les prévisions de migrations importantes ?",
+                "answer": [
+                    "Le texte mentionne des migrations importantes prévues en raison de l'augmentation de la température, mais il ne précise pas de corrélation directe avec les déplacements de personnes."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7612606287,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelle année a enregistré la plus forte augmentation par rapport à l'année précédente avant 2017 ?",
+                "answer": [
+                    "Les données ne sont pas fournies pour répondre à cette question spécifique."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.1129726171,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il une année où le nombre de personnes déplacées a augmenté de façon significative avant 2017 ?",
+                "answer": [
+                    "Les données ne permettent pas de déterminer une année spécifique où une augmentation significative a eu lieu avant 2017."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6641713977,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelle est la variation totale des personnes déplacées avant 2017 ?",
+                "answer": [
+                    "La variation totale des personnes déplacées avant 2017 nécessite des calculs avec les données de toutes les années fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6661508083,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Quelle est la moyenne annuelle des personnes déplacées avant 2017 ?",
+                "answer": [
+                    "La moyenne annuelle des personnes déplacées avant 2017 nécessite des calculs avec les données de toutes les années fournies."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.6713193655,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il une année où le nombre de personnes déplacées a augmenté de façon significative avant 2013 ?",
+                "answer": [
+                    "Oui, en 2012, le nombre de personnes déplacées a augmenté de manière significative par rapport à l'année précédente."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0.7729133666,
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "cluster": 1
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et le fonctionnement normal du corps humain ?",
+                "answer": [
+                    "Le texte mentionne que l'Organisation internationale des migrations s'inquiète de l'augmentation de la température dans des zones très chaudes, pouvant rendre l'air ambiant trop chaud pour le fonctionnement normal du corps humain. Ainsi, il existe une corrélation entre les déplacements de personnes et cette problématique liée à la chaleur."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 428,
+                        "end": 489,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et l'augmentation de la température dans des zones très chaudes ?",
+                "answer": [
+                    "Oui, le texte mentionne une corrélation entre les déplacements de personnes et l'augmentation de la température dans des zones très chaudes, en particulier en raison du stress thermique croissant."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 0,
+                        "end": 71,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle est la variation annuelle moyenne des personnes déplacées au cours de cette période ?",
+                "answer": [
+                    "La variation annuelle moyenne des personnes déplacées au cours de cette période est de 1.88 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 96,
+                        "end": 107,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et l'augmentation des températures ?",
+                "answer": [
+                    "Le texte suggère une corrélation entre les déplacements de personnes et l'augmentation des températures dans les zones très chaudes."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 272,
+                        "end": 304,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et l'urgence d'agir dès maintenant ?",
+                "answer": [
+                    "Oui, selon le texte, l'augmentation de la température dans des zones très chaudes est liée aux déplacements de personnes, et les scientifiques soulignent l'urgence d'agir dès maintenant pour recueillir des données précises sur les événements à évolution lente."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 648,
+                        "end": 669,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et l'augmentation de la température dans des zones du monde très chaudes ?",
+                "answer": [
+                    "Oui, le texte mentionne que l'Organisation internationale des migrations s'inquiète de l'augmentation de la température dans des zones très chaudes et prévoit des migrations importantes en conséquence."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 0,
+                        "end": 71,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et les politiques ciblées de relocalisations planifiées ?",
+                "answer": [
+                    "Oui, le texte mentionne la nécessité de mettre en place des politiques ciblées, dont des relocalisations planifiées, pour faire face aux déplacements de personnes causés par des événements à évolution lente."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 648,
+                        "end": 669,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle est la variation totale des personnes déplacées pendant la période spécifiée ?",
+                "answer": [
+                    "La variation totale des personnes déplacées pendant la période spécifiée est une augmentation nette de 15.6 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 325,
+                        "end": 341,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et les changements climatiques ?",
+                "answer": [
+                    "Le texte suggère une corrélation potentielle entre les déplacements de personnes et les changements climatiques, notamment en raison de l'augmentation de la température dans certaines zones."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 736,
+                        "end": 779,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et l'Organisation internationale des migrations ?",
+                "answer": [
+                    "Oui, le texte indique que l'Organisation internationale des migrations (OIM) s'inquiète de l'augmentation de la température dans des zones très chaudes, ce qui pourrait entraîner des migrations importantes."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 272,
+                        "end": 304,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et l'augmentation de la température dans des régions tropicales et subtropicales ?",
+                "answer": [
+                    "Le texte mentionne une préoccupation de l'Organisation internationale des migrations (OIM) quant à l'augmentation de la température, mais il ne précise pas de corrélation directe avec les déplacements de personnes."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 146,
+                        "end": 188,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Quelle est la moyenne annuelle des personnes déplacées dans le monde pendant cette période ?",
+                "answer": [
+                    "La moyenne annuelle des personnes déplacées pendant cette période est d'environ 22.5 millions."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 146,
+                        "end": 163,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et la collecte de données précises sur les événements à évolution lente ?",
+                "answer": [
+                    "Oui, le texte souligne l'importance de recueillir des données précises sur des événements à évolution lente, tels que l'érosion côtière, pour anticiper et gérer les déplacements de personnes."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 656,
+                        "end": 669,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et le stress thermique ?",
+                "answer": [
+                    "Le texte suggère une corrélation potentielle entre les déplacements de personnes et le stress thermique dans les zones très chaudes."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 237,
+                        "end": 271,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            },
+            {
+                "question": "Y a-t-il une corrélation entre les déplacements de personnes et le stress thermique très fort ?",
+                "answer": [
+                    "Oui, le texte indique que le stress thermique très fort dans des zones très chaudes peut entraîner des migrations importantes, suggérant une corrélation entre les déplacements de personnes et le stress thermique."
+                ],
+                "diff_word": null,
+                "src": [
+                    {
+                        "score": 0,
+                        "start": 237,
+                        "end": 271,
+                        "type": "article"
+                    }
+                ],
+                "cluster": 0
+            }
+        ],
+        "topics": {
+            "-1": [
+                "CLUSTER A",
+                "Ces couples abordent les sujets suivants : moyenne annuelle des personnes déplacées post-2015, différences entre années, tendances, variations mondiales et corrélations."
+            ],
+            "1": [
+                "BIN"
+            ],
+            "0": [
+                "CONTEXT"
+            ]
+        }
+    }
+}
