@@ -30,7 +30,7 @@ function Header() {
           <>
             {value.x > 3 ?
               <>
-                <Navbar.Brand href="/" style={{ margin: "0rem 1rem", width: "6rem" }}>
+                <Navbar.Brand href="#Home" style={{ margin: "0rem 1rem", width: "6rem" }}>
                   <img
                     alt=""
                     src="https://cdn-icons-png.flaticon.com/512/2936/2936725.png"
