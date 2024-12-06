@@ -367,20 +367,36 @@ function Provider({ children }) {
          */
         requestDataWrapperAPI: async function () {
 
+            //console.log(state.id)
             let svg_values = localStorage.getItem(state.id + "data");
+            let svg_dom = localStorage.getItem(state.id + "dom")
+            svg_dom = svg_dom.slice(1,-1);
+            svg_dom = svg_dom.replaceAll(`'`, `"`)
+
             if (svg_values) {
+                    /*
                 await fetch(`${ROOT_DATAWRAPPER}/dom/?id=${state.id}&save=${!!svg_values}`)
                     .then(async res => {
                         if (res.ok) return res.json();
                         await res.json().then(x => { throw new Error(x.error) })
                     })
                     .then(dom => {
+                        console.log(dom.replaceAll(`"`, `'`))
                         let datavizParser = new DatavizData(dom, svg_values);
                         datavizParser.getAxis()
                         datavizParser.getData()
                         datavizParser.getLegend()
                         dispatch({ type: ACTIONS.LOAD_PARSER, payload: { dataviz: datavizParser } })
                     })
+                    */
+                    
+                    let datavizParser = new DatavizData(svg_dom, svg_values);
+                    datavizParser.getAxis()
+                    datavizParser.getData()
+                    datavizParser.getLegend()
+                    dispatch({ type: ACTIONS.LOAD_PARSER, payload: { dataviz: datavizParser } })
+                    
+                    
             } else {
                 await Promise.all([
                     fetch(`${ROOT_DATAWRAPPER}/dom/?id=${state.id}&save=${!!svg_values}`)
