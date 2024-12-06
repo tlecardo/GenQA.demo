@@ -122,7 +122,7 @@ class LanguageSelector {
     topicLabelText(topic) {
         switch(topic) {
             case "DEFAULT":
-                return this.language === LANGUAGE.FRENCH ? "ENSEMBLE DES COUPLES" : "ALL COUPLES"
+                return this.language === LANGUAGE.FRENCH ? "ENSEMBLE DES COUPLES" : "ALL Q/A PAIRS"
             case "BIN":
                 return this.language === LANGUAGE.FRENCH ? "CORBEILLE" : "BIN"
             case "CONTEXT":
@@ -135,13 +135,13 @@ class LanguageSelector {
     tooltipLabelText(topic) {
         switch(topic) {
             case "DEFAULT":
-                return this.language === LANGUAGE.FRENCH ? "Tous les couples" : "All couples"
+                return this.language === LANGUAGE.FRENCH ? "Tous les couples" : "All Q/A pairs"
             case "BIN":
-                return this.language === LANGUAGE.FRENCH ? "Couples dont les réponses sont du type 'non-mentionnées' dans la visualisation et l'article" : "Couples whose answer is not mentioned into dataviz or article"
+                return this.language === LANGUAGE.FRENCH ? "Couples dont les réponses sont du type 'non-mentionnées' dans la visualisation et l'article" : "Q/A pairs whose answer is not mentioned into dataviz or article"
             case "CONTEXT":
-                return this.language === LANGUAGE.FRENCH ? "Couples qui ne sont ni associés à la visualisation, ni à l'article" : "Couples not linked with dataviz or article"
+                return this.language === LANGUAGE.FRENCH ? "Couples qui ne sont ni associés à la visualisation, ni à l'article" : "Q/A pairs not linked with dataviz or article"
             default:
-                return this.language === LANGUAGE.FRENCH ? "Couples qui sont associés à la visualisation ou à l'article" : "Couples linked with dataviz or article"
+                return this.language === LANGUAGE.FRENCH ? "Couples qui sont associés à la visualisation ou à l'article" : "Q/A pairs linked with dataviz or article"
         }
     }
 
@@ -151,9 +151,9 @@ class LanguageSelector {
 
     sepText(isUnique) {
         if (this.language === LANGUAGE.FRENCH) {
-            return isUnique ? "Couple(s) unique(s)" : "Couple(s) regroupé(s)"
+            return isUnique ? "Couple(s) unique(s)" : "Regroupement(s) syntaxique(s)"
         }
-        return isUnique ? "Single couple(s)" : "Grouped couple(s)"
+        return isUnique ? "Single couple(s)" : "Syntactic cluster(s)"
     }
 
     generateFileText() {
@@ -161,18 +161,18 @@ class LanguageSelector {
     }
 
     qaText() {
-        return this.language === LANGUAGE.FRENCH ? "Questions et réponses" : "Questions and answers"
+        return this.language === LANGUAGE.FRENCH ? "Couples de Questions/Réponses" : "Question/Answer pairs"
     }
 
     selectNumberQText(nbSelecQs) {
         if (this.language === LANGUAGE.FRENCH) {
-            return `${nbSelecQs} question${nbSelecQs > 1 ? "s" : ""} sélectionnée${nbSelecQs > 1 ? "s" : ""}`
+            return `${nbSelecQs} couple${nbSelecQs > 1 ? "s" : ""} sélectionnée${nbSelecQs > 1 ? "s" : ""}`
         }
-        return `${nbSelecQs} selected question${nbSelecQs > 1 ? "s" : ""}`
+        return `${nbSelecQs} selected Q/A pair${nbSelecQs > 1 ? "s" : ""}`
     }
 
     selectQText() {
-        return this.language === LANGUAGE.FRENCH ? "Couples sélectionnés" : "Selected couples"
+        return this.language === LANGUAGE.FRENCH ? "Couples sélectionnés" : "Selected Q/A pairs"
     }
 
     selectCouplesText() {

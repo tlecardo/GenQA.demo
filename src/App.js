@@ -20,6 +20,11 @@ function App() {
   // remove right click
   document.oncontextmenu = () => false
 
+  // remove scroll default action
+  window.onkeydown = function(e) {
+    return !( (e.key == ' ' | e.key == 'ArrowUp' | e.key == 'ArrowDown' ) && e.target == document.body);
+  };
+
   return (
     <Provider>
       <div className="App-header">
