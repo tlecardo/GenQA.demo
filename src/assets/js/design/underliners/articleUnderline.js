@@ -71,7 +71,7 @@ class ArticleUnderline {
             let segmenter = new Segmenter(this.data)
             segs_optim = segmenter.compute()
         }
-
+        
         let max_freq = Math.max(...segs_optim.map(x => x["freq"]))
 
         let HTMLText = this.article

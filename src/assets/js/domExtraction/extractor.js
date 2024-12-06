@@ -96,6 +96,9 @@ export class Extractor {
             metadata['source'] = this.document.querySelector("#footer .footer-left .source").innerText;
         } catch { }
         try {
+            metadata['author'] = this.document.querySelector("#footer .footer-block .byline-content").innerText;
+        } catch { }
+        try {
             metadata['subtitle'] = this.document.querySelector("#header .description-block .block-inner").innerText;
         } catch { }
         return metadata

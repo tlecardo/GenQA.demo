@@ -1,20 +1,11 @@
 import { Col, Row, Form } from 'react-bootstrap';
 import React, { useContext } from 'react';
 import AppContext from '../../context/AppContext';
+// import * as ntc from "ntc";
 import namer from "color-namer";
 
-let convertName = {
-    black: "noir", blue: "bleu", cyan: "cyan", green: "vert",
-    teal: "bleu canard", turquoise: "turquoise", indigo: "indigo", gray: "gris", brown: "marron",
-    tan: "tan", violet: "noir", beige: "beige", fuchsia: "fuchsia", gold: "or",
-    magenta: "magenta", orange: "orange", pink: "rose", red: "rouge", white: "blanc",
-    yellow: "jaune"
-}
-
-
 export function ColorInput(props) {
-    const { api } = useContext(AppContext);
-
+    const { state, api } = useContext(AppContext);
     // namer(props.data.color).basic[0].name
     // ntc.name(props.data.color)[1]
 
@@ -36,9 +27,9 @@ export function ColorInput(props) {
                             size='sm'
                             type="text"
                             id={`NM${props.data.color}`}
-                            placeholder='Nom'
+                            placeholder={state.language.nameText()}
                             className='name updateInfo'
-                            defaultValue={convertName[namer(props.data.color).basic[0].name]}
+                            defaultValue={state.language.color(namer(props.data.color).basic[0].name)}
                             onChange={() => props.changeStatusUncomplete(api.testEmptyUpdateInfo())}
                         />
                     </Col>

@@ -12,7 +12,6 @@ class GlobalStatus {
         this.subquestion = {}
     }
 
-
     addKey(key, curVal, changeValue, opts) {
         this.specialKey[key] = {}
         this.specialKey[key]["value"] = curVal
@@ -31,7 +30,6 @@ class GlobalStatus {
         this.selectedQuestion["update"] = changeValue
         this.selectedQuestion["add"] = item => changeValue([...new Set([...curValue, ...item])])
         this.selectedQuestion["remove"] = item => changeValue(curValue.filter(x => !item.includes(x)))
-
     }
 
     /**
@@ -56,10 +54,16 @@ class GlobalStatus {
      */
     addSubQuestionStatus(curValue, changeValue, opts) {
         this.subquestion["value"] = curValue
-        this.subquestion["next"] = () => { if (curValue < opts["nb_subquestions"] - 1) changeValue(curValue + 1) }
+        //this.subquestion["next"] = () => { if (curValue < opts["nb_subquestions"] - 1) changeValue(curValue + 1) }
+        this.subquestion["next"] = (nb_max) => { if (curValue < nb_max - 1) changeValue(curValue + 1) }
         this.subquestion["prev"] = () => { if (curValue !== 0) changeValue(curValue - 1) }
         this.subquestion["update"] = changeValue
         this.subquestion["reload"] = () => { changeValue(0); changeValue(curValue); }
+    }
+
+    subQuestionUpdateOpts(opts) {
+        console.log(opts)
+        this.subquestion["next"] = () => { if (this.subquestion["value"] < opts["nb_subquestions"] - 1) this.subquestion["update"](this.subquestion["value"] + 1) }
     }
 
     /**
@@ -119,20 +123,6 @@ class GlobalStatus {
     }
 
     /**
-     * Increment current subquestion on direction
-     * 
-     * @param {String} direction - incremental direction
-     */
-    changeSubQuestion(direction) {
-        switch (this.view.value) {
-            case 2:
-                this.subquestion[direction]()
-                break
-            default:
-        }
-    }
-
-    /**
      * 
      * @param {str} key 
      */
@@ -140,7 +130,6 @@ class GlobalStatus {
         if (!this.specialKey[key].value) {
             this.specialKey[key].update(true)
         }
-        
     }
 
     /**
@@ -152,7 +141,6 @@ class GlobalStatus {
             this.specialKey[key].update(false)
         }
     }
-
 
     /**
      * Increment current view on direction
@@ -173,23 +161,6 @@ class GlobalStatus {
         if (this.selectedQuestion.value.includes(items[0])) this.selectedQuestion.remove(items)
         else this.selectedQuestion.add(items)
     }
-
-    /*
-    changeSelecQ(items, item) {
-        switch (this.view.value) {
-            case 0:
-                if (this.selectedQuestion.value.includes(items[0])) this.selectedQuestion.remove(items)
-                else this.selectedQuestion.add(items)
-                break
-            case 1:
-            case 2:
-                if (this.selectedQuestion.value.includes(item)) this.selectedQuestion.remove(item)
-                else this.selectedQuestion.add(item)
-                break
-            default:
-        }
-    }
-    */
 }
 
 export default GlobalStatus

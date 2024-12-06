@@ -30,7 +30,7 @@ function Header() {
           <>
             {value.x > 3 ?
               <>
-                <Navbar.Brand href="#Home" style={{ margin: "0rem 1rem", width: "6rem" }}>
+                <Navbar.Brand href="/" style={{ margin: "0rem 1rem", width: "6rem" }}>
                   <img
                     alt=""
                     src="https://cdn-icons-png.flaticon.com/512/2936/2936725.png"
@@ -43,8 +43,8 @@ function Header() {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                   <Nav className="me-auto">
-                    <Nav.Link href="#Home">{state.language.homeText()}</Nav.Link>
-                    <Nav.Link href="#Examples">{state.language.exampleText()}</Nav.Link>
+                    <Nav.Link href="Home">{state.language.homeText()}</Nav.Link>
+                    <Nav.Link href="Examples">{state.language.exampleText()}</Nav.Link>
                   </Nav>
                 </Navbar.Collapse>
                 <Navbar.Collapse className="justify-content-end">

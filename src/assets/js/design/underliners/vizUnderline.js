@@ -32,21 +32,22 @@ class VizUnderline {
         this.attr_seg = []
         this.#initializeOptions()
     }
-    
-    
+
+
     extractSubQuestions(row) {
         if (row.diff_word === null) {
             return [row]
         }
-        let nw_rows = Array.from({ length: row.diff_word[0][1].length }, (v, i) => { 
+        let nw_rows = Array.from({ length: row.diff_word[0][1].length }, (v, i) => {
             return {
                 "question": `${row.question}`.split(" "),
                 "answer": [row.answer[i]],
                 "diff_word": null,
                 "src": [row.src[i]],
                 "cluster": row.cluster
-            }} )
-    
+            }
+        })
+
         for (let idx_qst in row.diff_word[0][1]) {
             for (let idx_word in row.diff_word) {
                 let nw_word = row.diff_word[idx_word][1][idx_qst]
@@ -74,16 +75,11 @@ class VizUnderline {
 
     addData(items, conditional_set) {
         // sub questions
-        let allQ = items.flatMap( x => this.extractSubQuestions(x))
+        let allQ = items.flatMap(x => this.extractSubQuestions(x))
 
-
-        console.log(items)
-        console.log(allQ)
-        
         allQ.filter(item => conditional_set ? conditional_set.includes(item.question) : true)
             .filter(item => item.src[0].type === "viz")
             .forEach(item => this.#addDataUnique(item))
-        
     }
 
     /**
@@ -253,7 +249,7 @@ class VizUnderline {
             if (Object.keys(attr_data).includes(attr)) attr_data[attr].push(data)
             else attr_data[attr] = [data]
         }
-        
+
         for (let cur_attr of Object.keys(attr_data)) {
 
             let segmenter = new Segmenter(attr_data[cur_attr])
@@ -309,13 +305,15 @@ class VizUnderline {
                         cur_serie["areaStyle"] = {}
                     }
 
+                    /*
                     cur_serie["markLine"] = {
-                            symbol: ['none', 'none'],
-                            label: { show: false },
-                            lineStyle: { color: `rgba(${convertColor(cur_serie["lineStyle"]["color"])}, 0.8)`, width: 1 },
-                            animation: false,
-                            data: [{ xAxis: cur_indexes[0] }, { xAxis: cur_indexes[1] }]
+                        symbol: ['none', 'none'],
+                        label: { show: false },
+                        lineStyle: { color: `rgba(${convertColor(cur_serie["lineStyle"]["color"])}, 0.8)`, width: 1 },
+                        animation: false,
+                        data: [{ xAxis: cur_indexes[0] }, { xAxis: cur_indexes[1] }]
                     }
+                    */
                 }
             }
         }
@@ -367,7 +365,7 @@ class VizUnderline {
      */
     coverage(data, opts) {
         this.#removeMarks()
-        
+
         if (Array.isArray(data)) {
             this.addData(data, Object.keys(opts).includes("selectQuestions") ? opts["selectQuestions"] : null)
         } else {

@@ -266,10 +266,11 @@ class WaffleChart {
         let data_sort = data.clusters.sort(Order.alphabetic);
 
         let dict_q = {}
-        console.log(data_sort)
+        
         for (let row of data_sort) {
+            
             if (row.diff_word !== null) {
-                console.log(row.diff_word)
+                
                 let questions = Array.from({ length: row.diff_word[0][1].length }, () => `${row.question}`.split(" "))
                 for (let idx_qst in row.diff_word[0][1]) {
                     for (let idx_word in row.diff_word) {

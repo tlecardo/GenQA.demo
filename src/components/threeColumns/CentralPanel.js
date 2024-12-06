@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import AppContext from '../../context/AppContext';
 import { Button } from 'react-bootstrap';
 
-import PatternCouple from '../elements/PatternCouple';
+import SyntacticCouple from '../elements/SyntacticCouple';
 import AtomicCouple from '../elements/AtomicCouple';
 import Toaster from '../../assets/js/tools/toaster';
 
@@ -29,20 +29,37 @@ function CentralPanel(props) {
     return (
         <>
             <div style={{ marginBottom: "0.5rem", textAlign: "center", fontSize: "20px" }}>{title}</div>
-            <div id="text_show" style={{ overflowY: "auto", height: coupleHeight, width: "100.5%", scrollbarWidth: "thin", fontSize: "10px" }}>
+            <div 
+                id="text_show" 
+                style={{
+                    position: "static",
+                    overflowY: "auto",
+                    height: coupleHeight, 
+                    width: "100.5%", 
+                    scrollbarWidth: "thin", 
+                    fontSize: "10px"
+                    
+                }}
+            >
                 {multiple_data.length > 0 ?
                     <>
                         <div className='separator'>{state.language.sepText(false)}</div>
-                        {multiple_data.map((couple, index) => <PatternCouple
-                            onClick={() => {
-                                globalStatus.view.update(1)
-                                globalStatus.question.update(index)
-                            }}
-                            globalStatus={globalStatus}
-                            row={couple}
-                            key={index}
-                            isDetailled={globalStatus.question.value === index & globalStatus.view.value === 2}
-                            isCurrent={globalStatus.question.value === index & globalStatus.view.value >= 1} />)
+                        {
+                            multiple_data.map((couple, index) => <SyntacticCouple
+                                onClick={() => {
+                                    globalStatus.question.update(index);
+                                    globalStatus.view.update(1);
+                                }}
+                                onDoubleClick={() => {
+                                    globalStatus.question.update(index);
+                                    globalStatus.view.update(2);
+                                }}
+                                globalStatus={globalStatus}
+                                row={couple}
+                                key={index}
+                                isDetailled={globalStatus.question.value === index & globalStatus.view.value === 2}
+                                isCurrent={globalStatus.question.value === index & globalStatus.view.value >= 1} 
+                            />)
                         }
                     </>
                     :
@@ -54,14 +71,15 @@ function CentralPanel(props) {
                         {
                             single_data.map((couple, index) => <AtomicCouple
                                 onClick={() => {
-                                    globalStatus.view.update(1)
-                                    globalStatus.question.update(index + multiple_data.length)
+                                    globalStatus.question.update(index + multiple_data.length);
+                                    globalStatus.view.update(1);
                                 }}
                                 row={couple}
                                 key={index + multiple_data.length}
                                 isDetailled={globalStatus.question.value === index + multiple_data.length & globalStatus.view.value === 2}
                                 isSelected={globalStatus.selectedQuestion.value.includes(couple.question)}
-                                isCurrent={globalStatus.question.value === index + multiple_data.length & globalStatus.view.value >= 1} />)
+                                isCurrent={globalStatus.question.value === index + multiple_data.length & globalStatus.view.value >= 1}
+                            />)
                         }
                     </>
                     :

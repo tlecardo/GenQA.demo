@@ -25,13 +25,18 @@ let color = {
 
 /**
  * Update question display
- * @param {Object} item - question item
+ * @param {Object} question - question item
  * @param {WaffleChart} vizObject - waffleChart object
  */
-function focusScroll(item) {
-    let node = document.querySelector(`[data-question-text="${item.question}"]`)
-    if (node) {
-        node.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' })
+function focusScroll(question) {
+    let node = document.querySelectorAll(`.subsentence[data-question-text="${question}"]`)
+    if (node[0]) {
+        node[0].scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center', align: { top: 0 } })
+    } else {
+        node = document.querySelectorAll(`[data-question-text="${question}"]`)
+        if (node[0]) {
+            node[0].scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center', align: { top: 0 } })
+        }
     }
 }
 
@@ -72,7 +77,7 @@ function getAllRows(data) {
             dict_q[row.question] = row
         }
     }
-    
+
     return dict_q
 }
 
@@ -83,6 +88,7 @@ function FilterQRs() {
     const [globalView, changeView] = useState(0)
     const [selectQuestions, updateList] = useState([])
     const [questionIndex, changeQuestionIndex] = useState(0)
+    const [questionSubIndex, changeSubQuestionIndex] = useState(0)
     const [statusR, changeStatusR] = useState(false)
     const [statusG, changeStatusG] = useState(false)
 
@@ -92,7 +98,6 @@ function FilterQRs() {
 
     let local_data = state.questions.clusters.filter(x => x.cluster === curCluster)
     if (curCluster === max_cluster + 1) {
-        //local_data = state.questions.clusters.filter(x => selectQuestions.includes(x.question))
         let allR = getAllRows(state.questions.clusters)
         local_data = selectQuestions.map(x => allR[x])
     }
@@ -100,6 +105,19 @@ function FilterQRs() {
     local_data.sort(Order.alphabetic)
 
     let curItem = local_data[questionIndex]
+    console.log(curItem)
+
+    if (globalView === 2) {
+        curItem = {
+            "question": " BLANK ",
+            "answer": [curItem.answer[questionSubIndex]],
+            "diff_word": null,
+            "src": [curItem.src[questionSubIndex]],
+            "cluster": curItem.cluster
+        }
+
+        console.log(curItem)
+    }
 
     let opts = {
         "nb_questions": local_data.length,
@@ -116,6 +134,8 @@ function FilterQRs() {
     globalStatus.addKey("R", statusR, changeStatusR)
     globalStatus.addKey("G", statusG, changeStatusG)
 
+    globalStatus.addSubQuestionStatus(questionSubIndex, changeSubQuestionIndex, { nb_subquestions: 10 })
+
     let vizClue = new VizUnderline(state.dataParser.data[0].data.length, state.dataParser.type)
 
     let articleClue = new ArticleUnderline(state.article)
@@ -128,10 +148,12 @@ function FilterQRs() {
     chart.updateQuestionSelect(state.questions, globalStatus.selectedQuestion.value)
 
     function updateCues(data, opts) {
-        vizClue.coverage(data, opts)
-        articleClue.coverage(data, opts)
+        try {
+            vizClue.coverage(data, opts)
+            articleClue.coverage(data, opts)
+        } catch {
+        }
     }
-
 
     d3.select(".selected-bar")
         .on("mouseenter", () => globalStatus.pressKey("R"))
@@ -152,9 +174,6 @@ function FilterQRs() {
         })
         .on("keydown", input => {
             switch (input.key) {
-                case "=":
-                    globalStatus.reload()
-                    break;
                 case "r":
                     globalStatus.pressKey("R")
                     break;
@@ -171,22 +190,34 @@ function FilterQRs() {
                         } else if (globalStatus.view.value === 1) {
                             let allQuestions = extractSubQuestions(curItem)
                             globalStatus.changeSelecQ(allQuestions)
+                        } else if (globalStatus.view.value === 2) {
+                            let row = local_data[globalStatus.question.value]
+                            let allQuestions = extractSubQuestions(row)
+                            let question = allQuestions[globalStatus.subquestion.value]
+                            globalStatus.changeSelecQ([question])
                         }
                     }
 
-                    if (globalStatus.view.value === 2) {
-                        globalStatus.changeView("next")
-                    }
                     break;
                 case "ArrowDown":
-                    globalStatus.changeQuestion("next")
+                    if (globalStatus.view.value === 2) {
+                        let max_length = local_data[globalStatus.question.value].answer.length
+                        globalStatus.subquestion.next(max_length)
+                    } else {
+                        globalStatus.changeQuestion("next")
+                    }
                     globalStatus.releaseKey("R")
                     break;
                 case "ArrowUp":
-                    globalStatus.changeQuestion("prev")
+                    if (globalStatus.view.value === 2) {
+                        globalStatus.subquestion.prev()
+                    } else {
+                        globalStatus.changeQuestion("prev")
+                    }
                     globalStatus.releaseKey("R")
                     break;
                 case "ArrowRight":
+                    globalStatus.subquestion.update(0)
                     if (!curItem) {
                         globalStatus.changeView("prev")
                     } else if (!(curItem.diff_word === null & globalStatus.view.value === 1)) {
@@ -194,13 +225,13 @@ function FilterQRs() {
                     }
                     break;
                 case "ArrowLeft":
+                    globalStatus.subquestion.update(0)
                     globalStatus.changeView("next")
                     break;
                 default:
             }
         })
 
-    console.log(curItem)
     if (globalStatus.specialKey["R"].value) {
         chart.resizeSelectedBox({ ratio: 0.06, color: color["select"] })
         updateCues(state.questions.clusters, { color: color["select"], selectQuestions: globalStatus.selectedQuestion.value })
@@ -212,14 +243,14 @@ function FilterQRs() {
             case 0:
                 if (globalStatus.cluster.value === globalStatus.cluster.max + 1) {
                     updateCues(state.questions.clusters, { color: color["select"], selectQuestions: globalStatus.selectedQuestion.value })
+                    chart.resizeSelectedBox({ ratio: 0.06, color: color["select"] })
                 } else {
                     updateCues(local_data, { color: color["global"] })
                 }
                 break
             case 1:
                 if (curItem) {
-                    focusScroll(curItem)
-                    console.log(curItem)
+                    focusScroll(curItem.question)
                     chart.updateCurQuestion(curItem.question)
                     updateCues(curItem, { color: color["local"] })
                     if (globalStatus.cluster.value === globalStatus.cluster.max + 1) {
@@ -229,21 +260,19 @@ function FilterQRs() {
                 break
             case 2:
                 if (curItem) {
-                    focusScroll(curItem)
-                    chart.updateCurQuestion(curItem.question)
+                    let row = local_data[globalStatus.question.value]
+                    let master_question = row.question
+                    let allQuestions = extractSubQuestions(row)
+                    let question = allQuestions[globalStatus.subquestion.value]
+                    updateCues(curItem, { color: color["local"] })
+                    chart.updateCurQuestion(master_question)
+                    focusScroll(question)
                 }
                 break
             default:
         }
     }
 
-    /*
-    useMemo(() => {
-        vizClue.coverage(rows, { color: color["local"]});
-        //console.log(rows)
-    }, [rows])
-    */
-    console.log(globalStatus.selectedQuestion.value)
     return (
         <Container style={{ fontSize: "large", textAlign: "center", overflowY: "clip" }}>
             <Row style={{ marginTop: "1rem" }}>

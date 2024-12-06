@@ -21,6 +21,18 @@ class LanguageSelector {
         return LANGUAGE.ENGLISH
     }
 
+    // window
+    color(name) {
+        let convertName = {
+            black: "noir", blue: "bleu", cyan: "cyan", green: "vert",
+            teal: "bleu canard", turquoise: "turquoise", indigo: "indigo", gray: "gris", brown: "marron",
+            tan: "tan", violet: "noir", beige: "beige", fuchsia: "fuchsia", gold: "or",
+            magenta: "magenta", orange: "orange", pink: "rose", red: "rouge", white: "blanc",
+            yellow: "jaune"
+        }
+        return this.language === LANGUAGE.FRENCH ? convertName[name] : name
+    }
+
     // header
     homeText() {
         return this.language === LANGUAGE.FRENCH ? "Accueil" : "Home"
@@ -42,6 +54,10 @@ class LanguageSelector {
     // modal content
     colorText() {
         return this.language === LANGUAGE.FRENCH ? "Couleurs" : "Colors"
+    }
+
+    nameText() {
+        return this.language === LANGUAGE.FRENCH ? "Nom" : "Name"
     }
 
 
@@ -121,11 +137,11 @@ class LanguageSelector {
             case "DEFAULT":
                 return this.language === LANGUAGE.FRENCH ? "Tous les couples" : "All couples"
             case "BIN":
-                return this.language === LANGUAGE.FRENCH ? "Les réponses de ces couples sont du type 'non-mentionnées' dans la visualisation et l'article" : "The answer of these couples is not mentioned into dataviz or article"
+                return this.language === LANGUAGE.FRENCH ? "Couples dont les réponses sont du type 'non-mentionnées' dans la visualisation et l'article" : "Couples whose answer is not mentioned into dataviz or article"
             case "CONTEXT":
-                return this.language === LANGUAGE.FRENCH ? "Ces couples ne sont ni liés à la visualisation, ni à l'article" : "These couples aren't linked with dataviz or article"
+                return this.language === LANGUAGE.FRENCH ? "Couples qui ne sont ni associés à la visualisation, ni à l'article" : "Couples not linked with dataviz or article"
             default:
-                return this.language === LANGUAGE.FRENCH ? "Ces couples sont liés à la visualisation ou à l'article" : "These couples are linked with dataviz or article"
+                return this.language === LANGUAGE.FRENCH ? "Couples qui sont associés à la visualisation ou à l'article" : "Couples linked with dataviz or article"
         }
     }
 

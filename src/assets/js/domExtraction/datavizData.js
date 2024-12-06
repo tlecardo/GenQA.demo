@@ -5,10 +5,18 @@ class DatavizData {
 
     constructor(text, data) {
 
-        let postData = data.replaceAll('"', "").replaceAll(",", ".").trim().split("\\n").map(x => x.split("\\t"))
-        if (postData.length === 1) {
-            postData = data.replaceAll(",", ".").trim().split("\n").map(x => x.split("\t"))
+        let postData = []
+
+        if (data.includes("\\n")) {
+            // RC
+            postData = data.replaceAll('"', "").replaceAll(",", ".").trim().split("\\n")
+            postData = postData.map(x => x.split("\\t"))
+        } else {
+            // CBC
+            postData = data.replaceAll('"', "").trim().split("\n")
+            postData = postData.map( x => x.split(/\t|\n/).length === 1 ? x.split(/,/) : x.replaceAll(",", ".").split(/\t|\n/))
         }
+
         const parser = new DOMParser();
         this.htmlDoc = parser.parseFromString(text, "text/html")
         this.extractor = new Extractor(this.htmlDoc, text, postData)

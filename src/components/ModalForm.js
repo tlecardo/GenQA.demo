@@ -38,13 +38,11 @@ function ModalForm(props) {
   let openModal = async function () {
     changeLoadingStatus(true)
 
-    
     await api.requestDataWrapperAPI()
       .then(() => setShow(true))
       //.catch((err) => props.displayToast(err.message))
       .finally(() => changeLoadingStatus(false))
   }
-    
 
   let paramsBorder = "0.2rem solid #57CC99"
 

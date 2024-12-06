@@ -1,16 +1,6 @@
-import * as d3 from 'd3';
-import React, { useState } from 'react';
+import React from 'react';
 
-function focusScroll(item) {
-    let node = document.querySelector(`[data-question-text="${item}"]`)
-    if (node) {
-        node.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' })
-    }
-}
-
-function PatternCouple(props) {
-
-    const [questionIndex, changeQuestionIndex] = useState(0)
+function SyntacticCouple(props) {
 
     let row = props.row
     let isDetailled = props.isDetailled
@@ -33,55 +23,28 @@ function PatternCouple(props) {
 
     let nbQsSelected = questions.filter(value => globalStatus.selectedQuestion.value.includes(value.join(" "))).length
 
-    if (globalStatus.view.value === 2 & props.isCurrent) {
-        globalStatus.addSubQuestionStatus(questionIndex, changeQuestionIndex, { nb_subquestions: row.diff_word[0][1].length })
-        d3.select("body")
-            .on("keydown", input => {
-                switch (input.key) {
-                    case "r":
-                        globalStatus.pressKey("R")
-                        break;
-                    case "g":
-                        globalStatus.pressKey("G")
-                        break;
-                    case "ArrowLeft":
-                        globalStatus.view.update(1)
-                        globalStatus.subquestion.update(0)
-                        break
-                    case "ArrowDown":
-                        globalStatus.changeSubQuestion("next")
-                        focusScroll(questions[globalStatus.subquestion.value].join(" "))
-                        break
-                    case "ArrowUp":
-                        globalStatus.changeSubQuestion("prev")
-                        focusScroll(questions[globalStatus.subquestion.value].join(" "))
-                        break
-                    case "Enter":
-                    case " ":
-                        let question = questions[globalStatus.subquestion.value].join(" ")
-                        globalStatus.changeSelecQ([question])
-                        break
-                    default:
-                        break
-                }
-            })
-    }
-
     return (
         <div
             data-question-text={row.question}
-            onClick={props.onClick}
             style={{
                 cursor: 'pointer',
                 fontWeight: props.isCurrent > 0 ? 700 : (nbQsSelected ? 500 : "normal"),
                 border: props.isCurrent & !isDetailled ? "3px solid rgba(0, 255, 0, 0.4)" : null,
                 color: (nbQsSelected > 0 | props.isCurrent) ? "#000000" : "#999999"
             }}>
-            <span>
+            <span
+                onClick={props.onClick}
+                onDoubleClick={props.onDoubleClick}
+            >
                 {nbQsSelected === row.diff_word[0][1].length ? "\u2714 " : (nbQsSelected > 0 ? "\u2756 " : "\u2716 ")}
             </span>
-            <span className={"sentence"} dangerouslySetInnerHTML={{ __html: text }} />
-
+            <span
+                key={text}
+                className={"sentence"} 
+                onClick={props.onClick}
+                onDoubleClick={props.onDoubleClick}
+                dangerouslySetInnerHTML={{ __html: text }}
+            />
             {isDetailled ?
                 <div 
                 style={{ 
@@ -97,6 +60,9 @@ function PatternCouple(props) {
                             return (
                                 <div
                                     data-question-text={question}
+                                    onClick={ () => { 
+                                        globalStatus.subquestion.update(idx);
+                                    }}
                                     className={"subsentence"}
                                     style={{
                                         cursor: 'pointer',
@@ -127,4 +93,4 @@ function PatternCouple(props) {
     );
 }
 
-export default PatternCouple;
+export default SyntacticCouple;
