@@ -84,6 +84,7 @@ export class Extractor {
     }
 
     metadata(type = null) {
+        
         const metadata = {
             title: this.document.querySelector("#header .headline-block .block-inner").innerText,
             type: type,

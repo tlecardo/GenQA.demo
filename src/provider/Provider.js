@@ -367,9 +367,11 @@ function Provider({ children }) {
          */
         requestDataWrapperAPI: async function () {
 
-            //console.log(state.id)
             let svg_values = localStorage.getItem(state.id + "data");
             let svg_dom = localStorage.getItem(state.id + "dom")
+
+            console.log(state.id)
+
             svg_dom = svg_dom.slice(1,-1);
             svg_dom = svg_dom.replaceAll(`'`, `"`)
 
