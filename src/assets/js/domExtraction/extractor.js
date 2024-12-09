@@ -34,6 +34,7 @@ export class Extractor {
     }
 
     convert(data, type) {
+
         let clrData = data.trim().replaceAll("\"", "")
 
         switch (type) {
@@ -84,7 +85,7 @@ export class Extractor {
     }
 
     metadata(type = null) {
-        
+
         const metadata = {
             title: this.document.querySelector("#header .headline-block .block-inner").innerText,
             type: type,
@@ -202,7 +203,7 @@ export class Extractor {
                 text: item.getAttribute("aria-label"),
                 data: dataS[index],
                 color: color,
-                label: item.getAttribute("aria-label").match(/(?:"[^"]*"|^[^"]*$)/)[0].replace(/"/g, "")
+                label: item.getAttribute("aria-label").replace("'", "").match(/(?:"[^"]*"|^[^"]*$)/)[0].replace(/"/g, "")
             }
         })
 

@@ -416,6 +416,7 @@ class VizUnderline {
         if (this.state.dataParser.type === TYPE_CHART.LINE) {
 
             this.options["series"] = this.state.dataParser.data.map(data_row => {
+
                 return {
                     type: "line",
                     name: data_row.label,

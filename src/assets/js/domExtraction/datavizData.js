@@ -3,18 +3,19 @@ import { Extractor } from "./extractor.js";
 
 class DatavizData {
 
-    constructor(text, data) {
+    constructor(text, data, src) {
 
         let postData = []
 
-        if (data.includes("\\n")) {
+        console.log(src)
+        if (src === "RC") {
             // RC
             postData = data.replaceAll('"', "").replaceAll(",", ".").trim().split("\\n")
             postData = postData.map(x => x.split("\\t"))
         } else {
             // CBC
-            postData = data.replaceAll('"', "").trim().split("\n")
-            postData = postData.map( x => x.split(/\t|\n/).length === 1 ? x.split(/,/) : x.replaceAll(",", ".").split(/\t|\n/))
+            postData = data.replaceAll('"', "").trim().split("\\n")
+            postData = postData.map( x => x.split(/\t|\n/).length === 1 ? x.split(/,/) : x.replaceAll(",", ".").split(/\t|\n/)).slice(0,-1)
         }
 
         const parser = new DOMParser();

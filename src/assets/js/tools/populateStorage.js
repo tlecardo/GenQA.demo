@@ -6,7 +6,7 @@ class PopulateStorage {
 
     constructor() {
 
-        ["v9KDp", "Q7gAW", "ERrhn", "8ZGFX", "jYsX2", "hVqxw", "wHZmu", "RHSrl"].forEach(id => {
+        ["v9KDp", "Q7gAW", "ERrhn", "8ZGFX", "jYsX2", "hVqxw", "wHZmu", "RHSrl", "05U1o"].forEach(id => {
             let status = localStorage.getItem(`${id}defVal`)
             if (!status) {
                 let jSON = require(`./computedExamples/${id}.json`);

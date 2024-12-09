@@ -370,8 +370,6 @@ function Provider({ children }) {
             let svg_values = localStorage.getItem(state.id + "data");
             let svg_dom = localStorage.getItem(state.id + "dom")
 
-            console.log(state.id)
-
             svg_dom = svg_dom.slice(1,-1);
             svg_dom = svg_dom.replaceAll(`'`, `"`)
 
@@ -392,7 +390,7 @@ function Provider({ children }) {
                     })
                     */
                     
-                    let datavizParser = new DatavizData(svg_dom, svg_values);
+                    let datavizParser = new DatavizData(svg_dom, svg_values,  svg_dom.includes("france") ? "RC" : "CBC");
                     datavizParser.getAxis()
                     datavizParser.getData()
                     datavizParser.getLegend()
