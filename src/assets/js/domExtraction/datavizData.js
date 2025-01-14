@@ -7,7 +7,6 @@ class DatavizData {
 
         let postData = []
 
-        console.log(src)
         if (src === "RC") {
             // RC
             postData = data.replaceAll('"', "").replaceAll(",", ".").trim().split("\\n")

@@ -30,10 +30,10 @@ code {
 }
 
 .subtitle {
+  margin-top: 1rem;
   font-size: large;
   font-weight: 600;
-  align-self: center;
-  text-align-last: center;
+  display: block;
 }
 
 canvas {
@@ -126,4 +126,34 @@ svg.color {
   visibility: "hidden";
   margin-top: "0";
   height: "0"
+}
+
+.articleCard{
+  margin: 10px auto;
+  font-family: Open Sans;
+  font-style: italic;
+  font-size: 0.6em;
+  color: #555555;
+  padding: 1.2em 20px 1.2em 40px;
+  border-left: 1px solid #000;
+  line-height: 1.6;
+  position: relative;
+  background: #EDEDED;
+  text-align: "justify";
+  text-justify: "inter-word"; 
+  height: "auto"
+}
+
+.articleCard::before{
+  font-family:Arial;
+  content: "\201C";
+  color:#000000;
+  font-size:4em;
+  position: absolute;
+  left: 10px;
+  top:-10px;
+}
+
+.articleCard::after{
+  content: '';
 }
