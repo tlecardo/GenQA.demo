@@ -31,7 +31,7 @@ code {
 
 .subtitle {
   margin-top: 1rem;
-  font-size: large;
+  font-size: 1.2vw;
   font-weight: 600;
   display: block;
 }
@@ -132,9 +132,9 @@ svg.color {
   margin: 10px auto;
   font-family: Open Sans;
   font-style: italic;
-  font-size: 0.6em;
+  font-size: 1vw;
   color: #555555;
-  padding: 1.2em 20px 1.2em 40px;
+  padding: 1.2em 2vw 1.2em 2vw;
   border-left: 1px solid #000;
   line-height: 1.6;
   position: relative;
@@ -145,15 +145,37 @@ svg.color {
 }
 
 .articleCard::before{
-  font-family:Arial;
+  font-family: Arial;
   content: "\201C";
-  color:#000000;
-  font-size:4em;
+  color: #000000;
+  font-size: 4vw;
   position: absolute;
-  left: 10px;
-  top:-10px;
+  left: 0.3vw;
+  top:-1vw;
 }
 
 .articleCard::after{
   content: '';
 }
+
+.modal-80w {
+  min-width:80%;
+}
+
+.modal-open {
+  padding-right: 0px !important;
+}
+
+.fieldForm {
+  font-size: 1vw;
+  font-weight: 600;
+  display: block;
+}
+
+
+
+.load:hover{
+    color:red;
+    cursor:pointer;
+    transition: color 0.5s ease-out;
+     }

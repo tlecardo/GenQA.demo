@@ -1,13 +1,10 @@
 import { Col, Row, Form } from 'react-bootstrap';
 import React, { useContext } from 'react';
 import AppContext from '../../context/AppContext';
-// import * as ntc from "ntc";
 import namer from "color-namer";
 
 export function ColorInput(props) {
     const { state, api } = useContext(AppContext);
-    // namer(props.data.color).basic[0].name
-    // ntc.name(props.data.color)[1]
 
     return (
         <>
@@ -55,9 +52,9 @@ export function AxisInput(props) {
     const { api } = useContext(AppContext);
 
     return (
-        <Row style={{ paddingBottom: "5px" }}>
-            <Col xs={4}>
-                <Form.Label htmlFor={`add${props.axis}Info`} className='subtitle'>
+        <>
+            <Col xs={4} style={{ paddingBottom: "10px" }}>
+                <Form.Label htmlFor={`add${props.axis}Info`} style={{ fontSize: "1vw" }}>
                     {props.label}
                 </Form.Label>
             </Col>
@@ -73,6 +70,6 @@ export function AxisInput(props) {
 
                 />
             </Col>
-        </Row>
+        </>
     );
 }

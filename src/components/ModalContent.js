@@ -1,9 +1,7 @@
 import { Col, Container, Row } from 'react-bootstrap';
 import React, { useContext, useEffect } from 'react';
 import AppContext from '../context/AppContext';
-import { VizUnderline } from '../assets/js/design/underliners/vizUnderline';
-
-import Viz from '../components/elements/Viz'
+import VizDT from '../components/elements/VizDT'
 
 import { AxisInput, ColorInput } from './elements/Inputs';
 
@@ -15,25 +13,23 @@ function ModalContent(props) {
     if (state.dataParser === null) {
         return <></>
     }
-    
-    let viz = new VizUnderline()
 
     let resDefault = api.getDefaultValues()
 
     let dataX = resDefault["dataX"]
     let dataY = resDefault["dataY"]
     let rows_data = resDefault["rows_data"]
-    
+
     return (
         <Container>
             <Row>
-                <Col xs={6} style={{ borderRight: "0.1rem solid grey" }}>
-                    <Viz dataviz={viz.options}/>
-                </Col>
-                <Col xs={6}>
+                {/* <Col xs={5} style={{ borderRight: "0.1rem solid grey" }}>
+                    <VizDT id={state.id} local={10000} />
+                </Col> */}
+                
                     <Container>
-                        <div className='subtitle' style={{ marginBottom: "5px" }}>Axes</div>
-                        <Row style={{ marginBottom: "5px" }}>
+                        <div className='fieldForm' style={{ marginBottom: "5px", alignSelf: "center" }}>Axes</div>
+                        <Row>
                             <AxisInput
                                 label={state.language.xAxisText(state.dataParser.type)}
                                 changeStatusUncomplete={props.changeStatusUncomplete}
@@ -55,7 +51,6 @@ function ModalContent(props) {
                         ))}
                         </Row>
                     </Container>
-                </Col>
             </Row>
         </Container>
     );

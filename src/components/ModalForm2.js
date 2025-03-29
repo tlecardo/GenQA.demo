@@ -49,17 +49,18 @@ function ModalForm2(props) {
   return (
     <>
       <div
+        className={'load'}
         loadingStatus={loadingStatus}
         disabled={props.disabledStatusId || props.disabledStatusArticle || loadingStatus}
         onClick={openModal} 
-        style={{fontSize: "5cqw"}}>{">"}</div>
+        style={{fontSize: "5cqw", cursor: "pointer"}}>{">"}</div>
       <Modal
         show={show}
         onHide={handleClose}
+        dialogClassName="modal-80w"
         backdrop="static"
         keyboard={false}
         centered
-        size="xl"
       >
         <Modal.Header closeButton style={{ backgroundColor: "#38A3A5", border: paramsBorder }}>
           <Modal.Title>{state.language.titleModalText()}</Modal.Title>

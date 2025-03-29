@@ -60,7 +60,6 @@ class LanguageSelector {
         return this.language === LANGUAGE.FRENCH ? "Nom" : "Name"
     }
 
-
     xAxisText(chartType) {
         if (this.language === LANGUAGE.FRENCH) {
             return chartType === TYPE_CHART.PIE ? "Att. catégorique" : "Axe horizontal"
