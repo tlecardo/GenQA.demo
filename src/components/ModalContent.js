@@ -21,7 +21,7 @@ function ModalContent(props) {
     let rows_data = resDefault["rows_data"]
 
     return (
-        <Container>
+        <Container style={{verticalAlign: "text-top"}}>
             <Row>
                 {/* <Col xs={5} style={{ borderRight: "0.1rem solid grey" }}>
                     <VizDT id={state.id} local={10000} />
@@ -41,7 +41,7 @@ function ModalContent(props) {
                                 data={dataY}
                                 axis="Y" />
                         </Row>
-                        <hr />
+                        <hr style={{ margin:"1rem 0 0"}} />
                     </Container>
                     <Container>
                         <div className='subtitle' style={{ paddingBottom: "5px" }}>{state.language.colorText()}</div>

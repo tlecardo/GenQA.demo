@@ -179,3 +179,7 @@ svg.color {
     cursor:pointer;
     transition: color 0.5s ease-out;
      }
+
+     .atomicHistory {
+        align-content: center;
+    }

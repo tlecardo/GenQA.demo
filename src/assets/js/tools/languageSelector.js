@@ -62,7 +62,7 @@ class LanguageSelector {
 
     xAxisText(chartType) {
         if (this.language === LANGUAGE.FRENCH) {
-            return chartType === TYPE_CHART.PIE ? "Att. catégorique" : "Axe horizontal"
+            return chartType === TYPE_CHART.PIE ? "Att. catégorique" : "Axe horizont."
         }
         return chartType === TYPE_CHART.PIE ? "Categorical att." : "Horizontal axis"
     }

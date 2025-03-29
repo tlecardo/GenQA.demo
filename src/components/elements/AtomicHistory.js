@@ -27,10 +27,19 @@ function AtomicHistory(props) {
 
 
     return (
-        <Row style={{ margin: "1rem 0rem", textAlign: "center", borderRadius: "1rem", borderTop: "0.3vw solid #22577A", borderBottom: "0.3vw solid #22577A" }}>
+        <Row
+            style={{ margin: "1rem 0rem", textAlign: "center", borderRadius: "1rem", borderTop: "0.3vw solid #22577A", borderBottom: "0.3vw solid #22577A" }}
+            onMouseEnter={() => {
+                api.updateArticleText(props.article)
+                api.updateId(null, null, props.id)
+            }}
+            onMouseLeave={() => {
+                changeHiddenStatus(true)
+            }}
+        >
             <Row>
                 <Col xs={6} className="atomicHistory" id={rId}>
-                    <Container style={{ marginTop: "2vh", alignSelf: "center" }}>
+                    <Container style={{ marginTop: "2vh" }}>
                         <VizDT id={props.id} local={rId} />
                     </Container>
                 </Col>
@@ -41,29 +50,20 @@ function AtomicHistory(props) {
                             {props.article}
                         </Container>
                         :
-                        <div style={{ height: heightStatus }}>
+                        <div style={{ height: heightStatus, verticalAlign: "text-top" }}>
                             <ModalContent changeStatusUncomplete={changeStatusUncomplete} />
                         </div>
                     }
                 </Col>
-                <Col xs={1}
-                    style={{ alignContent: "center" }}
-                    onMouseEnter={() => {
-                        api.updateArticleText(props.article)
-                        api.updateId(null, null, props.id)
-                    }}>
-                    {/* <ModalForm2
-                        displayToast={text => Toaster.errorInputs(text)}
-                        disabledStatusId={false}
-                        disabledStatusArticle={false} /> */}
+                <Col xs={1} style={{ alignContent: "center" }}>
                     <div
                         className={'load'}
                         onClick={() => {
                             api.updateArticleText(props.article)
                             api.updateId(null, null, props.id)
                             if (hiddenStatus) {
-                                openModal();
-                                changeHeightStatus(document.querySelector(`.atomicHistory[id='${rId}']`).offsetHeight);
+                                api.requestDataWrapperAPI()
+                                changeHeightStatus(document.querySelector(`.atomicHistory[id='${rId}']`).offsetHeight)
                             }
                             console.log(heightStatus);
                             changeHiddenStatus(!hiddenStatus);
