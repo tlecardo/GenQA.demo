@@ -1,9 +1,11 @@
-import AtomicHistory from "../components/elements/AtomicHistory";
+import { AtomicHistory, AtomicHistoryExample } from "../components/elements/AtomicHistory";
 import { PopulateStorage } from "../assets/js/tools/populateStorage";
 import { Row, Container } from "react-bootstrap";
 
 import { useContext } from 'react';
 import AppContext from "../context/AppContext";
+
+
 
 function History() {
 
@@ -16,10 +18,8 @@ function History() {
     <Container style={{ textAlign: "center", marginTop: "1rem" }}>
       <div className="pageTitle">{state.language.historyTitleText()}</div>
       <div style={{ margin: "5px 10vw", textAlign: "left", fontSize: "15px" }}>
-        Voici un aperçu des types de visualisations de données actuellement considérées dans le processus GenQA.
-        Tous ces exemples, ainsi que leurs paires de Questions/Réponses, ont été pré-générés.
-        Par conséquent, les différents regroupements proposés le sont également.
-        Ces exemples sont classés en fonction de leurs caractéristiques : diagrammes en barres simples ou multiples, graphiques en ligne simples ou multiples, et enfin un exemple en anglais.
+        {state.language.descriptionExample()}
+        <AtomicHistoryExample/>
       </div>
       <Row>
         <div className='separator pageTitle' style={{marginTop: "1rem"}}>Barcharts</div>

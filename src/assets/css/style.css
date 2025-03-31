@@ -1,185 +1,192 @@
 @import "react-toastify/dist/ReactToastify.css";
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 html {
-  scrollbar-gutter: stable;
+    scrollbar-gutter: stable;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
 .App-header {
-  background-color: white;
-  min-height: 100vh;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: rgb(0, 0, 0);
+    background-color: white;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(0, 0, 0);
 }
 
 .HomeForm {
-  align-items: center;
+    align-items: center;
 }
 
 .subtitle {
-  margin-top: 1rem;
-  font-size: 1.2vw;
-  font-weight: 600;
-  display: block;
+    margin-top: 1rem;
+    font-size: 1.2vw;
+    font-weight: 600;
+    display: block;
 }
 
 canvas {
-  width: 100%;
-  display: block;
+    width: 100%;
+    display: block;
 }
 
 svg.color {
-  padding-right: 10px;
+    padding-right: 10px;
 }
 
-.popover{
-  max-width: 100%;
+.popover {
+    max-width: 100%;
 }
 
 .selected-bar {
-  background-color: rgba(0, 0, 0, 0);
-  -webkit-box-shadow: none;
-  box-shadow: none;
+    background-color: rgba(0, 0, 0, 0);
+    -webkit-box-shadow: none;
+    box-shadow: none;
 }
 
 .tippy-box {
-  color: #fefefe;
-  font-family: sans-serif;
-  padding: 2px 3px;
-  font-size: 5px;
-  border-radius: 2px;
-  opacity: 0.85;
+    color: #fefefe;
+    font-family: sans-serif;
+    padding: 2px 3px;
+    font-size: 5px;
+    border-radius: 2px;
+    opacity: 0.85;
 }
 
 
 /* sep */
 .separator {
-  display: flex;
-  align-items: center;
-  text-align: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
 }
 
 .separator::before {
-  content: '';
-  flex: 0.01;
-  border-bottom: 1px solid #000;
+    content: '';
+    flex: 0.01;
+    border-bottom: 1px solid #000;
 }
 
 .separator::after {
-  content: '';
-  flex: 1;
-  border-bottom: 1px solid #000;
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid #000;
 }
 
 .separator:not(:empty)::before {
-  margin-right: .25em;
+    margin-right: .25em;
 }
 
 .separator:not(:empty)::after {
-  margin-left: .25em;
+    margin-left: .25em;
 }
 
 .complete {
-  border-color: #28a745;
-  box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+    border-color: #28a745;
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
 }
 
 .uncomplete {
-  border-color: #a72828;
-  box-shadow: 0 0 0 0.2rem rgba(167, 40, 40, 0.25);
+    border-color: #a72828;
+    box-shadow: 0 0 0 0.2rem rgba(167, 40, 40, 0.25);
 }
 
 #legendRight {
-  text-align: "left";
-  font-size: "10px";
-  margin-top: "-0.5rem"
+    text-align: "left";
+    font-size: "10px";
+    margin-top: "-0.5rem"
 }
 
 #text_dataviz {
-  margin-bottom: "0rem";
-  font-size: "20px";
-  text-align: 'center'
+    margin-bottom: "0rem";
+    font-size: "20px";
+    text-align: 'center'
 }
 
 #text_article {
-  margin-bottom: "0rem";
-  margin-top: "-3rem";
-  font-size: "20px";
-  text-align: 'center'
+    margin-bottom: "0rem";
+    margin-top: "-3rem";
+    font-size: "20px";
+    text-align: 'center'
 }
 
 #generate_file {
-  text-align: "center";
-  visibility: "hidden";
-  margin-top: "0";
-  height: "0"
+    text-align: "center";
+    visibility: "hidden";
+    margin-top: "0";
+    height: "0"
 }
 
-.articleCard{
-  margin: 10px auto;
-  font-family: Open Sans;
-  font-style: italic;
-  font-size: 1vw;
-  color: #555555;
-  padding: 1.2em 2vw 1.2em 2vw;
-  border-left: 1px solid #000;
-  line-height: 1.6;
-  position: relative;
-  background: #EDEDED;
-  text-align: "justify";
-  text-justify: "inter-word"; 
-  height: "auto"
+.articleCard {
+    margin: 10px auto;
+    font-family: Open Sans;
+    font-style: italic;
+    font-size: 1vw;
+    color: #555555;
+    padding: 1.2em 2vw 1.2em 2vw;
+    border-left: 1px solid #000;
+    line-height: 1.6;
+    position: relative;
+    background: #EDEDED;
+    text-align: "justify";
+    text-justify: "inter-word";
+    height: "auto"
 }
 
-.articleCard::before{
-  font-family: Arial;
-  content: "\201C";
-  color: #000000;
-  font-size: 4vw;
-  position: absolute;
-  left: 0.3vw;
-  top:-1vw;
+.articleCard::before {
+    font-family: Arial;
+    content: "\201C";
+    color: #000000;
+    font-size: 4vw;
+    position: absolute;
+    left: 0.3vw;
+    top: -1vw;
 }
 
-.articleCard::after{
-  content: '';
+.articleCard::after {
+    content: '';
 }
 
 .modal-80w {
-  min-width:80%;
+    min-width: 80%;
 }
 
 .modal-open {
-  padding-right: 0px !important;
+    padding-right: 0px !important;
 }
 
 .fieldForm {
-  font-size: 1vw;
-  font-weight: 600;
-  display: block;
+    font-size: 1vw;
+    font-weight: 600;
+    display: block;
 }
 
 
 
-.load:hover{
-    color:red;
-    cursor:pointer;
+.load:hover {
+    color: red;
+    cursor: pointer;
     transition: color 0.5s ease-out;
-     }
+}
 
-     .atomicHistory {
-        align-content: center;
-    }
+.atomicHistory {
+    align-content: center;
+}
+
+
+.form-control-sm {
+    height: 2vw;
+    min-height: 2vw;
+    font-size: 1vw;
+}

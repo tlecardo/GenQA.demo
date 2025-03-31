@@ -60,7 +60,7 @@ export function AxisInput(props) {
                     </Form.Label>
                 </Row>
             </Col>
-            <Col xs={9}>
+            <Col xs={9} styles={{height:"1vw"}}>
                 <Form.Control
                     size='sm'
                     type="text"

@@ -306,7 +306,7 @@ class VizUnderline {
                     }
 
                     /*
-                    cur_serie["markLine"] = {
+                                        cur_serie["markLine"] = {
                         symbol: ['none', 'none'],
                         label: { show: false },
                         lineStyle: { color: `rgba(${convertColor(cur_serie["lineStyle"]["color"])}, 0.8)`, width: 1 },
