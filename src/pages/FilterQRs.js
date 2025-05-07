@@ -106,6 +106,8 @@ function FilterQRs() {
 
     let curItem = local_data[questionIndex]
 
+    console.log(curItem)
+
     if (globalView === 2) {
         curItem = {
             "question": " BLANK ",
@@ -133,8 +135,6 @@ function FilterQRs() {
 
     globalStatus.addSubQuestionStatus(questionSubIndex, changeSubQuestionIndex, { nb_subquestions: 10 })
 
-    console.log("AAAAAAAAAAAAA")
-    console.log(state.dataParser)
     let vizClue = new VizUnderline(state.dataParser.data[0].data.length, state.dataParser.type)
 
     let articleClue = new ArticleUnderline(state.article)
