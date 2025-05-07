@@ -15,9 +15,9 @@ function History() {
   // pop.clean()
 
   return (
-    <Container style={{ textAlign: "center", marginTop: "1rem" }}>
+    <Container className="historyPage" style={{ textAlign: "center", marginTop: "1rem" }}>
       <div className="pageTitle">{state.language.historyTitleText()}</div>
-      <div style={{ margin: "5px 10vw", textAlign: "left", fontSize: "15px" }}>
+      <div style={{ margin: "5px 10vw", textAlign: "justify", fontSize: "15px" }}>
         {state.language.descriptionExample()}
         <AtomicHistoryExample/>
       </div>
@@ -72,6 +72,13 @@ function History() {
           id="jYsX2"
           article="L'indice des prix à la consommation (IPC) a progressé de 3,4 % en décembre par rapport à la même période il y a un an. Comme le prévoyaient les économistes, l'IPC a légèrement rebondi : il était de 3,1 % en novembre. Cette accélération de l'inflation en décembre survient après deux mois de relative stabilité de l'IPC à 3,1 % en novembre et en octobre. Cette accélération de l’inflation annuelle le mois dernier est essentiellement attribuable au prix de l’essence qui a augmenté de 1,4 % d’une année à l’autre en décembre alors qu’il affichait un recul de 7,7 % en novembre, explique Statistique Canada. Si on exclut l'essence de l'équation, l'inflation était de + 3,5 % en décembre au Canada, en recul de 0,1 point de pourcentage par rapport à novembre (+ 3,6 %)."
           url="https://ici.radio-canada.ca/nouvelle/2041983/inflation-decembre-2023-canada-bilan-annee"
+        />
+        <AtomicHistory
+          titleViz="Performance des prix de référence à Saskatoon"
+          titleArticle="Des maisons vendues 100000$ au-delà du prix demandé à Saskatoon"
+          id="nrFj3"
+          article="Acheter une maison à Saskatoon est plus cher que jamais. Les prix du marché immobilier ont atteint un sommet inédit et l’inventaire disponible est à son plus faible depuis 2008. Pendant la dernière année seulement, la valeur des maisons, peu importe le type, a augmenté d’environ 5000 $ chaque mois. Selon l’Indice des prix des maisons, en moyenne, la valeur des quatre types de propriétés a augmenté de près de 8 % par rapport au mois de mars de l'année dernière, de 37 % par rapport à il y a cinq ans et de 218 % par rapport à il y a 20 ans."
+          url="https://ici.radio-canada.ca/nouvelle/2160036/marche-immobilier-maison-saskatoon"
         />
         <div className='separator pageTitle' style={{marginTop: "1rem"}}>En anglais</div>
         <AtomicHistory

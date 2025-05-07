@@ -8,9 +8,11 @@ class DatavizData {
         let postData = []
 
         if (src === "RC") {
+            console.log(src)
             // RC
             postData = data.replaceAll('"', "").replaceAll(",", ".").trim().split("\\n")
             postData = postData.map(x => x.split("\\t"))
+
         } else {
             // CBC
             postData = data.replaceAll('"', "").trim().split("\\n")

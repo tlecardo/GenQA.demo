@@ -87,7 +87,7 @@ export class Extractor {
     metadata(type = null) {
 
         const metadata = {
-            title: this.document.querySelector("#header .headline-block .block-inner").innerText,
+            title: this.document.querySelector("#header .headline-block .block-inner") ? this.document.querySelector("#header .headline-block .block-inner").innerText : this.document.querySelector(".block-headline").innerText,
             type: type,
             subtitle: null,
             source: null,
@@ -180,32 +180,37 @@ export class Extractor {
 
     lines(xType = null, yType = null) {
 
-        let linesData = [...this.document.querySelector("g.lines").childNodes].map((node, i) => {
-            let item = node.children[0]
-            let arrayText = item.getAttribute("aria-datavaluearray")
-            let color = this.colorCode(item.getAttribute("style"))
+        let linesData = [...this.document.querySelector("g.lines").childNodes]
+            .filter(node => node.childNodes.length !== 0)
+            .map((node, i) => {
 
-            let dataS = [...this.data.data[1]].slice(1).map((e, i) =>
-                this.data.subData.map(x => Object({ value: this.convert(x[i + 1], yType), color: color })))
+                let item = node.children[0].firstChild
+                console.log(node.children[0].firstChild)
+                let arrayText = item.getAttribute("aria-datavaluearray")
 
-            // link color with data
-            let index = 0
-            let currentLast = 0
-            dataS.forEach((row, i) => {
-                let len = arrayText.lastIndexOf(row[row.length - 1].value)
-                if (len > currentLast) {
-                    index = i
-                    currentLast = len
+                let color = this.colorCode(item.getAttribute("style"))
+
+                let dataS = [...this.data.data[1]].slice(1).map((e, i) =>
+                    this.data.subData.map(x => Object({ value: this.convert(x[i + 1], yType), color: color })))
+
+                // link color with data
+                let index = 0
+                let currentLast = 0
+                dataS.forEach((row, idx) => {
+                    let len = arrayText ? arrayText.lastIndexOf(row[row.length - 1].value) : 0
+                    if (len > currentLast) {
+                        index = idx
+                        currentLast = len
+                    }
+                })
+
+                return {
+                    text: item.getAttribute("aria-label"),
+                    data: dataS[arrayText ? index: i],
+                    color: color,
+                    label: item.getAttribute("aria-label") //.replace("'", "").match(/(?:"[^"]*"|^[^"]*$)/)[0].replace(/"/g, "")
                 }
             })
-
-            return {
-                text: item.getAttribute("aria-label"),
-                data: dataS[index],
-                color: color,
-                label: item.getAttribute("aria-label").replace("'", "").match(/(?:"[^"]*"|^[^"]*$)/)[0].replace(/"/g, "")
-            }
-        })
 
         return linesData
     }
@@ -285,7 +290,7 @@ export class Extractor {
 
             if (axis.orientation === "horizontal") {
                 axis["values"] = this.data.subData.map(x => this.convert(x[0], axis.type))
-                
+
                 if ((axis.type === TYPE_DATA.DATETIME && axis.values[0].normalizedDate > axis.values[axis.values.length - 1].normalizedDate)
                     || axis.values[0] > axis.values[axis.values.length - 1]) {
                     axis["values"].reverse()

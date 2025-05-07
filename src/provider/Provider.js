@@ -47,7 +47,7 @@ function Provider({ children }) {
 
             let dict_q = {}
             for (let row of state.questions.clusters) {
-                if (row.diff_word !== null) {
+                if (row.diff_word !== null && row.diff_word.length > 0) {
                     let questions = Array.from({ length: row.diff_word[0][1].length }, () => `${row.question}`.split(" "))
                     for (let idx_qst in row.diff_word[0][1]) {
                         for (let idx_word in row.diff_word) {
@@ -369,7 +369,6 @@ function Provider({ children }) {
 
             let svg_values = localStorage.getItem(state.id + "data");
             let svg_dom = localStorage.getItem(state.id + "dom")
-
             svg_dom = svg_dom.slice(1,-1);
             svg_dom = svg_dom.replaceAll(`'`, `"`)
 
