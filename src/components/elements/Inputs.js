@@ -1,28 +1,25 @@
 import { Col, Row, Form } from 'react-bootstrap';
 import React, { useContext } from 'react';
 import AppContext from '../../context/AppContext';
-// import * as ntc from "ntc";
 import namer from "color-namer";
 
 export function ColorInput(props) {
     const { state, api } = useContext(AppContext);
-    // namer(props.data.color).basic[0].name
-    // ntc.name(props.data.color)[1]
 
     return (
         <>
-            <Col xs={4} style={{ paddingBottom: "10px" }}>
+            <Col xs={3} style={{ paddingBottom: "10px" }}>
                 <Row>
-                    <Col xs={3}>
+                    <Col xs={4}>
                         <div style={{
                             alignSelf: 'center',
-                            width: "30px",
-                            height: "30px",
+                            width: "2vw",
+                            height: "2vw",
                             backgroundColor: props.data.color,
                             borderRadius: "50%"
                         }} />
                     </Col>
-                    <Col xs={9}>
+                    <Col xs={8}>
                         <Form.Control
                             size='sm'
                             type="text"
@@ -35,7 +32,7 @@ export function ColorInput(props) {
                     </Col>
                 </Row>
             </Col>
-            <Col xs={8}>
+            <Col xs={9}>
                 <Form.Control
                     size='sm'
                     type="text"
@@ -55,13 +52,15 @@ export function AxisInput(props) {
     const { api } = useContext(AppContext);
 
     return (
-        <Row style={{ paddingBottom: "5px" }}>
-            <Col xs={4}>
-                <Form.Label htmlFor={`add${props.axis}Info`} className='subtitle'>
-                    {props.label}
-                </Form.Label>
+        <>
+            <Col xs={3} style={{ paddingBottom: "10px" }}>
+                <Row>
+                    <Form.Label htmlFor={`add${props.axis}Info`} style={{ fontSize: "1vw", verticalAlign: "text-top" }}>
+                        {props.label}
+                    </Form.Label>
+                </Row>
             </Col>
-            <Col xs={8}>
+            <Col xs={9} styles={{height:"1vw"}}>
                 <Form.Control
                     size='sm'
                     type="text"
@@ -70,9 +69,8 @@ export function AxisInput(props) {
                     defaultValue={props.data}
                     className='updateInfo'
                     onChange={() => props.changeStatusUncomplete(api.testEmptyUpdateInfo())}
-
                 />
             </Col>
-        </Row>
+        </>
     );
 }

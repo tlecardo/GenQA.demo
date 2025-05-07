@@ -33,6 +33,22 @@ class LanguageSelector {
         return this.language === LANGUAGE.FRENCH ? convertName[name] : name
     }
 
+    //examples page
+
+    //description
+    descriptionExample() {
+        return this.language === LANGUAGE.FRENCH ? "Voici un aperçu des différents types de visualisations de données actuellement considérées par la méthodologie GenQA. Tous ces exemples, ainsi que leurs paires de Questions/Réponses, ont été pré-générés. Par conséquent, les différents regroupements et les couples Q/As proposés sont identiques pour chaque exécution. Ces exemples sont classés en fonction de leurs caractéristiques : diagrammes en barres simples ou multiples, graphiques en ligne simples ou multiples, et enfin un exemple en anglais. Pour chaque exemple, un lien vers l'article de presse ainsi que vers la visualisation de données est également fourni sur le modèle ci-dessous. Pour charger un exemple, cliquez sur `>`, à droite, afin d'accéder à l'édition des attributs. Une fois, ceux-ci complétés, cliquez une seconde fois sur le même symbole `>` ." : "Here is an overview of the different types of data-visualizations currently considered by the GenQA methodology. All these examples, along with their Q/A pairs, have been pre-generated. Therefore, the different clusters and Q/A pairs proposed are identical. These examples are classified according to their characteristics: single or multiple barcharts, single or multiple linecharts, and finally an example in English. For each example, a link to the press article as well as to the data-visualization is also provided on the template below:"
+    }
+
+    //links
+    link2Article() {
+        return this.language === LANGUAGE.FRENCH ? "Lien vers l'article de presse" : "Link to the press article"
+    }
+
+    link2Viz() {
+        return this.language === LANGUAGE.FRENCH ? "Lien vers la visualisation de données" : "Link to the data-visualization"
+    }
+
     // header
     homeText() {
         return this.language === LANGUAGE.FRENCH ? "Accueil" : "Home"
@@ -60,10 +76,9 @@ class LanguageSelector {
         return this.language === LANGUAGE.FRENCH ? "Nom" : "Name"
     }
 
-
     xAxisText(chartType) {
         if (this.language === LANGUAGE.FRENCH) {
-            return chartType === TYPE_CHART.PIE ? "Att. catégorique" : "Axe horizontal"
+            return chartType === TYPE_CHART.PIE ? "Att. catégorique" : "Axe horizont."
         }
         return chartType === TYPE_CHART.PIE ? "Categorical att." : "Horizontal axis"
     }
@@ -96,6 +111,14 @@ class LanguageSelector {
             return this.language === LANGUAGE.FRENCH ? "  En cours ..." : " In progress ..."
         }
         return this.language === LANGUAGE.FRENCH ? "Charger" : "Load"
+    }
+
+    buttonTextHoverArticle() {
+        return this.language === LANGUAGE.FRENCH ? "Charger cet article" : "Load this press article"
+    }
+
+    buttonTextHoverQA() {
+        return this.language === LANGUAGE.FRENCH ? "Générer les couples de Questions / Réponses" : "Load Questions / Answers pairs"
     }
 
     // progress bar

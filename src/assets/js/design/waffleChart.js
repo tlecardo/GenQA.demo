@@ -269,7 +269,7 @@ class WaffleChart {
         
         for (let row of data_sort) {
             
-            if (row.diff_word !== null) {
+            if (row.diff_word !== null && row.diff_word.length > 0) {
                 
                 let questions = Array.from({ length: row.diff_word[0][1].length }, () => `${row.question}`.split(" "))
                 for (let idx_qst in row.diff_word[0][1]) {

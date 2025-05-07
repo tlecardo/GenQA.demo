@@ -1,6 +1,6 @@
 import { Col, Container, Row } from 'react-bootstrap';
 
-import React, { useContext, useState, useEffect, useMemo } from 'react';
+import React, { useContext, useState, useEffect } from 'react';
 import AppContext from '../context/AppContext';
 import { VizUnderline } from '../assets/js/design/underliners/vizUnderline';
 import { ArticleUnderline } from '../assets/js/design/underliners/articleUnderline';
@@ -58,7 +58,7 @@ function extractSubQuestions(row) {
 function getAllRows(data) {
     let dict_q = {}
     for (let row of data) {
-        if (row.diff_word !== null) {
+        if (row.diff_word !== null && row.diff_word.length > 0) {
             let questions = Array.from({ length: row.diff_word[0][1].length }, () => `${row.question}`.split(" "))
             for (let idx_qst in row.diff_word[0][1]) {
                 for (let idx_word in row.diff_word) {
@@ -105,6 +105,7 @@ function FilterQRs() {
     local_data.sort(Order.alphabetic)
 
     let curItem = local_data[questionIndex]
+
     console.log(curItem)
 
     if (globalView === 2) {
@@ -115,8 +116,6 @@ function FilterQRs() {
             "src": [curItem.src[questionSubIndex]],
             "cluster": curItem.cluster
         }
-
-        console.log(curItem)
     }
 
     let opts = {

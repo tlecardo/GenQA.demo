@@ -306,7 +306,7 @@ class VizUnderline {
                     }
 
                     /*
-                    cur_serie["markLine"] = {
+                                        cur_serie["markLine"] = {
                         symbol: ['none', 'none'],
                         label: { show: false },
                         lineStyle: { color: `rgba(${convertColor(cur_serie["lineStyle"]["color"])}, 0.8)`, width: 1 },
@@ -365,6 +365,8 @@ class VizUnderline {
      */
     coverage(data, opts) {
         this.#removeMarks()
+
+        console.log(data)
 
         if (Array.isArray(data)) {
             this.addData(data, Object.keys(opts).includes("selectQuestions") ? opts["selectQuestions"] : null)
