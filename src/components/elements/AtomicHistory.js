@@ -120,7 +120,7 @@ function AtomicHistory(props) {
                             api.updateId(null, null, props.id)
                             if (hiddenStatus) {
                                 api.requestDataWrapperAPI()
-                                changeHeightStatus(document.querySelector(`.atomicHistory[id='${rId}']`).offsetHeight)
+                                changeHeightStatus(document.querySelector(`.atomicHistory[id='${rId}']`).offsetHeight + (props.offset ? props.offset : 0))
                             } else {
                                 loadQAs();
                             }

@@ -74,6 +74,7 @@ function History() {
           url="https://ici.radio-canada.ca/nouvelle/2041983/inflation-decembre-2023-canada-bilan-annee"
         />
         <AtomicHistory
+          offset={100}
           titleViz="Performance des prix de référence à Saskatoon"
           titleArticle="Des maisons vendues 100000$ au-delà du prix demandé à Saskatoon"
           id="nrFj3"

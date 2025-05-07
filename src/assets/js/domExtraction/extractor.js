@@ -184,10 +184,8 @@ export class Extractor {
             .filter(node => node.childNodes.length !== 0)
             .map((node, i) => {
 
-                let item = node.children[0].firstChild
-                console.log(node.children[0].firstChild)
+                let item = node.children[0].firstChild ? node.children[0].firstChild : node.children[0];
                 let arrayText = item.getAttribute("aria-datavaluearray")
-
                 let color = this.colorCode(item.getAttribute("style"))
 
                 let dataS = [...this.data.data[1]].slice(1).map((e, i) =>

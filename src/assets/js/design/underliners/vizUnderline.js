@@ -250,8 +250,6 @@ class VizUnderline {
             else attr_data[attr] = [data]
         }
 
-        console.log(attr_data)
-
         for (let cur_attr of Object.keys(attr_data)) {
 
             let segmenter = new Segmenter(attr_data[cur_attr])
@@ -263,9 +261,6 @@ class VizUnderline {
                 let indexRows = this.options["series"].indexOf(cur_serie)
                 let cur_indexes = seg["seg"]
                 let cur_freq = seg["freq"]
-
-                console.log(this.options["series"])
-                console.log(cur_serie)
 
                 if (cur_indexes.length === 1) {
                     let markers = {
